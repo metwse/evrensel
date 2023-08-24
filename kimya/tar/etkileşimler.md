@@ -56,6 +56,24 @@ Elektron alışverişi sonucu oluşan zıt yüklü iyonların birbirini elektros
 5. İyonik yapılı bileşikler su gibi polar çözücülerde iyon dipol etkileşimi oluşturarak çözünürler.
 6. Katı halde elektrik akımını iletmez. Eritilerek sıvı hale dönüştürüldüklerinde ya da suda çözündüklerinde elektriği iletir.
 
-
-**Not:** Bileşiğin iyonik karakteri sorulursa bileşiği oluşturan elementler arası elektronegatiflik farkına bakılır.
+**Not:** Bileşiğin iyonik karakteri sorulursa bileşiği oluşturan elementler arası elektronegatiflik farkına bakılır.\
 **Not:** İyonik bağın sağlamlığı önce iyonların yüküne sonra iyonlar arasındaki uzaklığa bakılır. 
+
+|+1|+2|+3|+4|
+|-|-|-|-|
+|Cu⁺¹ Ⅰ|Cu²⁺ Ⅱ|Al|Pb⁴⁺ Ⅳ|
+|Hg⁺¹ Ⅰ|Hg²⁺ Ⅱ|Fe³⁺ Ⅲ|Sn⁴⁺ Ⅳ|
+|Ag|Zn|Cr³⁺ Ⅲ||
+| |Fe²⁺ Ⅱ|||
+| |Pb²⁺ Ⅱ|||
+
+|kök|ismi|
+|-|-|
+|NH₄⁺|Amonyum|
+|CH₃COO⁻|Asetat|
+|ClO⁻|hipoklorit|
+|ClO₂⁻|klorit|
+|ClO₃⁻|klorat|
+|ClO₄⁻|perklorat|
+
+### İyonik Bağlı Bileşiklerin Adlandırılması
