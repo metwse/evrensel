@@ -59,7 +59,7 @@ Elektron alışverişi sonucu oluşan zıt yüklü iyonların birbirini elektros
 **Not:** Bileşiğin iyonik karakteri sorulursa bileşiği oluşturan elementler arası elektronegatiflik farkına bakılır.\
 **Not:** İyonik bağın sağlamlığı önce iyonların yüküne sonra iyonlar arasındaki uzaklığa bakılır. 
 
-|+1|+2|+3|+4|
+|1+|2+|3+|4+|
 |-|-|-|-|
 |Cu⁺¹ Ⅰ|Cu²⁺ Ⅱ|Al|Pb⁴⁺ Ⅳ|
 |Hg⁺¹ Ⅰ|Hg²⁺ Ⅱ|Fe³⁺ Ⅲ|Sn⁴⁺ Ⅳ|
@@ -67,13 +67,13 @@ Elektron alışverişi sonucu oluşan zıt yüklü iyonların birbirini elektros
 | |Fe²⁺ Ⅱ|||
 | |Pb²⁺ Ⅱ|||
 
-|kök|ismi|
-|-|-|
-|NH₄⁺|Amonyum|
-|CH₃COO⁻|Asetat|
-|ClO⁻|hipoklorit|
-|ClO₂⁻|klorit|
-|ClO₃⁻|klorat|
-|ClO₄⁻|perklorat|
+|1-|ismi|||||
+|-|-|-|-|-|-|
+|NH₄⁺|Amonyum|CO₂⁻²|Karbonat|PO₄⁻³|Fosfat|
+|CH₃COO⁻|Asetat|SO₄⁻²|Sülfat|||
+|ClO⁻|hipoklorit|MnO₄⁻²|Manganat|||
+|ClO₂⁻|klorit|CrO₄⁻²|Kromat|||
+|ClO₃⁻|klorat|Cr₂O₇⁻²|Dikromat|||
+|ClO₄⁻|perklorat|||||
 
 ### İyonik Bağlı Bileşiklerin Adlandırılması
