@@ -40,7 +40,7 @@ Elektron alışverişi sonucu oluşan zıt yüklü iyonların birbirini elektros
 `katyon (+) (-) anyon`
 
 *NaCl bileşiğinin oluşumu ve levis yapısı:*\
-![image](nacl-levis-yapısı.svg)
+![image](img/nacl-levis-yapısı.svg)
 
 ### İyonik Bileşiklerin Özellikleri
 1. Her iyonik bileşiğin *kendine özgü bir kristal örgü yapısı* vardır. Bu kristal örgü yapısı + yüklü iyonun etrafını belirli sayıda - yüklü iyon sarması ve - yüklü iyonun etrafıni belirli sayıda + yüklü iyonun sarmasıyla oluşur.
