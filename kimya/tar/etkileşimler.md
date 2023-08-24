@@ -25,7 +25,7 @@ _Moleküller arasında_ ya da _soygaz atomları arasında_ oluşan etkileşimler
     ⅴ İndüklenmiş Dipol - İndüklenmiş Dipol (London)
 
 
-*örnek* 
+*örnek*\ 
 ⅰ Etil alkol moleküllerinde etil alkol molekülleri arasında oluşan etkileşim\
 ⅱ Bütün moleküllerde, o molekülü oluşturan atomlar arasındaki etkileşim\
 ⅲ Maddenin katı fazında o maddeyi oluşturan moleküller arasındaki etkileşim\
@@ -86,6 +86,7 @@ Elektron alışverişi sonucu oluşan zıt yüklü iyonların birbirini elektros
 |metal|kök|
 |kök|ametal|
 |kök|kök|
+
 Katyon Adı + Anyon Adı\
 NaHSO₄ ⇒  Sodyum bisülfat\
 (NH₄)₂S ⇒  Amonyum sülfür\
