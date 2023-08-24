@@ -42,6 +42,7 @@ Elektron alışverişi sonucu oluşan zıt yüklü iyonların birbirini elektros
 *NaCl bileşiğinin oluşumu ve lewis yapısı:*\
 ![image](img/nacl-lewis-yapısı.svg)
 
+
 ### İyonik Bileşiklerin Özellikleri
 1. Her iyonik bileşiğin *kendine özgü bir kristal örgü yapısı* vardır. Bu kristal örgü yapısı + yüklü iyonun etrafını belirli sayıda - yüklü iyon sarması ve - yüklü iyonun etrafıni belirli sayıda + yüklü iyonun sarmasıyla oluşur.
 ```js
@@ -67,7 +68,7 @@ Elektron alışverişi sonucu oluşan zıt yüklü iyonların birbirini elektros
 | |Fe²⁺ Ⅱ|||
 | |Pb²⁺ Ⅱ|||
 
-|1-|ismi|||||
+|1-|ismi|2-|ismi|3-|ismi|
 |-|-|-|-|-|-|
 |NH₄⁺|Amonyum|CO₂⁻²|Karbonat|PO₄⁻³|Fosfat|
 |CH₃COO⁻|Asetat|SO₄⁻²|Sülfat|||
@@ -75,5 +76,21 @@ Elektron alışverişi sonucu oluşan zıt yüklü iyonların birbirini elektros
 |ClO₂⁻|klorit|CrO₄⁻²|Kromat|||
 |ClO₃⁻|klorat|Cr₂O₇⁻²|Dikromat|||
 |ClO₄⁻|perklorat|||||
+|MnO₄⁻|Permanganat|||||
+
 
 ### İyonik Bağlı Bileşiklerin Adlandırılması
+|katyon|anyon|
+|-|-|
+|metal|ametal|
+|metal|kök|
+|kök|ametal|
+|kök|kök|
+Katyon Adı + Anyon Adı\
+NaHSO₄ ⇒  Sodyum bisülfat\
+(NH₄)₂S ⇒  Amonyum sülfür\
+CH₃COONa ⇒  Sodyum asetat
+
+**Not:** Katyon değişken değerlik alabilen bir metal ise (Fe, Cu, Pb, Hg, Cr, Sn, Mn) metalin değerliği mutlaka belirtilmelidir.\
+Fe₃O₂ ⇒  Demir (II) oksit\
+Cu₂S ⇒  Bakır (I) sülfür
