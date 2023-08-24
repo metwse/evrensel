@@ -1,6 +1,6 @@
 # Kimyasal Türler Arasında Oluşabilecek Etkileşimler
-çekme kuvveti > itme kuvveti ⇒  güçlü etkileşim (kimyasal bağ)
-çekme kuvveti ≌ itme kuvveti ⇒  zayıf etkileşim (fiziksel bağ)
+çekme kuvveti > itme kuvveti ⇒  güçlü etkileşim (kimyasal bağ)\
+çekme kuvveti ≌ itme kuvveti ⇒  zayıf etkileşim (fiziksel bağ)\
 çekme kuvveti < itme kuvveti ⇒  etkileşim oluşmaz
 
 
@@ -11,35 +11,35 @@ _Molekül içinde_ atomlar arasında oluşan etkileşimlerdir.
 
     ⅰ İyonik Bağ\
     ⅱ Kovalent Bağ\
-    ⅲ Metalik Bağ\
+    ⅲ Metalik Bağ
 
 
 2. Zayıf Etkileşimler (Fiziksel Bağ)
 _Moleküller arasında_ ya da _soygaz atomları arasında_ oluşan etkileşimlerdir.
 **Not:** Sadece maddenin yoğun fazlarında (katı, sıvı) gözlenebilir.
 
-    ⅰ Dipol - Dipol
-    ⅱ İyon - Dipol
-    ⅲ İndüklenmiş Dipol - Dipol
-    ⅳ İndüklenmiş Dipol - İyon
+    ⅰ Dipol - Dipol\
+    ⅱ İyon - Dipol\
+    ⅲ İndüklenmiş Dipol - Dipol\
+    ⅳ İndüklenmiş Dipol - İyon\
     ⅴ İndüklenmiş Dipol - İndüklenmiş Dipol (London)
 
 
 *örnek* 
-ⅰ Etil alkol moleküllerinde etil alkol molekülleri arasında oluşan etkileşim
-ⅱ Bütün moleküllerde, o molekülü oluşturan atomlar arasındaki etkileşim
-ⅲ Maddenin katı fazında o maddeyi oluşturan moleküller arasındaki etkileşim
-Yukarıdaki etkileşim türlerinden hangileri zayıf etkileşim örneğidir?
+ⅰ Etil alkol moleküllerinde etil alkol molekülleri arasında oluşan etkileşim\
+ⅱ Bütün moleküllerde, o molekülü oluşturan atomlar arasındaki etkileşim\
+ⅲ Maddenin katı fazında o maddeyi oluşturan moleküller arasındaki etkileşim\
+Yukarıdaki etkileşim türlerinden hangileri zayıf etkileşim örneğidir?\
     ⅰ ve ⅲ
 
 
 # Güçlü Etkileşimler
 
 ## 1. İyonik Bağ
-Elektron alışverişi sonucu oluşan zıt yüklü iyonların birbirini elektrostatik çekim kuvvetiyle çekmesi sonucu oluşan bağa *iyonik bağ* denir.
+Elektron alışverişi sonucu oluşan zıt yüklü iyonların birbirini elektrostatik çekim kuvvetiyle çekmesi sonucu oluşan bağa *iyonik bağ* denir.\
 `katyon (+) (-) anyon`
 
-*NaCl bileşiğinin oluşumu ve levis yapısı:*
+*NaCl bileşiğinin oluşumu ve levis yapısı:*\
 ![image](nacl-levis-yapısı.svg)
 
 ### İyonik Bileşiklerin Özellikleri
