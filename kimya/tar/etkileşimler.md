@@ -9,9 +9,9 @@
 1. Güçlü Etkileşimler (Kimyasal Bağ)
 _Molekül içinde_ atomlar arasında oluşan etkileşimlerdir.
 
-    ⅰ İyonik Bağ
-    ⅱ Kovalent Bağ
-    ⅲ Metalik Bağ
+    ⅰ İyonik Bağ\
+    ⅱ Kovalent Bağ\
+    ⅲ Metalik Bağ\
 
 
 2. Zayıf Etkileşimler (Fiziksel Bağ)
@@ -56,3 +56,6 @@ Elektron alışverişi sonucu oluşan zıt yüklü iyonların birbirini elektros
 5. İyonik yapılı bileşikler su gibi polar çözücülerde iyon dipol etkileşimi oluşturarak çözünürler.
 6. Katı halde elektrik akımını iletmez. Eritilerek sıvı hale dönüştürüldüklerinde ya da suda çözündüklerinde elektriği iletir.
 
+
+**Not:** Bileşiğin iyonik karakteri sorulursa bileşiği oluşturan elementler arası elektronegatiflik farkına bakılır.
+**Not:** İyonik bağın sağlamlığı önce iyonların yüküne sonra iyonlar arasındaki uzaklığa bakılır. 

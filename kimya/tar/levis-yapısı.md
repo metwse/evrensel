@@ -1,6 +1,6 @@
 # Levis Nokta Yapısı
 Değerlik elektronlarının element sembolü etrafında noktalarla gösterilmesidir. Önce sembolün 4 tarafına birer elektron yazılır. Eğer 4'ten fazla elektron varsa bu elektronların yanına ikinci bir elektron yazılır.
-![image](levis-örneği.svg)
+![image](molekül-örneği.svg)
 
 
 **Not:** Metaller kararlı katyonlarıni oluşturduğunda son katmanında elektron kalmaz, sadece sembol üzerine iyon yükü gelir.
