@@ -39,8 +39,8 @@ Yukarıdaki etkileşim türlerinden hangileri zayıf etkileşim örneğidir?\
 Elektron alışverişi sonucu oluşan zıt yüklü iyonların birbirini elektrostatik çekim kuvvetiyle çekmesi sonucu oluşan bağa *iyonik bağ* denir.\
 `katyon (+) (-) anyon`
 
-*NaCl bileşiğinin oluşumu ve levis yapısı:*\
-![image](img/nacl-levis-yapısı.svg)
+*NaCl bileşiğinin oluşumu ve lewis yapısı:*\
+![image](img/nacl-lewis-yapısı.svg)
 
 ### İyonik Bileşiklerin Özellikleri
 1. Her iyonik bileşiğin *kendine özgü bir kristal örgü yapısı* vardır. Bu kristal örgü yapısı + yüklü iyonun etrafını belirli sayıda - yüklü iyon sarması ve - yüklü iyonun etrafıni belirli sayıda + yüklü iyonun sarmasıyla oluşur.

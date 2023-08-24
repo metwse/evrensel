@@ -1,4 +1,4 @@
-# Levis Nokta Yapısı
+# Lewis Nokta Yapısı
 Değerlik elektronlarının element sembolü etrafında noktalarla gösterilmesidir. Önce sembolün 4 tarafına birer elektron yazılır. Eğer 4'ten fazla elektron varsa bu elektronların yanına ikinci bir elektron yazılır.\
 ![image](img/molekül-örneği.svg)
 
@@ -8,5 +8,5 @@ Değerlik elektronlarının element sembolü etrafında noktalarla gösterilmesi
 
 
 Ametallerin kararlı iyon yapılarında son katmanında bulunan elektronlar gösterilir.\
-![image](img/ametallerin-levis-gösterimi.svg)\
+![image](img/ametallerin-lewis-gösterimi.svg)\
 **Not:** Elementlerin kararlı soygaz yapılarına benzemesine *oktet* veya *dublet kararlılığı* denir. 

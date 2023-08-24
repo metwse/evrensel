@@ -2,7 +2,7 @@
 
 ## Atom
 Elementin özelliklerini gösteren en küçük birimdir. Elementlerin çoğu kararsızdır.\
-Levis elektrin yapısında eşleşmemiş tek elektron içeren atomlar kararsızdır.
+Lewis elektrin yapısında eşleşmemiş tek elektron içeren atomlar kararsızdır.
 
 ₁₁Na ₂)₈)₁) ⇒  Na•\
 ₂He ₂) ⇒  He:
