@@ -69,7 +69,7 @@ dikkate alınmaz
         Koparıcı dudak
         Azı dişleri
         Kesici dişler
-        Işlevsiz köpek dişleri
+        İşlevsiz köpek dişleri
         Dil
     )
     Yutak
@@ -110,3 +110,10 @@ dikkate alınmaz
     etçillere benzer
 }
 ```
+
+### Embriyonik Gelişim Benzerliği ve Embriyonik Tabaka Sayısı
+#### İki Tabakalı
+![image](img/iki-tabakalı-canlılar.svg)
+
+#### Üç Tabakalı
+![image](img/üç-tabakalı-canlılar.svg)
