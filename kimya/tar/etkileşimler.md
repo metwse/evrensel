@@ -162,7 +162,7 @@ N₂O₃ diazot trioksit
 3. Metallerin tel ve levha haline getirilebilmesi, işlenebilmesi.
 
 **Not:** Metalik aktiflik ile metalik bağın sağlamlığı karıştırılmamalı.\
-![image](metalik-bağ-ve-aktiflik.svg)\
+![image](img/metalik-bağ-ve-aktiflik.svg)\
 Metalik bağın sağlamlığı ↑ sertlik ↑ erime noktası ↑
 
 
