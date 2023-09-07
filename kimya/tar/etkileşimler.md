@@ -15,7 +15,7 @@ _Molekül içinde_ atomlar arasında oluşan etkileşimlerdir.
 
 
 2. Zayıf Etkileşimler (Fiziksel Bağ)
-_Moleküller arasında_ ya da _soygaz atomları arasında_ oluşan etkileşimlerdir.
+_Moleküller arasında_ ya da _soy gaz atomları arasında_ oluşan etkileşimlerdir.
 **Not:** Sadece maddenin yoğun fazlarında (katı, sıvı) gözlenebilir.
 
     ⅰ Dipol - Dipol\
@@ -214,8 +214,64 @@ KN: 27,8 ℃
        |
       CH₃
 KN: 10 ℃
-
 ```
 
 ### Dipol - İndüklenmiş Dipol Etkileşimleri 
 Polar molekül ile apolar molekül ya da soy gaz atomu arasında oluşan etkileşimlerdir.
+
+### İndüklenmiş Dipol - İndüklenmiş Dipol Etkileşimleri
+İyonik bileşiklerle apolar moleküller ya da soy gaz atomları arasında oluşan etkin etkileşimdir.
+
+### Hidrojen Bağı
+Flor, oksijen veya azot atomlarına bağlı hidrojen atomlarının başka bir moleküldeki F, O, N atomlarının ortaklanmamış elektron çiftlerine uyguladığı çekim kuvveti *hidrojen bağı*dır.\
+Kaynama noktası sıralamaları: H₂O > HF > NH₃
+
+
+## Zayıf Etkileşimlerin Etkinlik Sırası
+hidrojen > iyon - dipol > dipol - dipol > london\
+
+H₂O > hidrojen, dipol - dipol ve london bağı yapabilir. Ancak molekülleri arasında oluşan etkin etkileşim türü hidrojen bağıdır.
+
+ör.\
+Ⅰ H₂\
+Ⅱ NaCl
+Ⅲ H₂O\
+Ⅳ CH₄\
+Erime noktalarını karşılaştırınız.\
+Ⅱ > Ⅲ > Ⅳ > Ⅰ
+
+## Hidrojen Bağının Fiziklsel Özelliklere Etkisi
+1. +4 ℃'de suyun yoğunluğu maksimum 1g/mL'dir.\
+![image](img/suyun-yoğunluğu.png)
+2. Suda C₆H₁₂O₆ oldukça iyi çözünür.\
+*25 ℃* 37g NaCl / 100g su\
+*25 ℃* 171g C₆H₁₂O₆ / 100g su
+3. Bitkilerin köklerinden aldıkları suyu dallarına kadar taşımasında etkilidir.\
+ⅰ Kılcallık\
+ⅱ Osmotik Basınç\
+ⅲ terleme
+4. DNA'nın iki zinciri arasında oluşan H bağları sayesinde molekülde bir köprü oluşturur.
+
+**Not:** Zayıf etkileşimlerin koptuğu veya oluştuğu olaylarda genelde 40kJ'den daha küçük bir enerji eşlik ederken güçlü etkileşimlerin koptuğu veya oluştuğu olaylara bu değerden daha fazla enerji eşlik eder.\
+Ar(s) + 6,4kJ → Ar(g)\
+NaCl(k) + 887kJ → Na⁺(g) + Cl⁻(g)\
+H₂O(s) + 43,9kJ → H₂O(g)
+
+# Fiziksel ve Kimyasal Değişimler
+Maddenin dış yapısıyla ilgili gözlenip ölçülebilen özelliklerine fiziksel özellikler denir. Sertlik, yoğunluk, akıcılık, uçuculuk ve maddenin fiziksel hâlleri maddenin fiziksel özelliklerine örnektir. Fiziksel özelliklerin değişmesine *fiziksel değişim* ya da *fiziksel olay* denir.\
+NaCl(s) → NaCl(aq)\
+Sütten tereyağı eldesi\
+Metallerin elektriği iletmesi
+
+Maddenin iç yapısı ile ilgili, özellikle elektron dağılımına bağlı olan özelliklere *kimyasal özellikler* denir. Maddenin yanıp yanmaması, asit veya baz özellik göstermesi, karşısındaki maddeye asal davranması (tepkime vermemesi) gibi özellikleri kimyasal özelliklere örnektir. Kimyasal özelliklerde meydana gelen değişimlere *kimyasal değişim* ya da *kimyasal olay* denir.\
+Na metalinin suda çözünmesi\
+SO₃ün suda çözünmesi\
+Fotosentez olayı\
+Pillerden elektrik üretimi\
+Üzümden sirke ya da şarap eldesi\
+Yağlı boya veya verniğin kuruması\
+Harcın donması\
+Tuzlu suyun elektriği iletmesi (elektroliz olayı gerçekleşir)\
+Çürüme ya da küflenme olayları
+
+**Not:** Kimyasal değişim sonucunda fiziksel özellikler de değişir.

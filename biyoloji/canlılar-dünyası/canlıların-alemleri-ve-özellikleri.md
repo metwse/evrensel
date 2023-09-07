@@ -47,6 +47,8 @@ flowchart TD
 ## 2. Arkeler
 1. Ekstrem koşullarda yaşar.
 2. Metan oluşturan tek canlı türüdür.
+3. Çok sıcak ya da soğuk, yüksek ve düşük pH, aşırı tuzlu ortam gibi ortamlarda yaşayabilir aşırı tuzlu ortam gibi ortamlarda yaşayabilir aşırı tuzlu ortam gibi ortamlarda yaşayabilir.
+4. Pseudoglikopeptidokglikan çeper bulundurur.
 
 
 ## 3. Protistler
@@ -56,3 +58,133 @@ flowchart TD
 4. Sil (paramesyum), kamçı (öglena) ve yalancı ayak (amip) bulundurabilir.
 5. Tatlı su ve tuzlu su formları vardır. Kontraktif koful, tatlı su protistlerinde bulunur.\
 Denizel amiplaer insande çıban oluşturabilir. Besinlerle alınan bazı amipler amipli dizanteri yapabilir.
+
+## 4. Bitkiler
+1. Bağlı yaşam sürer.
+2. Bitkilerin her hücresinde lökoplast bulunur.
+```mermaid
+flowchart TD
+    a[Lökoplast]
+    a --> |Amiloplast| Nişasta
+    a --> |Oleoplast| Yağ
+    a --> |Proteoplast| Protein 
+```
+Lökoplastta tüm organik bileşikler depolanır.
+| |Nişasta|Yağ|Protein|
+|-|-|-|-|
+|ceviz|az|bol|bol|
+|fındık|az|bol|bol|
+|ıspanak|bol|az|bol|
+|buğday|bol|az|az|
+* Selüloz bitki hücrelerinde hidroliz edilemez.
+3. CO₂ ve H₂O kullanarak organik besin sentezleyen ototrof canlılardır.
+4. Klorofil pigmenti ışığı soğurur.
+5. Selüloz duvar bulundurur.
+6. Yaprak, meyve, çiçek, gövde, kök ve madde taşınımını sağlayan iletim demetlerini bulundurabilir.
+7. Bitkiler suyu osmoz, mineralleri aktif taşıma ile alır. Bitkinin kök hücreleri de oksijenli solunum yapar.\
+Bitkiye çok su dökülürse, sel olursa vs. su topraktaki O₂nin yerine geçer; kökler oksijensiz kalır. Bitki boğularak olür, buna fizyolojik kuraklık denir.
+8. Eşeyli veya eşeysiz üreme görülür.\
+Kök, gövde ve yapraklar ile eşeysiz; çiçek, meyve ve tohum ile de eşeyli ürer.\
+Hayvandaki kök hücrelerin eşdeğeri farklılaşmamış hücreler bitki organlarında da bulunabilir. Bu kök hücreler sayesinde bitki eşeysiz üreyebilir.
+9. Genelde yaprakların alt yüzeyinde gaz alışverişini sağlayan açılıp kapanabilen *stoma* yapıları bulunur.
+10. Aktif yer değiştirme gözlenmez. Yönelim (uyara bağlı) ve ılganım (uyarana bağlı değil) hareketleri gözlenir.
+Laktoz bitkilerde yoktur. Sadece memeli hayvanların dışı bireylerinin süt bezlerinde bulunur. Ancak galaktoz kloroplast iç zarında vardır.
+11. Çoğu kara bitkisinin kimi oorganlarının üzerinde kütikula adı verilen mumsu ve suda çözünmeyen bir tabaka bulunur. Bu tabaka su kaybını engellemeye yöneliktir. 
+
+## 5. Mantarlar
+1. Genellikle çok hücreli ototrof beslenemeyen canlılardır.
+2. Üremeleri eşeyli ve eşeysiz üremenin birbirini takip ettiği metagenez şekildedir.
+3. Ayrıştırıcı (saprofit) beslenirler.
+4. Depo polisakkariti glikojendir, kitin yapılı hücre çeperi vardır.
+5. Penisillum adlı mantar (küf) penisilin adlı antibiyotiği oluşturur.
+6. Bazı mantarlar alglerle *liken* adı verilen yaşama birliğini oluştutur. Bu nitelik karşılıklı faydaya (mutualizm) yöneliktir.
+7. Bitki köklerinde yerleşen bazı mantarlar bitkinin topraktann su ve fosfat gibi maddeleri almasını kolaylaştırırken (emilim yüzeyini genişletir) bitki de mantara organik besin sağlar. Bu birliğe *mikolizaa* denir.
+
+## 6. Hayvanlar
+1. En fazla çeşitliliğe sahip gruptur.
+
+### a. Omurgasız Havanlar
+1. Hayvanlar âleminin en geniş kısmını oluşturur.
+2. Omurgaya (sırt sinir şeridine) sahip değildir.
+3. Omurgasız hayvanların eklem bacaklılarında ve bunlardan gelişmiş olanlarında karın sinir şeridi vardır. 
+
+#### Süngerler
+1. Hayvanlar âleminin en basit canlısısır.
+2. Sistem gelişimi görülmez.
+
+#### Sölenterler
+1. İlk defa basit sinir sisteminin görüldüğü guruptur.
+2. Tomurcuklanarak ya da metagenezle üreyebilir.
+
+#### Solcanlar
+1. Eşeyli ya da eşeysiz üreyebilir.
+2. Genellikle yassı ve yuvarlak vücut yapısına sahip canlılardır.
+3. Parazit yaşayan türleri vardır.
+4. Planerya, tenya, kıl kurdu, toprak solucanı, kancalı kurt ve sülük bazı solucan türleridir.
+5. Basitten karmaşığa doğru solucan türleri: yassı (tenya, planerya), yuvarlak (bağırsak solucanı), halkalı.
+
+#### Yumuşakçalar
+1. İkinci en büyük omurgasız hayvan grubudur.
+2. Eşeyli ürer.
+3. Ayaklarla aktif hareket görülür.
+4. Genellikle açık kan dolaşımı görülür.
+
+#### Eklem Bacaklılar
+1. Karasal hayata uyum sağlamayla en geniş bölgelere yayılmış gruptur.
+2. Dayanıklı dış iskelete sahiptir.
+3. Açık dolaşım sistemine sahiptir. Trake solunumu yapar. 
+4. Örümcelkerinde kitapsı akciğer, denizlerde yaşayanlarında solungaç bulunur.
+
+#### Derisi Diklenliler
+1. Denizyıldızları, denizhıyarı, denizkestanesi
+
+### b. Omurgalı Hayvanlar
+1. Hemoglobin olarak adlandırılan solunum pigmenti bulunur.
+2. Kıkırdak veya kemikten yapılmış bir iç iskelet ve bir sinir kordonu bulundurur.
+```mermaid
+flowchart TD
+    A[Memeli hayvanlar]
+    A --> |değişken vücüt sıcaklığı| b
+    A --> |değişken vücüt sıcaklığı| a
+    A --> |değişken vücüt sıcaklığı| s 
+    A --> |sabit vücüt sıcaklığı| k
+    A --> |sabit vücüt sıcaklığı| m
+    b[balık]
+    b --> kıkırdaklı
+    b --> kemikli
+    a[amfibi]
+    s[sürungen]
+    s --> s1[yarım perdeli kalp]
+    s --> s2[timsahta tam perdeli kalp]
+    k[kuş]
+    m[memeli]
+    m --> gagalı
+    m --> keseli
+    m --> plasentalı
+```
+
+#### Balıklar
+1. Genellikle dış döllenme ve dış gelişme görülür.
+2. Vücutları pullarla kaplıdır.
+3. Boşaltım atıkları amonyaktır. NH₃ta su kaybı en çok, enerji kaybı en az olan azotlu atık maddesidir.
+
+##### Kıkırdaklı Balıklar
+1. **Kemiğe sahip olmayan tek omurgalı hayvvan türüdür.**
+2. Hava keseleri bulunmaz. Sürekli yüzmek zorundadırlar.
+3. Köpek balıkları ve vatozlar 
+
+##### Kemikli Balıklar
+1. Hamsi, lüfer, çipura, alabalık, pirana, denizatı ve turna örnekleridileridirr.
+
+#### Amfibiler
+1. Karasal hayata tam uyum sağlamıştır.
+2. Akciğer ve deri solunumu yapar.
+3. Embriyonik gelişimlerini tamamlamadan larva olarak yumurtadan çıkar. 
+4. Değişken vücut sıcaklığına sahiptir.
+5. Eşeyli ürer. Dış gelişme ve dış döllenme nedeniyle hayatlarında en az bir kez suya dönmek zorundadır.
+6. Kış uykusuna yatar.
+
+#### Sürüngenler
+1. Karasal yaşama uyum sağlayan ilk omurgalı türüdür.
+2. Bazıları karada bazıları suda yaşar.
+3. Akciğer solunumu yapar. 
