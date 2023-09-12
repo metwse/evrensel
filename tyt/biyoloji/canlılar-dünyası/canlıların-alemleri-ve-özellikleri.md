@@ -183,8 +183,33 @@ flowchart TD
 4. Değişken vücut sıcaklığına sahiptir.
 5. Eşeyli ürer. Dış gelişme ve dış döllenme nedeniyle hayatlarında en az bir kez suya dönmek zorundadır.
 6. Kış uykusuna yatar.
+7. Amfibik solunum yaparlar. Hayatlarının farklı dönemlerinde farklı solunum türleri yapar.
 
 #### Sürüngenler
 1. Karasal yaşama uyum sağlayan ilk omurgalı türüdür.
 2. Bazıları karada bazıları suda yaşar.
 3. Akciğer solunumu yapar. 
+4. Yumurtalalrında kabuk bulunur.
+5. Keratinli pullar bulunur. Pullu deri büyümeyi engellediğinden zaman zaman değiştirilir.
+6. Yavru bakımı yoktur.
+7. İç döllenme dış gelişme görülür. Bazı yılanlarda iç gelişme görülebilir.
+
+#### Kuşlar
+1. Kemik iliği yoktur. Kemiklerin içi boştur.
+2. İç döllenme dış gelişim gösterir. Yavru bakımı vardır.
+3. Akciğer solunumu yapar.
+4. Dişleri bulunmaz. Ayaklarında pullar vardır.
+5. Tane ile beslenenlerde taşlık; et ile beslenenlerdeyse mide ve bağırsak gelişir ve gaga özelleşir, keskin ve koparıcıdır.
+6. Vücut sıcakları sabittir.
+7. Ürik asit boşaltır, su içmez, yağ depo eder ve yağ yakarak oluşan suyu kullanır.
+8. Vücut yüzeyleri keratin tüylerle kaplıdır.
+9. Zarsı diyafram vardır.
+
+#### Memeliler
+1. Sucul memeliler dışında vücut yüzeyi kıllarla kapllıdır.
+2. Yavrularını sütle besler. Sucul memeliler deniz suyuna sütlerini sağar, yavruları o sütü içer.
+3. Ter, yağ, süt bezleri gibi salgı bezleri bulunur.
+4. Memeliler dışında bütün omurgalılarda alyuvar çekirdeklidir.
+5. Memelilerde göğüs kemileri kaynaşmamıştır, kuşlardaysa göğüs kemiği kaynaşmıştır. Bu yüzden kuşlarda nefes alma memelilerde olduğunun aksine dışarıdan belli olmaz.
+6. Çizgili kas yapıda diyafram vardır.
+7. Vücut sıcaklıkları sabittir. İç döllenme iç gelişim görülür.

@@ -76,6 +76,7 @@ Işık alan lökoplastlar kloroplastlara, onlar da kromoplastlara dönüşebilir
 4. *Tilakoit zarları* bulundur. Tilakoit zarların üst üste dizilmesiyle *granum* oluşur. İçini dolduran sıvıya *stroma* denir.
 5. Kendi DNA, RNA ve proteinlerini sentezler. Plastitlerde üretilen ATP sitoplazmaya aktarılamaz. Plaztitler kendi ATP'lerini kendileri kullanır.\
 *2024 yks* Plastitler 3 katlı zara sahiptir.
+6. Endosimbiyoz kloroplastın kökenini açıklar. Endosimbiyoza göre hücreye dahil olmuş kloroplast iç zarında bakteriyel moleküller taşır. Kloroplast, kendi galaktozuna sahiptir.
 
 ## Kromoplastlar
 1. Bitkilere renk verir.
