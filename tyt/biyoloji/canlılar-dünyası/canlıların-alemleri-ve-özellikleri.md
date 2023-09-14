@@ -109,7 +109,7 @@ Laktoz bitkilerde yoktur. Sadece memeli hayvanların dışı bireylerinin süt b
 3. Omurgasız hayvanların eklem bacaklılarında ve bunlardan gelişmiş olanlarında karın sinir şeridi vardır. 
 
 #### Süngerler
-1. Hayvanlar âleminin en basit canlısısır.
+1. Hayvanlar âleminin en basit canlısıdır.
 2. Sistem gelişimi görülmez.
 
 #### Sölenterler
@@ -210,6 +210,24 @@ flowchart TD
 2. Yavrularını sütle besler. Sucul memeliler deniz suyuna sütlerini sağar, yavruları o sütü içer.
 3. Ter, yağ, süt bezleri gibi salgı bezleri bulunur.
 4. Memeliler dışında bütün omurgalılarda alyuvar çekirdeklidir.
-5. Memelilerde göğüs kemileri kaynaşmamıştır, kuşlardaysa göğüs kemiği kaynaşmıştır. Bu yüzden kuşlarda nefes alma memelilerde olduğunun aksine dışarıdan belli olmaz.
+5. Memelilerde göğüs kemikleri kaynaşmamıştır, kuşlardaysa göğüs kemiği kaynaşmıştır. Bu yüzden kuşlarda nefes alma memelilerde olduğunun aksine dışarıdan belli olmaz.
 6. Çizgili kas yapıda diyafram vardır.
 7. Vücut sıcaklıkları sabittir. İç döllenme iç gelişim görülür.
+
+# Virüsler
+1. Canlılar ile cansızlar arasında geçiş formudur. Tümü hastalık yapıcıdır.
+2. Çok küçüktür. Porselen filtrelerden geçebilir. İşın mikroskobuyla görülemez, elektron mikroskobuyla anca görülebilir.
+3. Tek çeşit nükleik asit bulundurur.
+4. DNA Virüsleri: Çiçek, uçuk, bekteriyofaj\
+RNA Virüsleri: Coronavirus, tütün mozaik, AIDS, çocuk felci, kuduz
+5. Rus bilgin İvanovski tarafından tütün yapraklarında keşfedilmiştir.
+6. Metabolik faaliyetleri ve enerji üretimi için gerekli olan enzimleri yoktur. Bu nedenle zorunlu parazittir, çoğalmak için canlı hücreye ihtiyaç duyar.
+7. Kalıtım materyalleri dışında protein kılıf bulundurur. Bazılarında ise kılıfın üst kısmında glikolipit ve glikoproteinden meydana gelmiş zarf adı verilen ikinci kılıf bulunur.
+8. Genetik çeşitlilik sadece mutasyonla oluşur.
+9. Her virüsün hedef hücre veya doku vardır.
+10. Konak hücre dışındayken kristalize hâldedir. Konağı 100 yıldan uzun süre kristalize halde bekleyebilir. Hiçbir canlı hücre kristalize hâlden tekrar yaşama döndürülemez.
+11. Bakteriyofajlar kuyruklarıyla bakterinin reseptör bölgesine tutunur.\
+Fajın kuyruğunda bulunan enzimler bakteri duvarının bir kısmını çözer. Böylece virüse ait nükleik asit bakterinin içine enjekte olur. Protein kılıf hücre dışında kalır.
+12. Konağın ATP sentez mekanizmasını kendi hesabına kullanır.
+13. Bakteriyofaj, hücreyi virüs üretim fabrikasına dönüştürür. Bakterinin içinde virüsün ürediği evreye litik evre denir. En sonunda virüs bakteriyi parçalar, buna lizis denir.
+14. Bitki virüsleri genellikle DNA virüsü, hayvan virüsleriyse genellikle RNA virüsüdür.

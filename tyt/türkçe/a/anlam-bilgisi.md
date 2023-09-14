@@ -103,4 +103,3 @@ iyi gün dostu
 Deyimler gibi kapıplaşmış yargı bildiren cümlelerdir. Çoğu yargı bildirir. Mecazlı anonim sözlerdir.\
 Tek taşla duvar olmaz.\
 Komşu komşunun külüne muhtaçtır.
-
