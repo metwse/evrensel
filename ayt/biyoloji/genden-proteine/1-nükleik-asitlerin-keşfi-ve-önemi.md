@@ -36,6 +36,7 @@ Nükleik asitler polimer > nükleotir monomeri\
 Nükleotitler sitoplazmada nükleosittrifosfatlar hâlinde serbest ve enerji taşıyan moleküller hâline bulunur.\
 ![image](img/nükleotit.svg)
 
+
 ### Watson - Crick DNA Nükleotit Modeli
 1. 5' → 3' şeklinde 5. karbondan 3. karbona doğru bağlanma olur. 
 2. DNA ipliklari birbirine antiparaleldir.\
@@ -44,3 +45,7 @@ Nükleotitler sitoplazmada nükleosittrifosfatlar hâlinde serbest ve enerji ta�
 4. Histon proteininine sarılı DNA inaktif olur.\
 ![histon](img/histon-ve-gen-aktifliği.svg)\
 DNA'nın en önemli özelliği kendini eşleyebilmesidir. DNA hücre bölünmesinden önce eşlenerek yeni nesillere aktarılmış olur.
+
+
+### Santral Dogma
+![stantral-dogma](img/dna-rna-ve-protein-sentezi.svg) 
