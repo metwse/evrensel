@@ -28,6 +28,7 @@ Golginin her keseciği diptiyozom adını alır. 20-50 diktiyozomdan oluşur.
 5. Lizozomun bir diğer görevi de yaşlanan, yıpranan hücrelerin yok edilmesidir. Bu olaya kendini sindirme anlamında *otoliz* denir. Otolizin tüm dokuda meydana gelmesi hâlinde de hostoliz denir.\
 Ölümden 40 gün sonra burun, 50 gün sonra kulak düşer ve et kemikten ayrılır. Zehirlenerek ölen insanlar çürümez. Çünkü çürütçüller zehirlenerek ölür.
 6. Lizozom bozukluğu Tay-Sacs hastalığına neden olur.
+7. Donmuş bir besini çözdükten sonra besin tekrar dondurulursa lizozomlar patlar, besinde çürüme başlar. O besinin tüketilmesi gıda zehirlenmesine neden olur.
 
 
 # Peroksizom
