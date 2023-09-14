@@ -59,3 +59,25 @@ tepkimesi en küçük tam sayılarla denkleştiriniz.\
 P → PH₃ + H₂PO₂⁻\
 tepkimesi en küçük tam sayılarla denkleştiriniz.\
 ![çözüm](img/örnek/5-çözüm.svg) 
+
+*örnek 6* Bazik ortamda gerçekleşen\
+Mn²⁺ + IO₃⁻ → MgO₄⁻ + I₂\
+tepkimesi en küçük tam sayılarla denkleştiriniz.\
+![çözüm](img/örnek/6-çözüm.svg) 
+
+### Yarı Tepkime Yöntemi
+1. Bu yöntemde atomların değerliklerinin bulunmasına gerek yoktur.
+2. Aynı cins atomları içeren türler karşılıklı yazılır.
+3. Her bir yarı tepkimeye sırasıyla şu işlemler uygulanır:\
+ⅰ Eksik oksijen sayısı kadar H₂O, gerekli tarafa gerektiği kadar eklenir.\
+ⅱ Hidrojen denkiği için gerektiği tarafa gerektiği kadar H⁺ eklenir.\
+ⅲ Asidik ortamdaysa yük denkliğini sağlamak için elektron eklenir.\
+Asidik ortamsa yukarıdaki basamaklar yeterlidir. Bazik ortamda gerçekleşiyorsa:\
+ⅳ H⁺ kadar OH⁻ tepkimenin her iki tarafına yazılır.\
+ⅴ Aynı taraftaki H⁺ ve OH⁻ yerine su yazılır.\
+ⅵ Yük denkliği elektron ile sağlanır, yarı tepkimeler taraf tarafa toplanır.
+
+*örnek 7* Bazik ortamda gerçekleşen\
+Mn²⁺ + IO₃⁻ → MgO₄⁻ + I₂\
+tepkimesi en küçük tam sayılarla denkleştiriniz.\
+![çözüm](img/örnek/7-çözüm.svg) 
