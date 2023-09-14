@@ -22,7 +22,7 @@
 
 ![image](img/ribozom-sentezi.svg)
 
-Nükleik asitler polimer > nükleotir monomeri
+Nükleik asitler polimer > nükleotir monomeri\
 ![image](img/nükleotitlerin-yapısı.svg)
 
 Nükleotitler sitoplazmada nükleosittrifosfatlar hâlinde serbest ve enerji taşıyan moleküller hâline bulunur.\
