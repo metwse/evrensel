@@ -14,7 +14,7 @@
 
 ### RNA
 1. 3 türü vardır\
-ⅰ %5 **mRNA**: Mesajcı RNA, Elçi RNA. Görevi tamamlandığında parçalanır.\ 
+ⅰ %5 **mRNA**: Mesajcı RNA, Elçi RNA. Görevi tamamlandığında parçalanır.\
 ⅱ %15 **tRNA**: Taşıyıcı RNA. Aminoasitleri taşımakla görevlidir.\
 ⅲ %80 **rRNA**: Ribozomal RNA. Ribozom yapısına katılır. Sayısının çokluğu ribozom sayısıyla orantılıdır.
 2. mRNA, tRNA ökaryot sitoplazması; rRNA çekirdekçik
