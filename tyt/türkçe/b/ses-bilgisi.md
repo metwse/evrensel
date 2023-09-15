@@ -7,7 +7,7 @@ Kalın ünlüler: a, u, ı, o\
 2. Birleşik sözcüklerde uyum aranmaz.
 3. Büyük ünlü uyumuna aykırı durumlar:\
 Ⅰ Türkçede ekler genellikle büyük ünlü uyumuna uyar ancak 7 ek bazı sözcükleri büyük ünlü uyumuna aykırı duruma getirir.\
--yor, -ken, -ki, -daş, -gıl, -ımtırak
+-yor, -ken, -ki, -daş, -gıl, -ımtırak\
 Ⅱ Bazı sözcükler eski Türkçede bu kurala uyarken günümüz Türkçesinde kurala aykırı olmuştur.\
 elma - alma, kardeş - karındaş
 
@@ -26,6 +26,12 @@ Düz ünlüler: a, e, ı, i\
 Yuvarlak ünlüler: o, ö, u, ü
 1. Türkçe bir sözcüğün ilk hecesinde düz ünlü varsa sonraki heceler de düz ünlülerle devam eder, yuvarlak bir ünlü varsa sonraki heceler ya düz geniş ya da dar yuvarlak devam eder.
 2. Büyük ünlü uyumu olmayan yerde küçük ünlü uyumu aranmaz.
+
+
+# Ulama
+1. Ünsüzle biten bir sözlüğün ardından ünlüyle başlayan bir sözcük arada noktalama işareti olmadan geldiğinde ulama yaşanır. Ünlüyle biten bir sözcüğün ardından ünsüzle biten bir sözcük gelirse ulama olmaz.\
+Sezan Aksu\
+Tarık Akan
 
 
 # Ünlülerle İlgili Ses Olayları
@@ -83,7 +89,8 @@ dar-cık > daracık
 2. m, p, r ve s harfleri ile yapılan pekiştirmelerde ünlü türemesi yaşanabilir.\
 çevre > çepeçevre\
 yalnız > yapayalnız\
-düz > düpedüz\
+düz > düpedüz
+
 
 # Ünsüzlerle İlgili Ses Olayları
 ## Ünsüz Türemesi (Ünsüz İkileşmesi)
@@ -91,14 +98,14 @@ düz > düpedüz\
 red etmek > reddetmek\
 af etmek > affetmek\
 hâl olmak > hâllolmak
-2. Bazı tek heceli sözcüklere ünlü ile başlayan ek getirildiğinde ünsüz türemesi olur.
+2. Bazı tek heceli sözcüklere ünlü ile başlayan ek getirildiğinde ünsüz türemesi olur.\
 hat-ı > hattı\
 üs-ü > üssü\
 his-i > hissi\
 hak-ı > hakkı\
 zan-ı > zannı
 
-## Ünsüz Türemesi
+## Ünsüz Türemesi (Ünsüz İkileşmesi)
 1. Pekiştirme hecelerine gelen m, p, r vs s harfleri de ünsüz türemesidir.
 2. Sonu k ile biten kimi sözcüklere -cik, -cık, -cak, -cek ekleri getirildiğinde k ünsüzü düşer.\
 ufak-cık > ufacık\
@@ -129,7 +136,59 @@ süt-ü > sütü\
 sanat-a > sanata
 
 ## Ünsüz Sertleşmesi (Ünsüz Benzeşmesi)
-1. Sert ünsüzlerden (f, s, t, ç, ş, h, p) ünsüzlerinden biriyle biten bir sözcüğe c, d, ya da g ile başlayan bir ek getirildiğinde c, d, g ünsüzleri sertleşir.
+1. Sert ünsüzlerden (f, s, t, ç, ş, h, p) ünsüzlerinden biriyle biten bir sözcüğe c, d, ya da g ile başlayan bir ek getirildiğinde c, d, g ünsüzleri sertleşir.\
 görüş-dü > görüştü\
-çalış-gan > çalışgan\
+çalış-gan > çalışkan\
 sus-gun > suskun
+
+## N-B Çatışması (N-M Değişimi, Dudak Ünsüzü Benzeşmesi, Gerileyici Benzeşme)
+1. Bazı sözcüklerde n ve b ünsüzleri yan yana geldiğinde b ünsüzü n'yi m'ye dönüştürür.\
+zanbak > zambak\
+dolanbaç > dolambaç\
+penbe > pembe\
+canbaz > cambaz\
+istisna: İstanbul, Safranbolu, binbaşı, onbaşı, düzenbaz
+
+## Kaynaştırma Ünsüzleri (Yardımcı Ünsüzler, Bağ Ünsüzleri, Koruyucu Ses)
+1. Türkçe sözcüklerde iki ünlü harf yan yana bulunmaz. Ünlüyle biten sözcüklere ünlüyle başlayan bir ek getirildiğinde araya y, ş, s, n ünsüzlerinden biri girer.\
+dinle-en > dinleyen\
+iki-er > ikişer\
+çanta-a > çantaya\
+bu-da > bunda\
+baba-ı > babası
+
+
+
+Aşağıdaki sözcüklerde hangi olayı olduğunu belirtiniz.\
+Çabucak > ünsüz düşmesi\
+Değişken > ünsüz sertleşmesi\
+Bitki > ünsüz sertleşmesi\
+Adaşım > ünsüz düşmesi (addaş)\
+Sırrınız > ünsüz türemesi\
+Oğlan > ünlü düşmesi\
+Umuttan > ünsüz sertleşmesi\
+Tembel > n-b çatışması\
+Ağardı > ünsüz değişimi\
+Küçümsedi > ünlü düşmesi\
+Gülücük > ünsüz düşmesi\
+Gecikir > ünsüz yumuşaması\
+Gidemem > ünsüz yumuşaması
+
+
+Bin atlı akınlarda çocuklar gibi şendik (şen-idik > şendik, ünlü düşmesi)\
+Bin atlı o gün dev gibi bir orduyu (ordu-u > orduyu, kaynaştırma) yendik\
+Ak tolgalı beylerbeyi haykırdı: İlerle (ileri-le > ilerle, ünlü düşmesi)\
+Bir yaz günü geçtik (geç-dik > geçtik, ünsüz benzeşmesi) Tuna'dan kafirlerle (kafirler ile > kafirlerle, ünlü düşmesi)\
+Şimşek gibi bir semte atıldık yedi koldan\
+Şimşek gibi Türk atlasının geçtiği (geç-dik-i > geçtiği, ünsüz sertleşmesi ve ünsüz benzeşmesi) yoldan\
+Bir gün doludizgin boşanan atlarımızla (atlarımız ile > atlarımızla, ünlü düşmesi)\
+Yerden yedi kat arşa kanatlandık o hızla (hız ile > hızla, ünlü düşmesi)
+
+Sen, çamlı dağlarda ağaran (ak-aran > ağaran, ünsüz yumuşaması) şafak\
+Sen, duru göllerin nilüferisin\
+Sen, engin ovada sararan (sarı-ar > sarar, ünlü düşmesi) başak\
+Sen umut kaynağı (kaynak-ı > kaynağı, ünsüz yumuşaması), alın terisin\
+Sen, gökte (gök-de > gökte, ünsüz benzeşmesi) yıldızsın uykularda (uyu-ku > uyku, ünlü düşmesi) düş\
+Sen, yeşil ekinsin sen beyaz gümüş\
+Sen, mavi denizsin sise bürünmüş\
+Sen, sevda sırrın (sır-ı-ın > sırrın, ünsüz yumuşaması ve kaynaştırma) düğümlerisin
