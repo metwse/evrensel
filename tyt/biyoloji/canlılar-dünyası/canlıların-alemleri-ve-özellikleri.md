@@ -99,9 +99,11 @@ Laktoz bitkilerde yoktur. Sadece memeli hayvanların dışı bireylerinin süt b
 5. Penisillum adlı mantar (küf) penisilin adlı antibiyotiği oluşturur.
 6. Bazı mantarlar alglerle *liken* adı verilen yaşama birliğini oluştutur. Bu nitelik karşılıklı faydaya (mutualizm) yöneliktir.
 7. Bitki köklerinde yerleşen bazı mantarlar bitkinin topraktann su ve fosfat gibi maddeleri almasını kolaylaştırırken (emilim yüzeyini genişletir) bitki de mantara organik besin sağlar. Bu birliğe *mikolizaa* denir.
+8. Azot içeren kitin, yapısal polisakkaritidir. Kitin, bütün mantarlarda bulunan çeper ham maddesidir.
 
 ## 6. Hayvanlar
 1. En fazla çeşitliliğe sahip gruptur.
+2. Tümü hetetroftur.
 
 ### a. Omurgasız Havanlar
 1. Hayvanlar âleminin en geniş kısmını oluşturur.
@@ -213,6 +215,7 @@ flowchart TD
 5. Memelilerde göğüs kemikleri kaynaşmamıştır, kuşlardaysa göğüs kemiği kaynaşmıştır. Bu yüzden kuşlarda nefes alma memelilerde olduğunun aksine dışarıdan belli olmaz.
 6. Çizgili kas yapıda diyafram vardır.
 7. Vücut sıcaklıkları sabittir. İç döllenme iç gelişim görülür.
+8. Gagalı memeliler kabuklu yumurtlar.
 
 # Virüsler
 1. Canlılar ile cansızlar arasında geçiş formudur. Tümü hastalık yapıcıdır.

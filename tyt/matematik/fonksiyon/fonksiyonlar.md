@@ -81,3 +81,10 @@ R
 
 ## Periyodik Fonksiyonlar
 f: A → B fonksiyonunda ∀ x ∈ A, f(x + T) = f(x) olacak şekilde bir T ∈ R⁺ sayısı varsa T periyot, f periyodik fonksiyondur.
+
+
+## Ters Fonksiyonlar
+f: A → B fonksiyonu birebir ve örten olmak üzere\
+f: A → B ve y = f(x) fonksiyonunun\
+f⁻¹: A → B ve x = f⁻¹(y) şeklindeki gösterimine denir
+
