@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="77.168465mm"
+   height="57.168358mm"
+   viewBox="0 0 77.168465 57.168358"
    version="1.1"
    id="svg21689"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -25,45 +25,47 @@
      inkscape:document-units="mm"
      showgrid="true"
      showguides="true"
-     inkscape:zoom="3.1920704"
-     inkscape:cx="173.24179"
-     inkscape:cy="191.09854"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
+     inkscape:zoom="0.91011346"
+     inkscape:cx="19.777754"
+     inkscape:cy="114.27147"
+     inkscape:window-width="1916"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid23262" />
+       id="grid23262"
+       originx="-11.799342"
+       originy="-20.743379" />
     <sodipodi:guide
-       position="52.463258,262.75175"
+       position="40.663916,43.663486"
        orientation="0,-1"
        id="guide27254"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="53.665407,242.78418"
+       position="41.866065,23.695916"
        orientation="0,-1"
        id="guide27330"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="12.728334,265.48878"
+       position="0.92899214,46.400516"
        orientation="1,0"
        id="guide27332"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="31.098415,264.52556"
+       position="19.299073,45.437296"
        orientation="1,0"
        id="guide27334"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="64.46729,252.69164"
+       position="52.667948,33.603376"
        orientation="1,0"
        id="guide27336"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="88.47912,242.99059"
+       position="76.679779,23.902326"
        orientation="1,0"
        id="guide27338"
        inkscape:locked="false" />
@@ -73,7 +75,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-11.799342,-20.743379)">
     <path
        style="fill:#0000ff;stroke:#1500ff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
        id="path27262"
