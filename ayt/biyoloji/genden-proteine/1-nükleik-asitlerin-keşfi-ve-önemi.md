@@ -71,3 +71,16 @@ Deneylerde kullanılan izotoplar:\
 ![halkasal dna replikasyonu](img/halkasal-dna-replikasyonu.svg) 
 
 ![ökaryotlarda dna sentezi](img/ökaryotlarda-dna-sentezi.svg) 
+
+DNA replikasyonunda görevli enzimler:\
+Ⅰ Topoizomeraz\
+Ⅱ Helikaz\
+Ⅲ RNA Polimeraz\
+Ⅳ DNA Polimeraz 1\
+Ⅴ DNA Polimeraz 2
+
+![dna'nın yarı korunumlu replikasyonu](img/dna-nın-yarı-korunumlu-replikasyonu.svg)\
+Topoizomeraz: İp merdiveni açar.\
+Helikaz: H bağlarının kurulmasını protein yastık koyarak engeller.\
+DNA Polimeraz: DNA'yı oluşuturur.\
+Ligaz: DNA'daki kesintili uçları bağlar.
