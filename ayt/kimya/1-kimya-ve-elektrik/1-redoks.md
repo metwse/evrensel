@@ -1,5 +1,4 @@
-# Redoks
-## İndirgenme ve Yükseltgenme Tepkimeleri
+# İndirgenme ve Yükseltgenme Tepkimeleri
 Kimyasal bir tepkimede bir atomun değerliği (yükü) artıyorsa bu taneciğe yükseltgeniyor denir. Yükseltgenme elektron verek gerçekleşir.\
 Mg(k) → Mg²⁺(suda) + 2e (yükseltgenme yarı tepkimesi)\
 Al(k) → Al³⁺(suda) + 3e (yükseltgenme yarı tepkimesi)
@@ -10,7 +9,7 @@ O₂ + 4e → 2O⁻² (indirgenme yarı tepkimesi)
 
 Kimyasal tepkimelerde yükseltgenme ve indirgenme eş zamanlı gerçekleşir. Buna göre indirgenme ve yükseltgenmenin izlendiği tepkimelere *indirgenme - yükseltgenme tepkimeleri* ya da *redoks tepkimeleri* denir. Redoks tepkimesinde kendisi yükseltgenirken karşısındakini indirgeyen maddeye *indirgen*, kendisi indirgenirken karşısındakini yükseltgeyen maddeye *yükseltgen* denir.
 
-### Redoks Tepkimelerinin Denkleştirilmesi
+## Redoks Tepkimelerinin Denkleştirilmesi
 Redoks tepkimeleri denkleştirilirken şunların bilinmesi önemlidir:
 1. Elementlerin ve element moleküllerinin yükü sıfırdır.
 2. Bileşiklerin toplam yükü sıfırdır.
@@ -27,7 +26,7 @@ Al 3+, Zn 2+, Ag 1+
 
 Redoks Tepkimeleri; asidik ortam, bazik ortam ve nötr ortam olmak üzere üç grupta incelenir. Değerlik yöntemi ve yarı tepkime yöntemi olarak iki yöntem redoks tepkimelerinin denkleştirilmesinde kullanabilir.
 
-#### Değerlik Yöntemi
+### Değerlik Yöntemi
 1. Her bir atomun yükü bulunur.
 2. Yükü değişen atomlar saptanıp sayıları geçici olarak eşitlenir.
 3. Alınan ve verilen elektron sayıları eşitlenir.
@@ -81,3 +80,56 @@ Asidik ortamsa yukarıdaki basamaklar yeterlidir. Bazik ortamda gerçekleşiyors
 Mn²⁺ + IO₃⁻ → MgO₄⁻ + I₂\
 tepkimesi en küçük tam sayılarla denkleştiriniz.\
 ![çözüm](img/örnek/7-çözüm.svg) 
+
+*örnek 8* Bazik ortamda gerçekleşen\
+P₄ → PH₃ + H₂PO₂⁻\
+tepkimesi en küçük tam sayılarla denkleştiriniz.\
+![çözüm](img/örnek/8-çözüm.svg) 
+
+## Nötr Ortam Redoksu
+*örnek 9* Nötr ortamda gerçekleşen\
+Cu + HNO₃ → Cu(NO₃)₂ + NO + H₂O\
+tepkimesi en küçük tam sayılarla denkleştiriniz.\
+![çözüm](img/örnek/9-çözüm.svg) 
+
+
+# Redoks ve Elektrik
+İndirgenme - yükseltgenme tepkimeleri elektron alışverişi sonucunda oluşmaktadır. Tepkimeye giren türler arasındaki elektron alışverişi, ya doğrudan temas yoluyla ya da dolaylı yolla olabilir.
+
+Doğrudan temas yoluyla gerçekleşen redoks tepkimelerinde elektron alışverişi tepkimenin gerçekleşmesi sırasında taneciklerin çarpışmasıyla meydana gelir (Metal asit tepkimesi gibi.).
+
+Dolaylı yolsan gerçekleşen redoks tepkimelerinde indirgen ve yükseltgen arasında iletken bir dış devre vardır. Elektron iletimi bu dış devreyle gerçekleşir. Elektronun bir iletken yardımıyla tek yönlü hareketi sonucunda elektrik akımı oluşur.
+
+Doğada gerçekleşen olaylar istemli ve istemsiz olarak sınıflandırılır. Doğadaki herhângi bir olayın başlaması için bir dış etkiye ihtiyaç vardır. İstemli olaylarda olay başladıktan sonra devam etmek için herhângi bir etkiye ihtiyaç duymaz. İstemsiz olaylarda ise olayın devam edebilmesi için sürekli bir etki gerekir. Redoks tepkimeleri de istemli ve istemsiz olarak sınıflandırılabilir.
+
+## Elektrot ve Elektrolit
+Elektrokimya, kimyasal tepkimelerle elektrik enerjisi arasındaki ilişkiyi inceleyen bilim dalıdır. Elektrokimyasal tepkimeler aynı zamanda bir redoks tepkimesidir fakat her redoks tepkimesinden elektrik akımı oluşmadığı için her redoks tepkimesi elektrokimyasal tepkime değildir.
+
+**Elektrolit**: Elektrokimyasal tepkimenin gerçekleşmesi için kullanılan iletken çözeltilere elektrolit denir. Sıvı tuzlar; asit, baz ve tuzların sulu çözeltileri elektrolittir.\
+**Elektrot**: Elektrolit çözeltilere batırılan iletken çözeltilere elektrot denir. Elektrotlarda metaller kullanıldığı gibi grafit de kullanılabilir. Metal elektrotlarda elektrotun yapıldığı metal ile çözeltideki metal katyonu aynı ya da farklı olabilir.\
+**Yarı Hücre**: Bir elektrolit ve buna batırılmış elektrottan oluşan sistemlere yarı hücre denir. Kimyasal bir pilde iki yarı hücre, bunları birbirine bağlayan bir iletken ve iki hücredeki metal katyonlarının dengesini sağlamak için içi doymuş tuz çözeltisiyle doldurulmuş U borusu gerekir.
+![elektrolit elektrot](elektorlit-elektrolit.svg) 
+
+İndirgenmenin olduğu elektrota katot, yükseltgenmenin olduğu elektrota anot nedir. Pil tepkimeleri ekzotermik denge tepkimeleridir. Tepkime başladıktan sonra akım üretimi dengeye ulaşıncaya kadar devam eder. Dengeye ulaşan pil bitmiştir.
+
+Elektrot olarak genellikle metal kullanılır fakat bazı durumlarda *inört elektrot* denilen elektrotlar da tercih edilir. Bunlar altın, platin, hidrojen gazı ve karbonun allotropu olan grafittir. 
+
+**Galvnik Hücre**: İki yarı hüceden oluşan sistemler akım ürettiği için *galvanik hücre* adını alır. Galvanik hücrelerdeki redoks tepkimeleri istemli redokslardır.
+
+**Elektrolitik**: İstemsiz redoksların gerçekleşebilmesi için sürekli elektrik enerjisi verilmelidir. Bu tür sistemlere *elektrolitik sistemler* denir. 
+
+Mg ve Cu elektrotların kullanıldığı galvanik bir hücre oluşturalım.\
+ε⁰ = pil potansiyeli (25℃, 1 atm, 1M)\
+Mg(k) → Mg²⁺(suda) + 2e⁻ ε⁰ = +2,38V\
+Cu(k) → Cu²⁺(suda) + 2e⁻ ε⁰ = -0,34V\
+Pil tepkimeleri redoks tepkimeleridir ve her redoks tepkimesinde mutlaka en az bir yükseltgenen ve en az bir indirgenen madde olmalıdır. Yukarıda verilen yarı tepkimelerde ε⁰ değeri büyük olan aynen kalırken küçük olan ters çevrilir. Bu sayede yükseltgenen ve indirgenen maddeler elde edilir.\
+Yarı tepkime ters çevrilirse ε⁰ın işareti değişir fakat yarı tepkime herhângi bir sayı ile genişletilirse ε⁰ değişmez.
+```js
+               Mg(k) → Mg²⁺(suda) + 2e⁻   ε⁰ = +2,38V (anot yarı tepkimesi)
+ +  Cu²⁺(suda) + 2e⁻ → Cu(k)              ε⁰ = +0,34V (katot yarı tepkimesi)
+----------------------------------------
+Cu²⁺(suda) + Mg(k) → Mg²⁺(suda) + Cu(k)   ε⁰ = +2,72V (pil tepkimesi)
+```
+
+Galvanik hücre çalışmaya başladığında anotta aşınma katotta birikim gözlenir. Elektronlar dış devrede anottan katoda, iç devrede ise katottan anoda doğru hareket eder.\
+![galvanik pil](img/galvanik-pil.svg) 

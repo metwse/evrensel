@@ -1,6 +1,8 @@
 # Nükleik Asitlerin Keşfi ve Önemi
 Çekirdekte (Yunanca adı nukleos) bulunması ve asit özellik göstermesi nedeniyle nükleik asit ismini almıştır.
-
+1. Nükleik asitleri Friedrich Michel keşfetti.
+2. DNA'nın kalıtsal materyal olduğunu Fredrick Griffith keşfetti.
+3. Kapsülsüz pneumoniae'ları insandaki fagositik hücreler yer. Ancak kapsüllüleri fagositik hücreler yiyemez. Bu nedenle kapsüllü bakteriler patojendir. 
 
 ## DNA
 ⅰ Bakteri: sitoplazma\
@@ -20,13 +22,16 @@
  Protein kalıbıdır.\
  Gendeki nükleotit kadar nüklleotit bulundurur.\
  Üzerinde bir aminoaside karşılık gelen üç nükleotitlik bölüm kodon adını alır.\
+ Doğrusal, tek zincirli yapıdır.\
 Ⅱ **tRNA** %15 (Taşıyıcı RNA)\
  Aminoasitleri protein sentezi için ribozoma taşır.\
  mRNA kodonu üzerine gelen üç nükleotitlik tRNA bölümü antikodon adını alır.\
+ tRNA kıvrımlı yapıya sahip olsa da tek zincirlidir. Ancak karşılıklı nükleotitlerinde H bağı bulunur.\
 Ⅲ **rRNA** %80 (Ribozomal RNA)\
  Ribozom yapısına katılır.\
  Sayısının çokluğu ribozom sayısıyla orantılıdır.\
- mRNA üzerindeki bilgiyi okuduğu sanılmaktadır.
+ mRNA üzerindeki bilgiyi okuduğu sanılmaktadır.\
+ Doğrusal, tek zincirli yapıdır. Ribozom içinde kıvrılarak H bağı oluşturabilir.
 2. mRNA, tRNA ökaryot sitoplazması; rRNA çekirdekçik
 3. Ökaryot stoplazmasında rRNA bulunmaz.
 4. tRNA'nın kıvrımlı yapısı olsa da tek ipliklidir. Nükleotitleri A, G, S ve U'dur. 
@@ -37,6 +42,8 @@
 ⅱ Mitokondri: matrix\
 ⅲ Plastitlerde: matrix\
 ⅳ ribozomda
+7. RNA sentezinde DNA'daki H bağları kopar. Anlamlı iplikteki nükleotitlerle RNA nükleotitleri arasında geçici H bağları kurulur. RNA sentezi tamamlandığında geçici H bağları kopar, DNA'nın iki ipliği arasında yeniden H bağları kurulur.\
+mRNA protein sentezi için ribozoma tutunduğunda tRNA antikodonuyla mRNA kodonu arasında geçici H bağları kurulur.
 
 
 ## Nükleotitler
