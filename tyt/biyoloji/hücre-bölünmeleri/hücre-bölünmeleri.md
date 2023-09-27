@@ -136,7 +136,7 @@ Vejetatif Üreme Yöntemleri
 |--|--|--|
 | toprak solucanı<br/>yassı solucan<br/>yuvarlak solucan<br/>deniz yıldızı | kertenkele<br/>deniz yıldızı | insan
 
-
 ## 6. Partenogenez
 1. Omurgalı hayvanlarda görülen partenogeneze deneysel partenogenez denir.
 2. Arılar, karıncalar, yaprak bitleri ve su bitlerinde görülür.
+![partenogenez](img/partenogenez.svg) 
