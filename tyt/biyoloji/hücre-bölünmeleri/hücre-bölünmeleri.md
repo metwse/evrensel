@@ -87,7 +87,7 @@ farklı olabilir.
 # Eşeysiz Üreme
 1. Oğul döller kalıtsal özellik bakımından hem birbiriyle hem de ata canlıyla aynıdır.
 2. Var olan özellikler korunur.
-3. Bireyler arası farklılık yalnız mutasyan ile gerçekleşir.
+3. Bireyler arası farklılık yalnız mutasyon ile gerçekleşir.
 4. Birey sayısı hızlı artar.
 
 
@@ -97,17 +97,46 @@ farklı olabilir.
 
 ## 2. Tomurcuklanma
 1. Ana bireyim mitozla oluşan çıkıntı gelişip yeni birey oluşturur.
-2. Hidralar, mercanlar ve maya manterlarında görülebilir.
+2. Hidralar, mercanlar ve maya mantarlarında görülebilir.
 3. Oluşan canlı ana canlıyla bir arada kalıp koloni oluşturabilir ya da ondan ayrılabilir.
 4. Ana canlıdan ayrılıp yere bağlı yaşayan hidralara polip (T. bağlı yaşayan), yerden ayrı yaşayanlara medüz (T. serbest) denir.\
 *2024 yks* Medüz tomurcuklanmaya üreyemez, rejenerasyon veya eşeyli üremeyle ürer.
 
-## 3. Vejatatif Üreme
+## 3. Vejetatif Üreme
 1. Yüksek yapılı bitkilerin sürgün, kök, yumru, gövde veya yaprak gibi büyüme bölgelerinden uygun koşullarda yeni bireylerin oluşması vejetatif üremedir.
+2. Vejetasyon bitkilerin karadaki dağılımını inceleyen bilim dalıdır.
+3. vejetatif: bitkisel
+4. Bitkilerin vücudunda farklı farklı yerlerde embriyonik dönem özelliklerini kaybetmemiş (farklılaşmamış) hücreler bulunur. Bu hücreler farklılaşarak bitkilere ait çeşitli organları oluşturabilir. Bu hücreler kök hücrelere benzer. Bu hücreler yardımıyla üremeye vejetatif üreme denir.
+5. Bu üreme tohum yapma yeteneği olmayan ya da tohum yapma yeteneğini kaybetmiş bitkilerde görülür.
+6. Evrim her zaman basitten komplekse doğru işlese de bazen geri yönde de işleyebilir. Günümüz parazitlerinin ataları serbest yaşayan organizmalardır. Bu organizmaların sindirim enzimi sentez yetenekleri geri evrim mekanizmasıyla kaybolmuş ve bu organizmalar başka organizmaların sindirim kanalına bağlı yaşar hâle gelmiştir. Muz, kavak, söğüt gibi bitkiler geri evrim mekanizması sonucu tohum üretme yeteneklerini kaybetmiş ve vejetatif yoldan üreyebilir hâle gelmişlerdir.
+
+Vejetatif Üreme Yöntemleri
+1. Çelikle: Ağaç dallarından alınan gövdelerin nemli toprakta ya da özel bileşimli suda köklendirilmesi ile yeni bitki geliştirilmesidir. Muz
+2. Sürünücü gövde ile: Çilek
+3. Yumru ile: Patates
+4. Soğan ile: Zambak, lale, yemeklik soğan
+5. Rizom ile: Rizom toprak altı gövde. Ayrık otu
+6. Daldırma ile: Dalın birini toprağa daldırıp oradan yeni bitki üretme. Nar
+7. Aşılama ile: Kiraz, kayısı, vişne
+8. Doku kültürü yöntemiyle ile: Bitkiden alınan bir hücreyle yeni bir bitki oluşması sağlanır. Nesli tükenmekte olan bitkiler bu yöntemle kurtarılabilir.
 
 ## 4. Sporla Üreme
+1. Spor adı verilen özelleşmiş hücrelerle üremedir.
+2. Üstleri sağlam yapılarla kaplanır. Bu spor uygun koşullarda yeni canlıyı oluşturur.
+3. Metagenezle bir arada görülür.\
+*Metagenez*: 2n kromozomlu sporlar oluşur. Bu ardışık mitozlarla bölünüp yeni canlıları oluşturur. Oluşan yeni canlılar n kromozomlu kamçılı gametler oluşturur, kamçılı gametler de döllenip yeni canlıları oluşturur.
+4. Bazı mantarlarda, kara yosunlarında, bazı tek hücrelilerde görülebilir.
 
 ## 5. Rejenerasyon
+1. Çok hücreli canlılarda değişik nedenlerle zarar görmüş yapıların onarılmasıdır.
+2. Doku, organ veya vücut düzeyinde görülebilir.
+3. Canlılarda 
+
+| vücut düzeyinde | organ düzeyinde | doku düzeyinde |
+|--|--|--|
+| toprak solucanı<br/>yassı solucan<br/>yuvarlak solucan<br/>deniz yıldızı | kertenkele<br/>deniz yıldızı | insan
+
 
 ## 6. Partenogenez
-
+1. Omurgalı hayvanlarda görülen partenogeneze deneysel partenogenez denir.
+2. Arılar, karıncalar, yaprak bitleri ve su bitlerinde görülür.

@@ -19,6 +19,9 @@
 
 <= köleler === mevali (orta sınıf) === hürler =>
 
+İtikati (imanla ilgili) mezhepler:\
+akılcılar <= mutezile === maturidi === eşariler => vahiyciler (nass)
+
 # 12.1 Din - Bilim İlişkisi
 **Sünnetullah**: Doğa yasaları\
 **Tefekkür**: Düşünmek\
@@ -27,3 +30,11 @@
 **Mushaf**: Kuran'ın kitap olan özel adı
 
 **Mescidi Nebi**: Mekke'den Medine'ye göç edildiğinde Medine'ye inşa edilmiş mescittir.
+
+**Beytü'l Hikme**: Tercüme yapılan medrese.\
+**Dergâh**: Tarikatların toplantı merkezi.\
+**Suffe**: İslamdaki ilk eğitim kurumu.\
+**İmarethane**: Aşevi\
+**Külliye**: Çok amaçlı yapı
+
+Nizamiye Medreseleri kurulan ilk medreselerdir.

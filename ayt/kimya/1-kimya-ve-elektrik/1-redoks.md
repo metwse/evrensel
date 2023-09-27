@@ -127,9 +127,67 @@ Yarı tepkime ters çevrilirse ε⁰ın işareti değişir fakat yarı tepkime h
 ```js
                Mg(k) → Mg²⁺(suda) + 2e⁻   ε⁰ = +2,38V (anot yarı tepkimesi)
  +  Cu²⁺(suda) + 2e⁻ → Cu(k)              ε⁰ = +0,34V (katot yarı tepkimesi)
-----------------------------------------
-Cu²⁺(suda) + Mg(k) → Mg²⁺(suda) + Cu(k)   ε⁰ = +2,72V (pil tepkimesi)
+-----------------------------------------
+ Cu²⁺(suda) + Mg(k) → Mg²⁺(suda) + Cu(k)   ε⁰ = +2,72V (pil tepkimesi)
 ```
 
 Galvanik hücre çalışmaya başladığında anotta aşınma katotta birikim gözlenir. Elektronlar dış devrede anottan katoda, iç devrede ise katottan anoda doğru hareket eder.\
 ![galvanik pil](img/galvanik-pil.svg) 
+
+*örnek 10*\
+Ni²⁺(suda) + 2e⁻ → Ni⁰(k) ε⁰ = -0,25V\
+Ag⁺(suda) + 1e⁻ → Ag⁰(k) ε⁰ = +0,80V\
+1. Anot ve katot yarı tepkimelerini yazarak anodu, katodu ve bunların yük denkliğini yazınız.
+```js
+              Ni⁰(k) → Ni²⁺(suda) + 2e⁻       ε⁰ = +0,25V (anot yarı tepkimesi)
+ +  2Ag⁺(suda) + 2e⁻ → 2Ag⁰(k)                ε⁰ = +0,80V (katot yarı tepkimesi)
+```
+2. Pil tepkimelerinde yazarak pil potansiyelini hesaplayınız. Pilin çalışıp çalışmadığını belirtiniz.\
+```js
+2Ag⁺(suda) + Ni(k) 2e⁻ → 2Ag(k) + Ni²⁺ + 2e⁻  ε⁰ = +1,05V
+ε⁰ > 0 ise pil kendiliğinden çalışır
+ε⁰ < 0 ise pil çalışmaz
+ε⁰ = 0 ise pil dengeye ulaşıştır
+```
+3. Pil şemasını yazınız.\
+anottaki değişim//katottaki değişim\
+Ni(k)/Ni²⁺(aq)//2Ag⁺(aq)/2Ag(k)
+4. Galvanik hücreyi çizerek elektron hareket yönünü ve tuz köprüsünde anyon - katyon hareketini gösteriniz.
+![çözüm](img/örnek/10-1-çözüm.svg) 
+
+
+*örnek 11*\
+Mg(k) → Mg²⁺ + 2e⁻ ε⁰ = +2,40V
+Cu(k) → Cu²⁺ + 2e⁻ ε⁰ = -0,34V
+1. Anot ve katot yarı tepkimelerini yazarak anodu, katodu ve bunların yük denkliğini yazınız.
+```js
+             Mg(k) → Mg²⁺(aq) + 2e⁻    ε⁰ = +2,40V  (katot yarı tepkimesi)
+ +  Cu²⁺(aq) + 2e⁻ → Cu(k)             ε⁰ = +0,34V  (anot yarı tepkimesi)
+-------------------------------------
+ Mg(k) + Cu²⁺(aq) → Mg²⁺(aq) + Cu(k)   ε⁰ = +2.74V
+```
+
+
+## Standart Hidrojen Elektrotu
+![standart hidrojen elektrotu](img/standart-hidrojen-elektrotu.svg) 
+
+## Derişim Pilleri
+Anot ve katodun aynı metalden yapıldığı, elektrolit olarak aynı metalik katyonunu içeren pillerdir. Pilin kendiliğinden çalışabilmesi için elektrolit derişimlerinin farklı olması gerekir. Bu tür çalışan pillerde derişimi küçük olan yarı hücre anot alınır.
+
+![derişim elektrotu](img/derişim-elektrotu.svg)\
+Elektrolit derişimleri bir molardan farklı olduğu için pil potansiyeli Nerst denliğinden hasaplanır. Bu denkliğe göre:\
+pil pil potansiyeli = Δε = Δε⁰ - logQ × 0,059 / n\
+Δε⁰ = standart pil potansiyeli\
+Δε = yeni pil potansiyeli\
+n = alınan ya da verilen toplan elektron sayısı\
+Q = denge kesri = \[anot iyon\] ^ n / \[katot iyon\] ^ m
+
+*örnek 11*\
+![soru 11](img/soru-11.svg)\
+Δε kaçtır?\
+(log2 = 0,3) (0,059 değerini 0,06 alınız)\
+Ag⁺ (2M) ⇄ Ag⁺ (1M)\
+Q = 1/2\
+n = 1\
+Δε⁰ = 0\
+Δε = 0 - 0,06 × log(1/2) = 18e-3V
