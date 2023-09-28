@@ -1,6 +1,6 @@
 # Hücre Bölünmeleri
 
-## Amiyoz
+## Amitoz
 1. Mitoz olmayan mitoz.
 2. İğ iplikleri yok.
 3. Kromozom oluşmaz.
@@ -18,8 +18,12 @@
 
 ## Mayoz
 1. Gamet oluşur.
-2. Krossing over, çesitlilik görülür.
+2. Krossing over ve çesitlilik görülür.
 3. Oluşturduğu varyasyonlarla (varyete) evrime yardımcı olur.
+4. Üreme organlarındaki eşey ana hücrelerinde görülür.
+5. Üreme ana hücreleri iki kromozomludur. Üreme ana hücrelerinde homolog kromozomlar bir arada bulunur.
+6. Biri anneden biri babadan gelen şekil ve büyüklükleri aynı olan, karşılıklı lotuslarında aynı karakter genini taşıyan, kromozomlara homolog kromozomlar denir.
+7. 2n kromozomlu ana hücreden n kromozomlu dört hücre oluşur.
 
 # Hücre Döngüsü
 ![hücre döngüsü](img/hücre-döngüsü.svg) 
