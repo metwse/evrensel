@@ -108,7 +108,7 @@ Elektrokimya, kimyasal tepkimelerle elektrik enerjisi arasındaki ilişkiyi ince
 **Elektrolit**: Elektrokimyasal tepkimenin gerçekleşmesi için kullanılan iletken çözeltilere elektrolit denir. Sıvı tuzlar; asit, baz ve tuzların sulu çözeltileri elektrolittir.\
 **Elektrot**: Elektrolit çözeltilere batırılan iletken çözeltilere elektrot denir. Elektrotlarda metaller kullanıldığı gibi grafit de kullanılabilir. Metal elektrotlarda elektrotun yapıldığı metal ile çözeltideki metal katyonu aynı ya da farklı olabilir.\
 **Yarı Hücre**: Bir elektrolit ve buna batırılmış elektrottan oluşan sistemlere yarı hücre denir. Kimyasal bir pilde iki yarı hücre, bunları birbirine bağlayan bir iletken ve iki hücredeki metal katyonlarının dengesini sağlamak için içi doymuş tuz çözeltisiyle doldurulmuş U borusu gerekir.
-![elektrolit elektrot](img/elektorlit-elektrolit.svg) 
+![elektrolit elektrot](img/elektrolit-elektrot.svg) 
 
 İndirgenmenin olduğu elektrota katot, yükseltgenmenin olduğu elektrota anot nedir. Pil tepkimeleri ekzotermik denge tepkimeleridir. Tepkime başladıktan sonra akım üretimi dengeye ulaşıncaya kadar devam eder. Dengeye ulaşan pil bitmiştir.
 
