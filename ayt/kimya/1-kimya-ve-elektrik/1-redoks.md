@@ -183,7 +183,7 @@ n = alınan ya da verilen toplan elektron sayısı\
 Q = denge kesri = \[anot iyon\] ^ n / \[katot iyon\] ^ m
 
 *örnek 11*\
-![soru 11](img/soru-11.svg)\
+![soru 11](img/11-soru.svg)\
 Δε kaçtır?\
 (log2 = 0,3) (0,059 değerini 0,06 alınız)\
 Ag⁺ (2M) ⇄ Ag⁺ (1M)\
