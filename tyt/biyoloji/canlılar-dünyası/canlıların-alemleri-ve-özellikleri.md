@@ -1,5 +1,3 @@
-# Canlı Âlemleri ve Özellikleri
-
 ## 1. Bakteri
 1. Prokaryot yepılıdır.
 2. Genellikle küre (coccus), çubuk (bacillus), virgül (vibro) ya da sipiral (sprillus).
@@ -52,7 +50,7 @@ flowchart TD
 
 
 ## 3. Protistler
-1. Tek hücrelilikten çolk hücreliğe geçişte ara formdur. Koloni biçiminde yaşar.
+1. Tek hücrelilikten çolk hücreliliğe geçişte ara formdur. Koloni biçiminde yaşar.
 2. Belirgin çekirdek ve zarlı organelleri bulunur.
 3. Öglena, Tyrpanosoma, amip, plazmodyum, paramesyum, algler ve cıvık mantarlar örnekleridir.
 4. Sil (paramesyum), kamçı (öglena) ve yalancı ayak (amip) bulundurabilir.

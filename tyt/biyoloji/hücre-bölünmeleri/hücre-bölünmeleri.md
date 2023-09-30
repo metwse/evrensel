@@ -11,19 +11,24 @@
 2. Çekirdek bölünür.
 3. Sitoplazma bölünmez.
 4. Çok çekirdekli hücreler oluşur.
-5. Çizgili kaslarda olmaz. Polen, haraciğer ve kemik hücrelerinde endomitoz gerçekleşir.
+5. Çizgili kaslarda olmaz. Polen, karaciğer ve kemik hücrelerinde endomitoz gerçekleşir.
 
 ## Mitoz
 1. DNA eşlenir, çekirdek ve sitoplazma bölünür.
 
 ## Mayoz
 1. Gamet oluşur.
-2. Krossing over ve çesitlilik görülür.
+2. Krossing over ve çeşitlilik görülür.
 3. Oluşturduğu varyasyonlarla (varyete) evrime yardımcı olur.
 4. Üreme organlarındaki eşey ana hücrelerinde görülür.
 5. Üreme ana hücreleri iki kromozomludur. Üreme ana hücrelerinde homolog kromozomlar bir arada bulunur.
 6. Biri anneden biri babadan gelen şekil ve büyüklükleri aynı olan, karşılıklı lotuslarında aynı karakter genini taşıyan, kromozomlara homolog kromozomlar denir.
 7. 2n kromozomlu ana hücreden n kromozomlu dört hücre oluşur.
+8. İnsanda yaklaşık 30 bin karakter geni vardır.
+9. Mayoz sonucu oluşan dört hücrenin kalıtsal yapısı birbirinden genellikle farklıdır.
+10. **Tetrat**: 4 kromatinli yapı.\
+**Sinapsis**: Homolog kromozomların yan yana gelerek birbiriyle temas etmesi.\
+**Kiyazma**: Sinaps sırasında yan yana gelen kromozomların temas ettikleri bölgeler.
 
 # Hücre Döngüsü
 ![hücre döngüsü](img/hücre-döngüsü.svg) 
@@ -37,7 +42,6 @@ birbirinin aynıdır;
 Ⅱ organellerin sayısı\
 farklı olabilir.
 
-
 ## İnterfaz
 1. İki bölünme arasında geçen evredir.
 2. Hücre büyür, organel sayısı artar.
@@ -49,7 +53,7 @@ farklı olabilir.
 2. Tek hücrelilerde üremeyi, çok hücrelilerde büyümeyi sağlar.
 3. Genel olarak vücut hücrelerinde görülür.
 4. Bölünme sonucunda kromozom sayısı değişmez.
-5. İnterfaz ve mitotik evre tamamlandığında oluşan hücreler tekrar bölünebilir. Bazı hücrelerse farlılaşarak bölünme yeteneğini kaybeder.
+5. İnterfaz ve mitotik evre tamamlandığında oluşan hücreler tekrar bölünebilir. Bazı hücrelerse farklılaşarak bölünme yeteneğini kaybeder.
 
 #### Karyokinez (Sitoplazma Bölünmesi)
 ##### Profaz
@@ -65,7 +69,7 @@ farklı olabilir.
 
 ##### Anafaz
 1. Hücre boğumlanmaya başlar.
-2. Kardeş kromotitler birbirinden ayrılarak kromozom adı alır.
+2. Kardeş kromatitler birbirinden ayrılarak kromozom adı alır.
 
 ##### Telofaz
 1. Çekirdek zarı oluşmaya başlar.
@@ -78,7 +82,7 @@ farklı olabilir.
 3. Bitki hücrelerinde telofazdan sonra ayrı bir evre olarak gerçekleşir.
 
 ##### Bitki Hücrelerinde Sitokinez
-1. Golgi cisimciği pektin isimli poisakkarit içeren kesecikler salgılar.
+1. Golgi cisimciği pektin isimli polisakkarit içeren kesecikler salgılar.
 2. Pektinler motor proteinlerle hücrenin ortasına taşınır.
 3. Hücrenin ortasında dizilmiş pektinler birleşerek hücreleri zarla ayırır.
 4. Zarın oluşumundan sonra bitki zarında bulunan selülaz sentaz selüloz sentezleyerek hücre çeperini oluşturur.
