@@ -25,7 +25,7 @@ pinus sylvestris   sarı çam
     cins adı
 ```
 
-### Yapay Sınıfllandırma
+### Yapay Sınıflandırma
 Aristo zamanında yapılan sınıflandırma. Canlıları dış görünüşlerine göre sınıflandırır. Bilimsel bir kıymeti yoktur. Analog (görevdeş) organlar dikkate alınarak yapılmıştır.\
 Anolog organlar: sineğin kanadı, yarasanın kanadı
 
