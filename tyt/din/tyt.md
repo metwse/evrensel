@@ -29,8 +29,10 @@
 
 <= köleler === mevali (orta sınıf) === hürler =>
 
-İtikati (imanla ilgili) mezhepler:\
+İtikadi (imanla ilgili) mezhepler:\
 akılcılar <= mutezile === maturidi === eşariler => vahiyciler (nass)
+
+<= sünnet === vacip === farz =>
 
 **Sadaka-ı Cariye** *sünnet*: Bir kurum ya da yapı yaptırıldığında (çeşme gibi) sürekli devam eden sadakkadır.\
 **Fitre (Sadakai Fıtır)**, *vacip*: Ramazan ayında verilen sadaka.\
@@ -49,17 +51,33 @@ Anne, baba, çocuk, dede ve neneye verilenler zekat sayılmaz. Sadaka zekat değ
 | kıyam bi nefsihi | kendindenlik |
 
 ### Peygamberlerin Özellikleri
-1. sıdk: dürüst ve doğru
-2. emanet: güvenilir
-3. fetanet: zeki
-4. ismet: günahtan korunmuştur
-5. tebliğ: her peygamber Allah'tan aldığı vahiyi insanlara iletir
+1. Sıdk: Dürüst ve doğru
+2. Emanet: Güvenilir
+3. Fetanet: Zeki
+4. İsmet: Günahtan korunmuştur
+5. Tebliğ: Her peygamber Allah'tan aldığı vahiyi insanlara iletir
 
-### Peygamberin 
-**Tebyin**: Dini açıklaması\
-**Temsil**: Örnek olması\
-**Teşrı**: Hüküm koymak\
-**Tebliğ**: Kuran'ı insanlara ulaştırmak
+### Muhammed Peygamberin Görevleri
+1. Tebyin: Dini açıklaması
+2. Temsil: Örnek olması
+3. Teşri: Hüküm koymak
+4. Tebliğ: Kuran'ı insanlara ulaştırmak
+
+### Namazın Hazırlık Şartları
+1. Hadesten Tahâret: Manevi temizlik. Abdestle, gusülle veya teyemmüm namaza hazırlanmak. 
+2. Necasetten Tahâret: Maddi temizlik. Namaz kılınan yeri ve elbiseyi temiz tutmak.
+3. Setri Avret: Namazda örtülmesi gereken yerleri örtmek.
+4. İstikbalî Kıble: Kabe'nin bulunduğu yöne doğru yönelmek.
+5. Vakit: Her namazı kendi vakti içerisinde kılmak.
+6. Niyet: Kılınan namazın hangi namaz olduğunu bilerek niyet etmek.
+
+### Namazın Rükünleri
+1. İftitah Tekbiri (Başlama Tekbiri): Namaza "Allahu ekber" diyerek başlamak.
+2. Kıyam: Namazda ayakta durmak.
+3. Kıraat: Namazda Kur'an'dan en az üç ayet okumak.
+4. Rükû: Elleri dizlere koyarak eğilmek.
+5. Secde: Alın, burun, dizler, eller ve ayakları yere koymak.
+6. Kâdei Âhire: Namazın sonunda "Ettehiyyâtü" duasını okuyacak kadar oturmak.
 
 # 12.1 Din - Bilim İlişkisi
 **Sünnetullah**: Doğa yasaları\

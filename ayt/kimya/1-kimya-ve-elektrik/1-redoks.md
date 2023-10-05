@@ -191,3 +191,42 @@ Q = 1/2\
 n = 1\
 Δε⁰ = 0\
 Δε = 0 - 0,06 × log(1/2) = 18e-3V
+
+
+# Metallerde Aktiflik
+Bir elementin kimyasal tepkimeye girme isteğine *aktiflik* denir. Metaller elektron verme, ametaller ise elektron alma eğilimindedir. Buna göre yükseltgenme eğilimi büyük olan metallere *aktif metal*, indirgenme eğilimi büyük olan ametallere *aktif ametal* denir.
+
+ε⁰ potansiyeli pozitif olan metaller aktif, negatif olan metaller ise pasif metal olarak tanımlanır. Pasif metaller yarı soy ve soy metal olarak iki grupta incelenir.
+
+*Yarı soy metaller*: Cu, Ag, Hg\
+*Soy metaller*: Au, Pt
+
+![metalik aktiflik](img/aktiflik-zn-h.svg)\
+Kapta tepkime kendiliğinden gerçekleşiyor.\
+Zn⁰(k) → Zn⁺² + 2e\
+2H⁺(aq) + 2e → H₂⁰\
+Yükseltgenme eğilimi büyük olan Zn'dir
+
+![metalik aktiflik](img/aktiflik-ag-zn.svg)\
+Kapta herhângi bir tepkime gerçekleşmez. Zn'nun aktifliği Ag'ten büyüktür.
+
+*Kapta tepkime gerçekleşiyorsa katı hâldeki metal, tepkime gerçekleşmiyorsa iyon hâldeki metal daha aktiftir.
+
+
+# Elektroliz
+1. Elektrokimyasal piller (galvanik hücreler) kimyasal enerjiyi elektrik enerjisine dönüştürür. Bu hücrelerdeki redoks tepkimeleri istemli redoks tepkimeleridir.
+2. Elektrik akımı kullanılarak gerçekleştirilen istemsiz redoks tepkimeleri *elektroliz* olarak adlandırılır. Bu sistemlere *elektrolitik hücre* denir.
+3. Elektroliz olayını bozabilmesi için katot ile anot arasına minimum bir gerilim uygulanması zorludur. Bu değere *ayrışma potansiyeli* denir. Bu değer aynı bileşenlerden galvanik hücre elde edildiğinde bulunan Δε⁰ değerinden büyük olmalıdır.
+4. Elektroliz kimyasal bir ayrışma yöntemidir. Tek yönlü gerçekleşir ve endotermiktir. Tepkimenin tek yönlü olabilmesi için anyonlar ve katyonlar zıt elektrotlara doğru hareket etmelidir.
+
+![elektroliz](img/elektroliz.svg)\
+Elektrolizde önce pasif olanlar toplanır.
+
+| K (-) | A (+) |
+|-|-|
+| Soy metaller (Pt, Au) | Halojenler (F hariç, I₂, Br₂, Cl₂...) |
+| Yarı soy metaller (Cu, Ag, Hg) | Sudan gelen OH⁻ iyonu, 2O⁻² → O₂⁰ + 4e⁻ |
+| Sudan gelen H⁺, 2H⁺ + 2e⁻ → H₂⁰(g) | F⁻ iyonu |
+| B grupları | Kökler |
+
+Elektrolit olarak kullanılan sıvılar incelendiğinde ya bir tür (+) ve bir tür (-)den oluşan elektrolit (Herhângi bir tuzun elektroliti gibi.) ya da birden fazla (+) ve (-) yük içeren elektrolitler (Farklı tuzların elektrolitlerinin karışımları gibi.) kullanılabilir.
