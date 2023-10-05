@@ -34,9 +34,9 @@ akılcılar <= mutezile === maturidi === eşariler => vahiyciler (nass)
 
 <= sünnet === vacip === farz =>
 
-**Sadaka-ı Cariye** *sünnet*: Bir kurum ya da yapı yaptırıldığında (çeşme gibi) sürekli devam eden sadakkadır.\
+**Sadaka-ı Cariye**, *sünnet*: Bir kurum ya da yapı yaptırıldığında (çeşme gibi) sürekli devam eden sadakkadır.\
 **Fitre (Sadakai Fıtır)**, *vacip*: Ramazan ayında verilen sadaka.\
-**Zekat** *farz*: Farz olan yardım.\
+**Zekat**, *farz*: Farz olan yardım.\
 Anne, baba, çocuk, dede ve neneye verilenler zekat sayılmaz. Sadaka zekat değildir.
 
 ### Allah'ın Sıfatları
