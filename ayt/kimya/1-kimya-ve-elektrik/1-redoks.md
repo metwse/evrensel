@@ -151,7 +151,7 @@ Ag⁺(suda) + 1e⁻ → Ag⁰(k) ε⁰ = +0,80V\
 ```
 3. Pil şemasını yazınız.\
 anottaki değişim//katottaki değişim\
-Ni(k)/Ni²⁺(aq)//2Ag⁺(aq)/2Ag(k)
+Ni(k) / Ni²⁺(aq) // 2Ag⁺(aq) / 2Ag(k)
 4. Galvanik hücreyi çizerek elektron hareket yönünü ve tuz köprüsünde anyon - katyon hareketini gösteriniz.
 ![çözüm](img/örnek/10-1-çözüm.svg) 
 

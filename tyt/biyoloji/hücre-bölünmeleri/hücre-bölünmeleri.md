@@ -142,9 +142,18 @@ Vejetatif Üreme Yöntemleri
 
 | vücut düzeyinde | organ düzeyinde | doku düzeyinde |
 |--|--|--|
-| toprak solucanı<br/>yassı solucan<br/>yuvarlak solucan<br/>deniz yıldızı | kertenkele<br/>deniz yıldızı | insan
+| toprak solucanı<br/>yassı solucan<br/>yuvarlak solucan<br/>deniz yıldızı | kertenkele<br/>deniz yıldızı | insan |
 
 ## 6. Partenogenez
 1. Omurgalı hayvanlarda görülen partenogeneze deneysel partenogenez denir.
 2. Arılar, karıncalar, yaprak bitleri ve su bitlerinde görülür.
 ![partenogenez](img/partenogenez.svg) 
+
+
+# Eşeyli Üreme
+1. Özelleşmiş iki eşey hücresinin birleşmesiyle yeni bireyim meydana gelmesi olayıdır.
+2. Tür içi çeşitliliği artırır. Yeni gen varyasyonlarının oluşmasını sağlar.
+3. Eşeyli üreyen canlılarda özelleşmiş üreme organları bulunur.
+4. Omurgasız hayvanların bir kısmında dişi ve erkek üreme organları bir canlıda bulunur. Bu tip canlılara *hermafdodit (erselik)* denir.
+5. Bir yere yapışık olarak yaşayan omurgasızlarla iç parazitlerde birey hem sperm hem de yumurta üretir.
+6. Çiçekli bitkilerde erkek organ polen, dişi organ yumurta üretir.
