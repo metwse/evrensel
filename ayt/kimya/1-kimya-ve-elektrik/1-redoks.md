@@ -230,3 +230,42 @@ Elektrolizde önce pasif olanlar toplanır.
 | B grupları | Kökler |
 
 Elektrolit olarak kullanılan sıvılar incelendiğinde ya bir tür (+) ve bir tür (-)den oluşan elektrolit (Herhângi bir tuzun elektroliti gibi.) ya da birden fazla (+) ve (-) yük içeren elektrolitler (Farklı tuzların elektrolitlerinin karışımları gibi.) kullanılabilir.
+
+
+*örnek 12*\
+![soru 12](img/örnek/12-soru.svg)\
+Katot ve anotta toplanacak iyonları yazınız.
+
+| A (+) | K (-) |
+|-|-|
+| Cl⁻ | Na⁺ |
+| I⁻ | Mg⁺ |
+| OH⁻ | H⁺ |
+
+Önce pasif elementler toplanır.\
+Anotta toplanma sırası: I₂, Cl₂, O₂ \
+Katotta toplanma sırası: H₂, Mg(k), Na(k)
+
+
+*örnek 13*\
+![soru 13](img/örnek/13-soru.svg)\
+Toplanma sıralarını yazınız. (elektron verme eğilimi Mg > Zn > H₂ > Br₂ > Cl₂ > OH⁻)
+
+Katotta toplananlar: Br₂ - Cl₂ - O₂ \
+Anotta toplananlar: H₂ - Zn(k) - Mg(k)
+
+## Elektrolizde Toplanan Madde Miktarının Hesaplanması
+Q = I × t\
+Q: yük (c), I: akım (A), t: elektroliz süresi (s)\
+*Devreden bir mol elektron geçerse 96.500 coulomb yük oluşur.*
+
+
+*örnek 14*\
+0,3 mol elektron, erimiş XClₙ tuzundan 0,1 mol X açığa çıkartıyor. Buna göre n sayısı kaçtır?\
+A (+): Cl⁻ \
+K (-): Xⁿ⁺ \
+Xⁿ⁺ + ne⁻ → X⁰(k)\
+0,3 mol elektron 0,1 mol X açığa çıkarıyorsa n = 3
+
+
+*örnek 15*
