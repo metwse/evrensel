@@ -39,6 +39,10 @@ akılcılar <= mutezile === maturidi === eşariler => vahiyciler (nass)
 **Zekat**, *farz*: Farz olan yardım.\
 Anne, baba, çocuk, dede ve neneye verilenler zekat sayılmaz. Sadaka zekat değildir.
 
+**Fıkıh**: İbadetleri inceleyen bilim dalı. (Ebu Hanife)\
+**Kelam**: İslamın inançla ilgili boyutunu inceleyen bilim dalı. (İmam Maturidi)
+**Tasavvuf**: Allah'ı çokça anmak, nefis terbiyesi. (Ahmet Yesevi)
+
 ### Allah'ın Sıfatları
 | sıfat | Türkçesi |
 |-|-|
@@ -95,3 +99,19 @@ Anne, baba, çocuk, dede ve neneye verilenler zekat sayılmaz. Sadaka zekat değ
 **Külliye**: Çok amaçlı yapı
 
 Nizamiye Medreseleri kurulan ilk medreselerdir.
+
+# 12.2 Anadolu'da İslam
+Müslüman olan ilk Türk devleti *İdil (Volga) Bulgar Devleti*'dir.
+
+**Kut**: Yöneticilerin tanrıdan yetki alması.\
+**Ribat**: Hizmet binaları, cami, tekke, barınma vb. hizmetleri sunan yapı.
+
+**Feta**: Genç, yiğit, cömert\
+**Fütüvvet**: Gençlik, kahramanlık, cömertlik
+
+### Türklerin Müslüman Olmasında Etkili Gruplar
+1. Müslüman komutanlar
+2. Müslüman tüccarlar
+3. Müderrisler (din alimleri)
+4. Dervişler
+5. Ehl-i Beyt

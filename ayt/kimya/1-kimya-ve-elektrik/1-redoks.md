@@ -259,7 +259,6 @@ Q = I × t\
 Q: yük (c), I: akım (A), t: elektroliz süresi (s)\
 *Devreden bir mol elektron geçerse 96.500 coulomb yük oluşur.*
 
-
 *örnek 14*\
 0,3 mol elektron, erimiş XClₙ tuzundan 0,1 mol X açığa çıkartıyor. Buna göre n sayısı kaçtır?\
 A (+): Cl⁻ \
@@ -268,4 +267,43 @@ Xⁿ⁺ + ne⁻ → X⁰(k)\
 0,3 mol elektron 0,1 mol X açığa çıkarıyorsa n = 3
 
 
-*örnek 15*
+*örnek 15*\
+![soru 15](img/örnek/15-soru.svg)\
+Katodunda NK'da 2,24L H₂ gazı toplanıyor.\
+Katodunda hangi maddeden kaç gram toplanır? (Ag: 108, Cl: 35,5)
+```md
+0,1 mol H₂ → 0,2 mol elektron
+1 mol elektron → 1 mol Ag
+0,2 mol elektron → x mol Ag
+x = 0,2
+toplam Ag kütlesi: 21,6
+```
+
+*örnek 16*\
+Ⅰ. kapta Mg²⁺, Ⅱ. kapta X³⁺ iyonları çözünmüş hâldedir. Kaplar elektroliz ediliyor.\
+Seri bağlı kaplardan bir süre akım geçirildiğinde 1. kapra 7,2 gram Mg metali, 2. kapta 5,2 gram X metali toplandığına göre X metalinin mol kütlesi kaçtır? (Mg: 24)
+```md
+0,3 mol Mg → 0,6 mol elektron
+0,6 mol elektron → 0,2 mol X
+X'in kütlesi: 5,2 / 0,2 = 27
+```
+
+*örnek 17*
+Erimiş FeCl₃ ve XCl₄ sıvıları seri bağlı elektroliz kaplarına elektroliz edilirken birinci kabın katodunda 0,2 mol Fe metali oluşurken ikinci kabın katoduna 17,7 gram x metali oluşuyor. X'in atom kütlesi kaçtır?
+```md
+1 mol Fe³⁺ → 3 mol elektron
+0,2 mol Fe³⁺ → 0,6 mol elektron
+1 mol elektron → 0,25 mol X⁴+ 
+0,6 mol elektron → 0,15 mol X
+0,15 mol X 17,7 gram ise X'in atom kütlesi: 118
+```
+
+*örnek 18*\
+![soru 18](img/örnek/18-soru.svg)\
+Birinci ve ikinci kaplar özdeştir. Devreden bir süre akım geçirildiğinde kapların katotlarında 0,2 mol Al, 0,3 mol X ve 0,1 mol Y toplanıyor. m ve n değerleri kaçtır?
+```md
+0,2 mol Al³⁺ → 0,6 mol elektron
+0,6 mol elektron kollara sıfır tam onda üçer mol elektron olacak şekilde paylaşılacak.
+m: 1
+n: 3
+```

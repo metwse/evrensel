@@ -59,3 +59,4 @@ Gül (isim) saçtım (fiil) yollarına (isim)
 ### 1. Kişi Zamiri
 1. Sadece kişiler için kullanılır.
 2. ben, sen, o, biz, siz, onlar
+3. "O" ve "onlar" insan için kullanılırsa kişi zamiridir. İnsan dışı kullanılırsa işaret zamiridir.
