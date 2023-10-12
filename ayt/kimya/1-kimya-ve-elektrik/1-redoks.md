@@ -288,7 +288,7 @@ Seri bağlı kaplardan bir süre akım geçirildiğinde 1. kapra 7,2 gram Mg met
 X'in kütlesi: 5,2 / 0,2 = 27
 ```
 
-*örnek 17*
+*örnek 17*\
 Erimiş FeCl₃ ve XCl₄ sıvıları seri bağlı elektroliz kaplarına elektroliz edilirken birinci kabın katodunda 0,2 mol Fe metali oluşurken ikinci kabın katoduna 17,7 gram x metali oluşuyor. X'in atom kütlesi kaçtır?
 ```md
 1 mol Fe³⁺ → 3 mol elektron
@@ -307,3 +307,48 @@ Birinci ve ikinci kaplar özdeştir. Devreden bir süre akım geçirildiğinde k
 m: 1
 n: 3
 ```
+
+*örnek 19*\
+CuF₂ tuzunun sulu çözeltisi 19,3A akım ile 25 dakika elektroliz edildiğinde katotta kaç g madde toplanır? (H: 1, O: 16, F: 19, Cu: 64)
+```md
+60 × 25 × 19,3 / 96000 = 0,3 mol elektron
+0,3 mol elektron 0,15 mol Cu = 9,6g
+```
+
+*örnek 20*\
+Al³⁺ iyonlarını içeren bir çözeltiden 0,15 faradaylık elektrik yükü geçirildiğinde katotta kaç g Al metali toplanır? (Al: 27)
+```md
+1 faraday = 1 mol elektron yükü
+0,15 mol elektron 0,05 mol Al
+1,35g Al
+```
+
+*örnek 21*\
+Saf su, Hoffman voltmetresiyle elektroliz edildiğinde anot ve katotta toplam 120cm³ gaz toplanmaktadır. Buna göre anot ve katotta toplanan fazların türü ve hacimleri kaçtır?
+```md
+2H₂O → O₂ + 2H₂
+Ayotta O₂ 40cm³
+Katotta H₂ 80cm³
+```
+
+# Pil Türleri
+## a. Lityum İyon Pili
+1. 1972'de keşfedilmiş fakat piyasaya 1991'de sürülmüştür.
+2. Lityum iyon piller küçük fakat yüksek enerjili pillerdir. Fazla miktarda enerji üretebilirler.
+3. Bu pilin çalışması sırasında grafit katmanları arasında lityum atomları elektron verip lityum iyonuna dönüşürken grafiti terk eder. Katotta kobalt ve kobalt oksitten oluşan katmanlı bir yapı vardır. Elektrolitten geçen lityum iyonları katotta lityum kobalt oksit bileşiğine dönüşür. Tüm lityum iyonları anodu anodu terk ettiğinde pil bitmiştir.
+
+## b. Güneş Pili
+1. Güneş enerjisinden elektrik elde etmek için fotovolteik hücreler kullanılır.
+2. Fotovolteik hücreler yarı iletken malzemelerden üretilir ve Güneş ışığını doğrudan elektriğe çevirir.
+3. Güneş pilleri N tipi ve P tipi katkılanma olmak üzere iki grupta incelenir.\
+N tipinde Si eriğine cetvelin beşinci grup elementi olan F eklenir, silisyumun son yörüngesinde 4, fosforun son yörüngesinde 5 elektron olduğu için oluşan kristal yapıda elektron fazlalığı oluşur.\
+P tipi katkılanmada ise silisyum eriğine 3. grup elementlerinden biri (Al, B, In...) eklenir. Burada oluşan kristal yapıda da elektron eksikliği meydana gelir.\
+N ve P tipi katmanlar üst üste getirildiğinde fazla olan elektron eksik tarafa Güneş enerjisiyle geçerken akım üretilir.
+
+## c. Yakıt Pilleri
+1. Yakıt pilleri sürekli yakıtla beslendiğinden daima enerji üretir. Bu özelliklerinden dolayı da fosil yakıtların yerini alabilecek en iyi alternatif kaynaktır.
+2. Yakıt pilinde elektronlar, katoda doğru dış devreden aktarılırken H⁺ iyonları da elektrolit yardımıyla elektroda geçer. Katotta oksijen ve hidrojen tepkimeye girerek su oluşturur. Elektronun hareketiyle elektrik akımı üretilir.
+
+
+# Korozyon
+

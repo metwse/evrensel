@@ -83,6 +83,7 @@ Anne, baba, çocuk, dede ve neneye verilenler zekat sayılmaz. Sadaka zekat değ
 5. Secde: Alın, burun, dizler, eller ve ayakları yere koymak.
 6. Kâdei Âhire: Namazın sonunda "Ettehiyyâtü" duasını okuyacak kadar oturmak.
 
+
 # 12.1 Din - Bilim İlişkisi
 **Sünnetullah**: Doğa yasaları\
 **Tefekkür**: Düşünmek\
@@ -99,6 +100,7 @@ Anne, baba, çocuk, dede ve neneye verilenler zekat sayılmaz. Sadaka zekat değ
 **Külliye**: Çok amaçlı yapı
 
 Nizamiye Medreseleri kurulan ilk medreselerdir.
+
 
 # 12.2 Anadolu'da İslam
 Müslüman olan ilk Türk devleti *İdil (Volga) Bulgar Devleti*'dir.
