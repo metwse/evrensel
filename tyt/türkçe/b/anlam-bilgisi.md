@@ -1,4 +1,4 @@
-## Sözcükte Anlam
+# Sözcükte Anlam
 ### Gerçek Anlam
 Bir sözcüğün dilde kazandığı ilk anlamdır.
 - *Dar* sokaklardan geçti.
@@ -113,3 +113,38 @@ Yağmur yağdı, güneş vurdu eridim
 *Hırçın bir fırtınayı düşünüyordu deniz*
 
 ### 10. Doğadan İnsana Aktarma
+- Bedir'in *aslanları* bu kadar şanlıydı.
+- Bu sabah uğradım bir *fidana*.
+
+### 11. Somutlaştırma ve Soyutlama
+- *Düşüncelerimi çürütmek* (soyut düşünce sözcüğünü somut çürütmeyle somutlaştırmıştır) için bu kadar zorlama kendini.
+- Soruyu bir de bu *yolla* (somut yol kelimesi soyut yöntem anlamıyla kullanılarak soyutlaştırma) çözün.
+
+## Söz Öbekleri
+### 1. İkileme
+1. Birinci sözcük aynen kalırken ikinci sözcüğe yönelme eki getirilerek yapılan ikilemeler vardır.
+  - Yan yana, göz göze, diz dize, baş başa, el ele
+2. Yansıma sözcüklerle oluşturulan ikilemeler vardır.
+  - Çıtır çatur, şırıl şırıl, horul horul
+3. Yakın anlamlı sözcüklerin oluşturduğu ikilemeler vardır.
+  - Doğru dürüst, kılık kıyafet, yalan yanlış
+4. Zıt anlamlı kelimelerle kurulmuş ikilemeler vardır.
+  - Er geç, iyi kötü, az çok, eninde sonuna, altı üstü
+5. Biri anlamlı biri anlamsız iki kelimeden oluşmuş ikilemeler vardır.
+  - Hayal meyal, çoluk çocuk, saçma sapan
+6. Eş anlamlı sözcüklerle kurulurlar.
+  - Ses seda, akıllı uslu, it köpek
+7. İki anlamsız kelimeden oluşmuş ikilemeler vardır.
+  - Eciş bücüş, abur cubur
+
+### 2. Deyimler
+1. En az iki sözcüğün bir araya gelmesiyle oluşur.
+2. Çoğu mecaz anlamlıdır.
+3. Kalıplaşmış ifadeler olduğu için deyimi oluşturan sözcüklerin sırasını değiştiremeyiz.
+4. Sözcüklerini aynı anlama gelseler dahi başka sözcükle değiştiremeyiz.
+
+### 3. Vecize
+Özdeyiş.
+
+
+# Cümlede Anlam
