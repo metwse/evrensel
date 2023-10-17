@@ -148,3 +148,33 @@ Yağmur yağdı, güneş vurdu eridim
 
 
 # Cümlede Anlam
+### 1. Neden - Sonuç Cümlesi
+- Seni göremedim *diye* (diye zarf fiildir) bu bahar\
+İçimde bin türlü duygunun isyanı var
+- Mizah anlayışı, geleneksel mizah anlayışımıza *uyduğundan* yapıtlarından halk da hoşlanır, aydınlar da.
+
+### 2. Amaç - Sonuç Cümlesi
+- Gökte ay doğar seni görmek *için*.
+- Sanatçı iyi okumak *için* sade ve anlaşılır bir dil kullanıyor.
+
+### 3. Koşula Bağlılık Cümlesi
+- Fırsat verildiği *takdirde* başarılı olabilirsin.
+- Geri *getirmek üzere* kalemimi alabilirsin.
+- Masallar güzel *anlatılırsa* çocuklar üzerinde etkisinden söz edilebilir.
+- Seni *gördü mü* çok mutlu oluyor.
+
+- Ahmet Hamdi Tanpınar, Huzur romanında oldukça uzun cümlelere yer vermiş, sıkça betimleme yapmıştır. (üslup cümlesi)
+- Kemal Tahir, "Rahmet Yolları Kesti" ve "Yedi Çınar Yaylası" adlı romanlarında ağalık ve eşkıyalık olgusunu dile getirmiştir. (içerik cümlesi)
+
+- "Kardeşimi dün burada gördüm." dedi. (doğrudan anlatım)
+- Her şey bir insanı sevmekle başlar, diyor Sait Faik. (doğrudan anlatım)
+- Cemal Süreya'nın kapalı bir anlatımının olduğunu söylüyor sanatçı. (dolaylı anlatım)
+
+- Gün doğmayabilir bir daha tepelerden. (olasılık)
+- Aradığın kitap masanın üzerinde olmalı. (olasılık)
+
+- Havanın kararmasına bakılırsa yağmur yağacak. (tahmin cümlesi, deneyimlere dayalıdır)
+
+- Diyelim ki vakitlerden bir nisan akşamıdır. (varsayım cümlesi)
+- Tut ki sınavı kazanamadın. (varsayım cümlesi)
+- Farz et ki senden hoşlanmıyor. (varsayım cümlesi)
