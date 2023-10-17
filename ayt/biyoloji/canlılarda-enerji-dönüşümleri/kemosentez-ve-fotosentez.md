@@ -41,4 +41,4 @@ Kemosentezde üretilen O₂ hücre dışına verilmez. Kemosentetik organizmalar
 
 ![bitkilerde fotosentez](img/bitkilerde-fotosentez.svg) 
 
-![kloroplastta fotosentez](kloroplastta-fotosentez.svg) 
+![kloroplastta fotosentez](img/kloroplastta-fotosentez.svg) 
