@@ -1,9 +1,9 @@
 # I. Dünya Savaşı
-1. \1\. Dünya Savaşı'ndan çekilen ilk ülke: Japonya
-2. \1\. Dünya Savaşı'ndan ihtilal nedeniyle çekilen: Rusya 
+1. 1\. Dünya Savaşı'ndan çekilen ilk ülke: Japonya
+2. 1\. Dünya Savaşı'ndan ihtilal nedeniyle çekilen: Rusya 
 3. İtilaf Devletleri'ne katılan son devlet: Yunanistan
 4. İttifak Devletleri'ne katılan son devlet: Bulgaristan 
-5. \1\. Dünya Savaşı'na katılan son devlet: ABD
+5. 1\. Dünya Savaşı'na katılan son devlet: ABD
 6. Dönemin padişahı: V. Mehmet Reşat
 
 ### Savaşın Nedenleri
