@@ -111,9 +111,19 @@ Müslüman olan ilk Türk devleti *İdil (Volga) Bulgar Devleti*'dir.
 **Feta**: Genç, yiğit, cömert\
 **Fütüvvet**: Gençlik, kahramanlık, cömertlik
 
+**İcma**: Dini bir konuda İslam alimlerin fikir birliği içinde olması.
+
 ### Türklerin Müslüman Olmasında Etkili Gruplar
 1. Müslüman komutanlar
 2. Müslüman tüccarlar
 3. Müderrisler (din alimleri)
 4. Dervişler
 5. Ehl-i Beyt
+
+### Ebü Hanife
+1. İmam-ı Âzam ismiyle popülerdir.
+2. Fıkhi bir mezhebin kurucusudur.
+3. Öğrencilerinin yazdığı eser: el-Fıkhü'l-Ekber
+
+### Cafer es-Sâdık
+1. İmamiye'nin altıncı imamıdır.
