@@ -24,6 +24,19 @@ Kemosentezde üretilen O₂ hücre dışına verilmez. Kemosentetik organizmalar
   - Klorofil kloroplastta
   - Fotosentez kloroplastta başlar ve tamamlanır
   - Ökaryotlar fotosentezde H₂O ile CO₂ kullanır
+4. Işık varken: fotosentez hızı > solunum hızı\
+Hava parçalı bulutluysa: fotosentez hızı ≤ solunum hızı olabilir\
+Karanlık ortamda: solunum hızı
+5. 6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O\
+NO₃⁻ veya PO₄³⁻ girerse: aminoasitler, nükleotit, vitamin\
+yağ asidi oluşabilir
+
+| Işığa Bağlı Reaksiyonlar | Işıktan Bağımsız Reaksiyonlar |
+|--|--|
+| klroplastın tilakoit zarında gerçekleşir | kloroplastın stoplazmasında gerçekleşir |
+| ışık, klorofil, ETS görev yapar | ışık, klorofil, ETS görev yapmaz |
+| NADP⁺, ADP, P₂, H₂O kullanılı√ |  |
+
 
 ## Bakteri Fotosentezi
 1. Klorofil aracılığıyla gerçekleşir

@@ -36,7 +36,7 @@ Arnavutluk kaybedilmiştir. Osmanlıdan ayrılıp bağımsız olan son devlet Ar
 ü&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *vs* Bulgaristan\
 **S**ırbistan\
 e\
-**K**aradağ\
+**K**aradağ
 2. Osmanlı savaşa daha sonradan katılmıştır, Bulgaristan'dan toprak almıştır.
 3. M. Kemal de bu savaşta yer aldı (yarbay).
 

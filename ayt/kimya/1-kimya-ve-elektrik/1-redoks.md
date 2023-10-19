@@ -324,10 +324,10 @@ Al³⁺ iyonlarını içeren bir çözeltiden 0,15 faradaylık elektrik yükü g
 ```
 
 *örnek 21*\
-Saf su, Hoffman voltmetresiyle elektroliz edildiğinde anot ve katotta toplam 120cm³ gaz toplanmaktadır. Buna göre anot ve katotta toplanan fazların türü ve hacimleri kaçtır?
+Saf su, Hoffman voltametresiyle elektroliz edildiğinde anot ve katotta toplam 120cm³ gaz toplanmaktadır. Buna göre anot ve katotta toplanan fazların türü ve hacimleri kaçtır?
 ```md
 2H₂O → O₂ + 2H₂
-Ayotta O₂ 40cm³
+Anotta O₂ 40cm³
 Katotta H₂ 80cm³
 ```
 
@@ -351,4 +351,17 @@ N ve P tipi katmanlar üst üste getirildiğinde fazla olan elektron eksik taraf
 
 
 # Korozyon
+1. Metal veya alaşımlarının çeşitli etkiler altında istemli kimyasal ya da elektrokimyasal tepkimeler sonucu aşınmasına ya da metalik özelliklerini kaybetmesine korozyon denir. 
+2. Metallerin korozyona uğrama eğilimleri oksijen ile olan ilgilerine bağlıdır. Oksijen ilgisi çok olan metaller daha kolay korozyona uğrar.
+3. Nem, sıcaklık, metale farklı metal teması ve metal üzerinde elektrolit toplanması korozyonu etkileyen faktörlerdir.
+4. Nemli ortam, metalin korozyona uğramasını hızlandırır çünkü sudan oluşan ince bir katman elektrolit olarak metalin yüzeyini kaplar. Bu da metalin havadaki oksijenle etkileşimi hızlandırır. 
+5. Eğer metal oksitlenme eğilimi (yükseltgenme eğilimi) düşük olan metallerle temas ettirilirse daha hızı korozyona uğrar.
+6. Korozyondan korunma yolları:
+  - Boyama\
+  Metallerin boyanması, oksijen ve suyun metalle olan doğrudan temasını engelleyerek korozyonu önler fakat boya yüzeyi aşındığında korozyon tekrar başlar.
+  - Elektro kaplama\
+  Elektroliz sırasında katot görevi gören metal malzeme üzerine ikinci bir metal tabakasını elektrikle kaplamadır. Daha çok Zn, Sn ya da Cr metalleri tercih edilir. Çinko kullanılarak yapılan elektro kaplamaya *galvanizleme* denir.
+  - Katodik koruma\
+  Metalin üzerine kendisinden daha aktif bir metal tutturulmasına katodik koruma denir. Aktif metal yükseltgenerek kendi yapısını değiştirirken metali korur. Bu nedenle metale tutturulan aktif metale kurban elektrot denir.
+
 

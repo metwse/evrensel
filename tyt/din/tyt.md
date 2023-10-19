@@ -22,6 +22,8 @@
 \- **Nebi**: Kendisine kitap verilmemiş peygamber\
 \- **Rasul**: Kendisine kitap verilmiş peygamber
 
+**Salih Amel**: İbadet
+
 **Tevhit**: Allah'ın bir olduğuna inanma\
 **Müşrik**: (Şirk) Allah'ın yanında başka ilaha inanma ya da sadece başka bir ilaha inanmak\
 **Kafir**: Allah'ın varlığını reddeden\
@@ -40,7 +42,7 @@ akılcılar <= mutezile === maturidi === eşariler => vahiyciler (nass)
 Anne, baba, çocuk, dede ve neneye verilenler zekat sayılmaz. Sadaka zekat değildir.
 
 **Fıkıh**: İbadetleri inceleyen bilim dalı. (Ebu Hanife)\
-**Kelam**: İslamın inançla ilgili boyutunu inceleyen bilim dalı. (İmam Maturidi)
+**Kelam**: İslamın inançla ilgili boyutunu inceleyen bilim dalı. (İmam Maturidi)\
 **Tasavvuf**: Allah'ı çokça anmak, nefis terbiyesi. (Ahmet Yesevi)
 
 ### Allah'ın Sıfatları
