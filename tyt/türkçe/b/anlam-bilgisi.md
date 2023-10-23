@@ -163,31 +163,62 @@ Yağmur yağdı, güneş vurdu eridim
 - Masallar güzel *anlatılırsa* çocuklar üzerinde etkisinden söz edilebilir.
 - Seni *gördü mü* çok mutlu oluyor.
 
-
+### 4. Üslup ve İçerik Cümleleri
 - Ahmet Hamdi Tanpınar, Huzur romanında oldukça uzun cümlelere yer vermiş, sıkça betimleme yapmıştır. (üslup cümlesi)
 - Kemal Tahir, "Rahmet Yolları Kesti" ve "Yedi Çınar Yaylası" adlı romanlarında ağalık ve eşkıyalık olgusunu dile getirmiştir. (içerik cümlesi)
 
-
+### 5. Doğrudan ve Dolaylı Anlatım
 - "Kardeşimi dün burada gördüm." dedi. (doğrudan anlatım)
 - Her şey bir insanı sevmekle başlar, diyor Sait Faik. (doğrudan anlatım)
 - Cemal Süreya'nın kapalı bir anlatımının olduğunu söylüyor sanatçı. (dolaylı anlatım)
 
+### 6. Olasılık Cümlesi
+- Gün doğmayabilir bir daha tepelerden.
+- Aradığın kitap masanın üzerinde olmalı.
 
-- Gün doğmayabilir bir daha tepelerden. (olasılık)
-- Aradığın kitap masanın üzerinde olmalı. (olasılık)
+### 7. Tahmin Cümlesi
+- Havanın kararmasına bakılırsa yağmur yağacak. (Tahmin cümlesi, deneyimlere dayalıdır.)
 
-
-- Havanın kararmasına bakılırsa yağmur yağacak. (tahmin cümlesi, deneyimlere dayalıdır.)
-
-
-- Diyelim ki vakitlerden bir nisan akşamıdır. (varsayım cümlesi)
+### 8. Varsayım Cümlesi
+- Diyelim ki vakitlerden bir nisan akşamıdır.
 - Tut ki sınavı kazanamadın. (varsayım cümlesi)
 - Farz et ki senden hoşlanmıyor. (varsayım cümlesi)
 
+### 9. Ön Yargı Cümlesi
+- Göreceksiniz bu yılki sınavda da başarısız olacaktır.
 
-- Göreceksiniz bu yılki sınavda da başarısız olacaktır. (ön yargı cümlesi)
-- Yazar, farklı olma kaygısıyla romanın birçok yerinde anlamsızlığa düşmüş.
-- Son kitabımda yeterince titiz davranmadığımı söyleyebilirim.
+### 10. Eleştiri Cümlesi
+- Yazar, farklı olma kaygısıyla romanın birçok yerinde anlamsızlığa düşmüş. (eleştiri cümlesi)
+- Son kitabımda yeterince titiz davranmadığımı söyleyebilirim. (öz eleştiri cümlesi)
+
+### 11. Tanım Cümlesi
 - Sanat, hayatı yüceltme ve daha anlamlı kılma cabasıdır.
+
+### 12. Aşamalı Anlatım Cümlesi
 - Hayatı anladıkça büyür insan\
 Büyüdükçe döner ilk yalnızlığına
+
+### 13. Hayıflanma, Pişmanlık ve Yakınma Cümleleri
+- Keşke, şu an sona güzel bir söz söyleyebilmek için binlerce kitap okumuş olsaydım. (Hayıflanma cümlesi, yapılmayan işten yakınılır.)
+- Ona dün akşam boşu boşuna kızdım. (Pişmanlık cümlesi, yapılmış şeyden yakınılır.)
+- Söyleyin söyleyin kim anlar dilimden\
+Kim alır yarı yolda kalmış selamımı. (yakınma cümlesi)
+
+### 14. Öykünme Cümlesi
+- Kardeşi, ünlü dizi oyuncuları gibi davranıyor.
+
+### 15. Yadsıma (İnkar) Cümlesi
+- Kim demiş Süheyla'ya vurulmuşum diye?
+
+### 16. Kanıksama Cümlesi
+- Sürekli azar işiten çocuk buna aldırmıyordu. (Kötü bir duruma alışmayı belirtir.)
+
+### 17. Gerçekleşmemiş Beklenti
+- Sınavda berece yapacağını sanıyordum.
+- Dün kahveye geldiğini zannetmiştim.
+
+### 18. İvedi Cümlesi
+- Dosyalar, hemen imzalanıp valiliğe gönderilecek.
+
+### 19. Saptama Cümlesi
+- Günümüzde yayıncılar, çok satan kitapların peşinde koşuyor, bir yazarın ya da kitabın değerini ne kadar sattığını belirliyor.
