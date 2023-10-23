@@ -163,18 +163,31 @@ Yağmur yağdı, güneş vurdu eridim
 - Masallar güzel *anlatılırsa* çocuklar üzerinde etkisinden söz edilebilir.
 - Seni *gördü mü* çok mutlu oluyor.
 
+
 - Ahmet Hamdi Tanpınar, Huzur romanında oldukça uzun cümlelere yer vermiş, sıkça betimleme yapmıştır. (üslup cümlesi)
 - Kemal Tahir, "Rahmet Yolları Kesti" ve "Yedi Çınar Yaylası" adlı romanlarında ağalık ve eşkıyalık olgusunu dile getirmiştir. (içerik cümlesi)
+
 
 - "Kardeşimi dün burada gördüm." dedi. (doğrudan anlatım)
 - Her şey bir insanı sevmekle başlar, diyor Sait Faik. (doğrudan anlatım)
 - Cemal Süreya'nın kapalı bir anlatımının olduğunu söylüyor sanatçı. (dolaylı anlatım)
 
+
 - Gün doğmayabilir bir daha tepelerden. (olasılık)
 - Aradığın kitap masanın üzerinde olmalı. (olasılık)
 
-- Havanın kararmasına bakılırsa yağmur yağacak. (tahmin cümlesi, deneyimlere dayalıdır)
+
+- Havanın kararmasına bakılırsa yağmur yağacak. (tahmin cümlesi, deneyimlere dayalıdır.)
+
 
 - Diyelim ki vakitlerden bir nisan akşamıdır. (varsayım cümlesi)
 - Tut ki sınavı kazanamadın. (varsayım cümlesi)
 - Farz et ki senden hoşlanmıyor. (varsayım cümlesi)
+
+
+- Göreceksiniz bu yılki sınavda da başarısız olacaktır. (ön yargı cümlesi)
+- Yazar, farklı olma kaygısıyla romanın birçok yerinde anlamsızlığa düşmüş.
+- Son kitabımda yeterince titiz davranmadığımı söyleyebilirim.
+- Sanat, hayatı yüceltme ve daha anlamlı kılma cabasıdır.
+- Hayatı anladıkça büyür insan\
+Büyüdükçe döner ilk yalnızlığına
