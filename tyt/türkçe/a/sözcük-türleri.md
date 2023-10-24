@@ -123,12 +123,12 @@ Gül (isim) saçtım (fiil) yollarına (isim)
 ```mermaid
 flowchart TD
     t[Sıfatlar]
-    t --> A[Niteleme sıfatı]
-    t --> B[Niteleme sıfatı]
-    A --> A-1[İşaret sıfatı]
-    A --> A-2[Belgisiz sıfat]
-    A --> A-3[Sayı sıfatı]
-    A --> A-4[Soru sıçatı]
+    t --> A[Niteleme Sıfatı]
+    t --> B[Belirtme Sıfatı]
+    A --> A-1[İşaret Sıfatı]
+    A --> A-2[Belgisiz Sıfat]
+    A --> A-3[Sayı Sıfatı]
+    A --> A-4[Soru Sıfatı]
 ```
 
 ### 1. Niteleme Sıfatı
@@ -141,3 +141,55 @@ flowchart TD
   - *Kimsesiz bedenime ve sokaklara* bir tek ben sahibim. (Sıfat birden çok ismi niteliyor.)
 - Niteleme sıfatının nitelediği isim düşerse sıfat ismin görevini üslenerek adlaşır.
   - Zorları Nilsu'ya çözdürüyordu.
+  - Yaşlı adam selam verdi.
+
+### 2. Belirte Sıfatı
+- İşaret, sayı, soru, belgisizlik yönünden isimleri tamlar.
+- Belirtme sıvatında isim düşerse adlaşmaz, zamirleşir. Yani işaret sıfatı işaret zamiri olur.
+
+#### a. İşaret (Gösterme) Sıfatı
+- İsmi gösterme, işaret anlamıyla tamalar.
+- Hangi sorusunun cevabıdır.
+  - *Bu* dağlarda yaşamış soyum.
+  - Ben *şu* tepenin suyuyum.
+
+| İşaret sıfatı | İşaret zamiri |
+|-|-|
+| Şu kala kaşlı kala. | Şu, taşlı kale. |
+| Şu tarafta oturuyor. | Şurada oturuyor. |
+| O yurt benim yurdum. | Ora benim yurdum. |
+| Bu çocuğa inanmıyorum. | Buna inanmıyorum. |
+
+#### b. Belgisiz Sıfat
+- İsimi belgisizlik ya da aşağı yukarı anlamıyla tamamlar.
+- Belgisizlik sıfatı isim düşerse belgisiz zamir olur.
+  - *Tüm* insanlara karşı *her* günün ne kadar acı olduğunu haykıran bir ses var içinde.
+  - *Bir* ses var içimde.
+
+| Belgisiz sıfat | Belgisiz zamir |
+|-|-|
+| Bazı insanlar çok nankör. | Bazıları çok nankör. |
+| Her soruyu anlatır. | Hepsini anlatır. |
+| Tüm sorun bende. | Tümü bende. |
+
+#### c. Sayı Sıfatı
+*Asıl sayı sıfatı* (kaç) yüz numaralı adam\
+*Kesir sayı sıfatı* (kaçta kaç) üçte bir hisse\
+*Sıra sayı sıfatı* (kaçıncı) birinci sınıf insandı\
+*Üleştirme sayı sıfatı* (kaçar) yüzer lira\
+*Topluluk sayı sıfatı* ikiz çocuk\
+*Belgisiz sayı sıfatı* üç dört gün
+
+#### d. Soru Sıfatı
+- İsmi soru anlamıyla tamamlar.
+  - Nasıl, ne kadar, hangi, ne, kaç, kaçıncı...
+  - *Nasıl* bir çocuk yetiştirmişsiniz böyle.
+  - *Ne kadar* paraya ihtiyacınız var
+  - *Hangi* dağda kurt ölmüş?
+  - *Kaç* kişi tanıyor biliyor musun?
+  - *Kaçıncı* gelişim buraya!
+- Zamirleşerek soru zamiri olabilir.
+
+#### e. Ünvan Sıfatı
+- Diğer sıfatlardan farklı olarak ismin önüne de sonuna da konabilir. Bazı kaynaklar bunu niteleme sıfatı olarak kabul eder.
+  - Gazı Hasan Paşa
