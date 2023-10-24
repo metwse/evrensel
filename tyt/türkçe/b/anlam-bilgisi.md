@@ -207,7 +207,7 @@ Kim alır yarı yolda kalmış selamımı. (yakınma cümlesi)
 ### 14. Öykünme Cümlesi
 - Kardeşi, ünlü dizi oyuncuları gibi davranıyor.
 
-### 15. Yadsıma (İnkar) Cümlesi
+### 15. Yadsıma (İnkâr) Cümlesi
 - Kim demiş Süheyla'ya vurulmuşum diye?
 
 ### 16. Kanıksama Cümlesi
@@ -222,3 +222,38 @@ Kim alır yarı yolda kalmış selamımı. (yakınma cümlesi)
 
 ### 19. Saptama Cümlesi
 - Günümüzde yayıncılar, çok satan kitapların peşinde koşuyor, bir yazarın ya da kitabın değerini ne kadar sattığını belirliyor.
+
+
+# Metinde Anlam
+## Anlatım Nitelikleri
+### Duruluk
+Gereksiz sözcüğün kullanılmamasıdır.
+- Sanatçı, yapıtlarında biçem ve üsluba önem vermiştir.
+
+### Yalınlık
+Gösterişsiz, süssüz anlatıma sahip cümlelerdir.
+
+### Özlülük
+Az sözle çok şey ifade etmektir.
+- Edebiyatımızda önemli bir konuma sahip yazar, eserlerine âdera tüm evreni sığdırmış.
+
+### Özgünlük
+Sanatçının dil ve anlatım açısından kendi anlatım tarzını oluşturmasıdır.
+
+### Doğallık
+Sanatçının duygu ve düşüncelerini olduğu gibi yansıtmasıdır.
+
+### Açıklık
+Okunduğunda herkes tarafından aynı anlaşılan metinler ya da cümleler açıktır.
+
+### Akıcılık
+Kolay okunan metinler akıcıdır. Bu metinlerde telaffuz konusunda sıkıntıya düşmeyiz.
+
+### Sürükleyicilik
+Konu bakımından insanları çeken metinlerdir.
+
+### Evrensellik
+Bir eserin bütün insanlara hitap edebilmesidir.
+
+### Kalıcılık
+Bir eserin her dönemde okunacak nitelikte olmasıdır.
