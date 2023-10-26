@@ -46,8 +46,9 @@ flowchart TD
 ### Çiçekli Bitkilerin Dokuları
 #### Meristem Doku
 - Hücreleri bölünür.
+- Bitkilerin ömrü sınırsızdır. Bitki ömrü boyunca bölünür.
 - Yapısına (oluşumuna) göre
-  - Primer meristem
+  - Primer meristem (otsu bitkilerde yok)
   - Sekonder meristem
 - Bulunuduğu yere göre
   - Apikal (uç) meristem
@@ -61,8 +62,8 @@ flowchart TD
     - İletim parankiması
     - Depo parankiması
     - Havaldırma parankiması
-  - Kollenkima doku
-  - Seklerankima doku
+  - Kollenkima doku (canlı)
+  - Seklerankima doku (ölü)
 
 #### İletim Doku
 - Üçe ayrılır:
@@ -71,5 +72,5 @@ flowchart TD
 
 #### Örtü Doku
 - İkiye ayrılır:
-  - Epidermis doku
+  - Epidermis doku (otsu bitkilerde yok)
   - Peridermis (mantar) doku 
