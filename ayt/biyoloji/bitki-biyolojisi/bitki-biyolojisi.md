@@ -37,5 +37,39 @@ flowchart TD
     c-1 --> c-2-3[Ladin]
     c-1 --> c-2-4[Servi]
     d --> d-1[Tek çenekli]
-    d --> d-1[Çok çenekli]
+    d --> d-2[Çok çenekli]
 ```
+
+## Çiçekli Bitkiler
+![çiçekli bitkiler](img/çiçekli-bitki.svg) 
+
+### Çiçekli Bitkilerin Dokuları
+#### Meristem Doku
+- Hücreleri bölünür.
+- Yapısına (oluşumuna) göre
+  - Primer meristem
+  - Sekonder meristem
+- Bulunuduğu yere göre
+  - Apikal (uç) meristem
+  - Lateral (yanal) meristem
+
+#### Temel Doku
+- Hayvanlardaki bağ dokunun karşılığıdır.
+- Üçe ayrılır:
+  - Parankima doku
+    - Asimilasyon (özümleme) parankiması
+    - İletim parankiması
+    - Depo parankiması
+    - Havaldırma parankiması
+  - Kollenkima doku
+  - Seklerankima doku
+
+#### İletim Doku
+- Üçe ayrılır:
+  - Ksilem (odun) borusu
+  - Floem (soymuk) borusu
+
+#### Örtü Doku
+- İkiye ayrılır:
+  - Epidermis doku
+  - Peridermis (mantar) doku 
