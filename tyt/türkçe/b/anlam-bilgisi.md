@@ -235,7 +235,7 @@ Gösterişsiz, süssüz anlatıma sahip cümlelerdir.
 
 ### Özlülük
 Az sözle çok şey ifade etmektir.
-- Edebiyatımızda önemli bir konuma sahip yazar, eserlerine âdera tüm evreni sığdırmış.
+- Edebiyatımızda önemli bir konuma sahip yazar, eserlerine âdeta tüm evreni sığdırmış.
 
 ### Özgünlük
 Sanatçının dil ve anlatım açısından kendi anlatım tarzını oluşturmasıdır.
@@ -257,3 +257,28 @@ Bir eserin bütün insanlara hitap edebilmesidir.
 
 ### Kalıcılık
 Bir eserin her dönemde okunacak nitelikte olmasıdır.
+
+
+## Anlatım Biçimleri
+### Açıklayıcı Anlatım
+- Ele aldığımız konularda öncelikle birtakım aydınlatma, çözümleme işine gireriz.
+- Bir konu üzerinde ayrıntılı bilgi vermek, konuyu öğretmek ya da olayı bildirmek, yorumlama açıklayıcı anlatıma girer.
+- Bu anlatım yoluyla "ne, neden, niçin, nasıl, nerede, ne zaman" sorularına cevap alırız.
+- Özellikle "öğretme" ve "bilgi verme" amaçlı düşünce yazılarıdır.
+
+### Tartışmacı Anlatım
+- Bu anlatım biçiminde amaç okuyucunun kanılarını değiştirmeye çalışmaktır. Yazar, parçada bir tezin karşısına antitez koyar.
+- Bu metinlerde soru cümleleri ağırlıktadır. Bu metinler eleştirel bakış açısıyla yazılır. 
+- "Bence, bana göre, kanımca, hâlbuki, oysaki, fakat..." gibi sözcüklere yer verilir. Daha çok öznel ifadeler kullanılır.
+
+### Öyküleyici Anlatım
+- Yaşanmış ya da yaşanması mümkün olayların anlatıldığı metinlerdir.
+- Bu anlatım; olay, kişi, yer ve zaman ögesine yer verilir.
+- Özellikle olay ögesi çök önemlidir.
+- Konuyu bir devinim içinde vermek önemlidir.
+- Sözcükler, bu metinlerde genellikle yan ya da mecaz anlamlarında kullanılır.
+
+### Betimleme (Tasvir Etme)
+- Betimleme, sözcüklerle resim çizme sanatıdır.
+- Betimlemede varlıkların görme, işitme, tatma, dokunma ve koklamayla algıladığımız nitelikleri doğrudan tanıtılabildiği gibi bu niteliklerin duygu dünyamızda yarattığı etkiler de anlatılabilir. 
+- Gözlem önemli yer tutar. Niteleme sıfatlarına bolca yer verilir.
