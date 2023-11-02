@@ -124,7 +124,7 @@ flowchart TD
 ```mermaid
 flowchart TD
     t[Parankima doku]
-    t --> t-1[Asimilasyon, özümleme parankiması]
+    t --> t-1["Asimilasyon (özümleme) parankiması"]
     t --> t-2[İletim parankiması]
     t --> t-3[Depo parankiması]
     t --> t-4[Havaldırma parankiması]
@@ -148,8 +148,50 @@ flowchart TD
 5. **Otsu gövdelerde genç, dal yüzeylerinde, yeşil rekli görünen ve kloroplastlı olan hücreler fotosentez yapar. Ayrıca ham meyveler de fotosentez yapar. Bunun yanında odunsu gövde ve kök hücrelerinde, yaşlı dal yüzeylerinde fotosentez yapılmaz.**
 6. Epidermis hücrelerinin bir salgısı olan kütin ve mum bileşimli kimyasal epidermis hücrelerince sentezlenir ve salgılanır. Buharlaşma yoluyla su kaybını önler.
 
-  - Kollenkima doku (canlı)
-  - Seklerankima doku (ölü)
+##### İletim Parankiması
+1. İletim demetlerinin etrafını sarar.
+2. İletim demetleriyle özümleme parankiması arasında madde taşınmasında madde taşınmasında görev alır.
+3. Kloroplastsız hücrelerden oluşur.
+4. Özümleme parankiması ⇄ iletim sistemi\
+çift yönü su - mineral - organik madde taşır
+
+##### Havalandırma Parankiması
+1. Genellikle suda ve bataklıkta yaşayan bitkilerin kök ve gövdelerinde bulunur.
+2. Çok sayıda hücreler arası boşluğa sahiptir.
+3. Boşluklarında hava depo eder ve bitkinin gaz alışverişinde görev yapar.
+4. **Yapraklardaki sünger parankiması boşlukları bu tür görev yapar.**
+
+##### Depo Parankiması
+1. Bitkinin türüne bağlı olarak kök, gövde, yaprak ve tohumda bulunur.
+2. Hücreleri kloroplastsızdır.
+3. Su ve besin depo eder.
+4. patateste nişasta ⇒ amiloplast en çok\
+fındık, ayçiçeği, mısırda yağ ⇒ oleoplast en çok\
+baklagiller protein ⇒ proteoplast en çok\
+sukkulent (kurak ortam) bitkilerinde su depe edilir
+
+#### Destek Doku
+##### Kollenkima Doku (Pek Doku)
+1. Genç gövdede yaprak orta damarında, çiçek ve yaprak saplarında bulunur.
+2. Eğilme, bükülme ve çarpmaya karşı mekanik destek sağlar.
+3. Hücre çeperlerinde selüloz ve pektin birikimiyle kalınlaşma, destek olayını sağlar.
+4. Şeftali, portakal, mandalina ve limonda varken vişne ve kirazda yoktur.
+5. Canlı ve kloroplastsız hücrelerden oluşur.
+
+![kollenkima doku](img/kollenkima-doku.svg) 
+
+##### Seklerankima Doku
+```mermaid
+flowchart TD
+    t[Sklerenkima doku]
+    t --> t-1[Sklerenkima Lifleri]
+    t --> t-2[Taş Hücreleri]
+```
+1. Hücreleri ölüdür.
+2. Hücre çeperleri, selüloz ve lignin birikimiyle kalınlaşmıştır.
+3. **Tek çenekli yıllık otsu gövdeli bitkilerde destek ksilemdeki turgor basıncıyla sağlanır.**
+4. Sklerenkima Lifleri: keten, kenevir bitkisinde.
+5. Taş Hücreleri: Küresel ya da levha hâldedir. Elma, armut ve ayvanın meyvesine direnç kazandırır. Tohum kabuğunda bulunur.
 
 
 ### İletim Doku

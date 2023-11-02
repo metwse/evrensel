@@ -101,4 +101,55 @@ p - p örtüşmesi: p hibritleşmesi
 CH₄ molekülü\
 ![çözüm](img/örnek/1-çözüm.svg)
 
+----------
 
+### Molekül Geometrisi
+*örnek 4*\
+BeH₂ molekülü (₄Be, ₁H)\
+![çözüm](img/örnek/4-çözüm.svg)\
+Molekül geometrisi: Doğrusal\
+Bağ açısı: 180°\
+Hibritleşme: sp\
+Molekül polarlığı: apolar
+
+*örnek 5*\
+BH₃ molekülü (₅B, ₁H)\
+![çözüm](img/örnek/5-çözüm.svg)\
+Molekül geometrisi: Düzlem üçgen\
+Bağ açısı: 120°\
+Hibritleşme: sp²\
+Molekül polarlığı: apolar
+
+*örnek 6*\
+CH₄ molekülü (₆C, ₁H)\
+![çözüm](img/örnek/6-çözüm.svg)\
+Molekül geometrisi: Düzgün dört yüzlü\
+Bağ açısı: 109,5°\
+Hibritleşme: sp³\
+Molekül polarlığı: apolar
+
+*örnek 7*\
+NH₃ molekülü (₇N, ₁H)\
+![çözüm](img/örnek/7-çözüm.svg)\
+Molekül geometrisi: Üçgen pramit\
+Bağ açısı: 107°\
+Hibritleşme: sp³\
+Molekül polarlığı: polar
+
+*örnek 8*\
+H₂O molekülü (₈O, ₁H)\
+![çözüm](img/örnek/8-çözüm.svg)\
+Molekül geometrisi: Kırık doğru\
+Bağ açısı: 104,5°\
+Hibritleşme: sp³\
+Molekül polarlığı: polar
+
+### VSEPR Gösterimi
+Molekülde:\
+Merkez atom: A\
+Bağlanan atom: X\
+Merkez atomdaki e⁻ çifti: E
+
+CH₄ AX₄\
+NH₃ AX₃E\
+H₂O AX₂H₂
