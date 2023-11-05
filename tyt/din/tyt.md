@@ -36,14 +36,21 @@ akılcılar <= mutezile === maturidi === eşariler => vahiyciler (nass)
 
 <= sünnet === vacip === farz =>
 
-**Sadaka-ı Cariye**, *sünnet*: Bir kurum ya da yapı yaptırıldığında (çeşme gibi) sürekli devam eden sadakkadır.\
-**Fitre (Sadakai Fıtır)**, *vacip*: Ramazan ayında verilen sadaka.\
-**Zekat**, *farz*: Farz olan yardım.\
+**Sadaka-ı Cariye**, *sünnet*: Bir kurum ya da yapı yaptırıldığında (çeşme gibi) sürekli devam eden sadakadır.\
+**Fitre (Sadakai Fıtır)**, *vacip*: Ramazan ayında ailede kişi başına verilen sadaka.\
+**Fidye**, *vacip*: Ramazan ayında kalıcı hastalık gibi durumlardan dolayı oruç tutamayanların verdiği sadakadır.
+**Kurban**, *vacip*: Kurban bayramının sadece ilk üç gününde kurban kesilebilir.\
+**Zekat**, *farz*: Farz olan yardım. Zenginin malından 40'da birini fakire doğrudan vermesi. Zekat kuruma, camiye vs. verilemez.\
 Anne, baba, çocuk, dede ve neneye verilenler zekat sayılmaz. Sadaka zekat değildir.
 
 **Fıkıh**: İbadetleri inceleyen bilim dalı. (Ebu Hanife)\
-**Kelam**: İslamın inançla ilgili boyutunu inceleyen bilim dalı. (İmam Maturidi)\
+**Kelam**: İslam'ın inançla ilgili boyutunu inceleyen bilim dalı. (İmam Maturidi)\
 **Tasavvuf**: Allah'ı çokça anmak, nefis terbiyesi. (Ahmet Yesevi)
+
+**Kadir Gecesi**: Kuran'ın indirilmeye başlandığı gece.\
+**Miraç Kandili**: Gece yolculuğu ile peygamberin Mescidi Haram'dan Mescidi Aksa'ya götürülmesi.\
+**Mevlit Kandili**: Peygamberin doğum günü.\
+**Regaip Kandili**, **Berat Kandili**
 
 ### Allah'ın Sıfatları
 | sıfat | Türkçesi |
@@ -85,6 +92,13 @@ Anne, baba, çocuk, dede ve neneye verilenler zekat sayılmaz. Sadaka zekat değ
 5. Secde: Alın, burun, dizler, eller ve ayakları yere koymak.
 6. Kâdei Âhire: Namazın sonunda "Ettehiyyâtü" duasını okuyacak kadar oturmak.
 
+### İslam'da Doğup Gelişmiş Sanatlar
+1. **Hat**: Arapça harflerle güzel yazma.
+2. **Tezhip**: Hat yazısının çevresinin süslenmesi.
+3. **Ebru**: Sudaki boyayı kâğıda geçirmek.
+4. **Minyatür**: Resim benzeri sanat.
+
+
 
 # 12.1 Din - Bilim İlişkisi
 **Sünnetullah**: Doğa yasaları\
@@ -97,11 +111,12 @@ Anne, baba, çocuk, dede ve neneye verilenler zekat sayılmaz. Sadaka zekat değ
 
 **Beytü'l Hikme**: Tercüme yapılan medrese.\
 **Dergâh**: Tarikatların toplantı merkezi.\
-**Suffe**: İslamdaki ilk eğitim kurumu.\
+**Suffe**: İslam'daki ilk eğitim kurumu.\
 **İmarethane**: Aşevi\
 **Külliye**: Çok amaçlı yapı
 
 Nizamiye Medreseleri kurulan ilk medreselerdir.
+
 
 
 # 12.2 Anadolu'da İslam
