@@ -26,7 +26,7 @@ Karbonun allotroplarından olan elmas ve grafit doğal iken fulleren sentetik al
 
 ### Elmas
 1. Karbonun doğal allotropudur.
-2. Karbon bağları düzgün dört yüzlü geometrik bir şekil oluşturak düzgün kristal yapı oluşturur. Bu da elmasa ışık geçirgenliği sağlar.
+2. Karbon bağları düzgün dört yüzlü geometrik bir şekil oluşturarak düzgün kristal yapı oluşturur. Bu da elmasa ışık geçirgenliği sağlar.
 3. Karbon atomları arasında oluşan ağ örgülü kovalent bağ, elması bilinen en sert doğal madde yapmıştır.
 
 ### Grafit
@@ -101,7 +101,20 @@ p - p örtüşmesi: p hibritleşmesi
 CH₄ molekülü\
 ![çözüm](img/örnek/1-çözüm.svg)
 
-----------
+*örnek 2*\
+C₂H₄ molekülü\
+![çözüm](img/örnek/2-çözüm.svg)
+
+*örnek 3*\
+![çözüm](img/örnek/3-soru.svg)\
+Numaralandırılmış karbon atomlarının her birinin yaptığı hibritleşme türünü bulunuz.\
+![çözüm](img/örnek/3-çözüm.svg)
+
+**Not**
+1. Hibritleşmesi sorulan atomun kaç atomla bağlandığı bulunur. 
+2. Bu atomun üzerinde elektron çifti varsa her çift bir atom kabul edilir. 
+3. Bulunan toplam atom sayısının bir eksiği p'nin üssünü verir. (s sabittir)
+
 
 ### Molekül Geometrisi
 *örnek 4*\
@@ -144,12 +157,13 @@ Bağ açısı: 104,5°\
 Hibritleşme: sp³\
 Molekül polarlığı: polar
 
+----------
 ### VSEPR Gösterimi
 Molekülde:\
 Merkez atom: A\
 Bağlanan atom: X\
 Merkez atomdaki e⁻ çifti: E
 
-CH₄ AX₄\
+CH₄ AX₄ \
 NH₃ AX₃E\
-H₂O AX₂H₂
+H₂O AX₂E₂

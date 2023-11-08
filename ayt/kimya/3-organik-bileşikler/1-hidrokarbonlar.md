@@ -72,7 +72,9 @@ Alkil grubuna bir halojen (7A) bağlanması ile oluşan bileşiklere "alkil halo
 #### 1. Sistematik (IUPAC) Adlandırma
 - En uzun C zinciri seçilir.
 - Zincirdeki C atomlarına numara verilir. Bunun için dallanmanın en yakın olduğu uçtan başlayarak numara verilmelidir.
-  - Dallar eşit uzaklıkta ise ve varsa 2. dallara bakılır. 2. dal olan taraftan başlayarak numara verilmelidir.
+  - Dalla eşit uzaklıkta ise ve varsa 2. dallara bakılır. 2. dal olan taraftan başlayarak numara verilmelidir.
   - Bunlar da eşit uzaklıkta ise alfabetik sıra esas alınır.
 - Dalın bağlı olduğu karbonun numarası, dal adı yazılır. Aynı dal birden fazla C atomuna bağlı ise numaraları belirtilip toplam sayıları Latince belirtilir.
 - Adlandırma sonunda en uzun en uzun C zincirinde karşılık gelen alkan adı yazılır.
+
+![alkanlarda-adlandırma-1](img/alkanlarda-adlandırma-1.svg) 

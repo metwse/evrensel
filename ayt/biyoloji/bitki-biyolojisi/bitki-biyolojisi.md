@@ -193,6 +193,15 @@ flowchart TD
 4. Sklerenkima Lifleri: keten, kenevir bitkisinde.
 5. Taş Hücreleri: Küresel ya da levha hâldedir. Elma, armut ve ayvanın meyvesine direnç kazandırır. Tohum kabuğunda bulunur.
 
+| Kollenkima | Sklerenkima |
+|--|--|
+| Canlı hücrelerden oluşur. | Ölü hücrelerden oluşur. |
+| Stoplazma ve çekirdek vardır. | Stoplazma ve çekirdek bulunmaz. |
+| Esnektir, gerilme ve kırılmalara karşı dayanıklıdır. | Esnek değildir. Kolay kırılır. |
+| Hücre çeperinde selüloz ve pektin birikir. | Hücre çeperinde selüloz ve lignin birikir. |
+| Bitkilerde genç kısımlarda bulunur. | Bitkilerde yaşlı (geç oluşan) yapılarda bulunur. (Meyve ve tohum kabuğu.) |
+| Bulunduğu yere göre köşe ve levha kollenkiması şeklinde iki türde bulunur. | Yapılarına göre sklerenkima lifleri (keten - kenevir lifleri) ve taş hücreleri (fındık - ceviz gibi tohum kabukları) şeklinde iki türdür. |
+
 
 ### İletim Doku
 - Üçe ayrılır:

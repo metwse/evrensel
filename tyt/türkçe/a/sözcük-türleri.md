@@ -193,3 +193,82 @@ flowchart TD
 #### e. Ünvan Sıfatı
 - Diğer sıfatlardan farklı olarak ismin önüne de sonuna da konabilir. Bazı kaynaklar bunu niteleme sıfatı olarak kabul eder.
   - Gazı Hasan Paşa
+
+## Zarf (Belirteç)
+
+----------
+----------
+
+## Tamlamalar (Tamamlamalar)
+- Birde fazla kelimenin birbirini tamamlamasıyla oluşan söz öbeğine denir.
+- En az iki unsurdan oluşur.
+
+| 1. unsur | 2. unsur |
+|--|--|
+| Tamamlayan | Tamamlanan |
+| Tamlayan | Tamlanan |
+
+### Sıfat Tamlaması (Sıfat Takımı)
+- Sıfatın bulunduğu her yerde sıfat tamlaması vardır.
+  - *Bu boş kafalı* insanlarla nasıl yaşlanacağız?
+  - *Her gün* biraz daha zayıflıyorsun.
+- Sıfat tamlamasında birden fazla niteleme sıfatı olabilir.
+  - *Zor, yorucu günler* bizi bekliyor.
+- Sıfat tamlamasında birden fazla belirtme sıfatı bulunabilir.
+  - Nasıl bir hayatın var diye sorarsanız bana, *şu iki çocuğu* gösteririm size.
+- Sıfat tamlamasında hem niteleme hem niteleme hem belirtme sıfatı olabilir.
+  - *Gayet serin bir gün* geçiriyoruz.
+- Sıfat tamlamasında ismin yerine zamir geçebilir.
+  - *Yanlış birine* bulaşan çocuk gözünü hastanede açtı.
+- Sıfatlar, çekim eki alarak da sıfat tamlaması yapabilir.
+  - *Güzel**im** dersin* havasını şuradaki çocuklar bozdu.
+  - *Gün**de**lik yemek* ihtiyacını buradan karşılıyor.
+
+### İsim Tamlaması (Ad Takımı)
+- En az iki zamir ya da ismin birbirini ilgi ve iyelik yönünden tamamlamasıyla oluşan söz öbeğidir.
+- Sıfat tamlamasının oluşması için ek zorunluluğu yokken isim tamlamasında zorunluluk vardır.
+- İsim tamlamasında tamlayan düşebilir.
+  - *Kardeşimi* (benim kardeşim) en son evinde görmüştüm.
+- İsim tamlamasında tamlayan düşebilir.
+  - Yalnız benim (benim ...im) olmalıydın.
+- Tamlayanı düşmüş isim tamlamasıyla tamlananı düşmüş isim tamlaması isim tamlaması sayılmaz.
+  - *Köyümüz* şehre çok yakın. (İSİM TAMLAMASI YOK)
+- İsim tamlamasında tamlayan ve tamlanan yer değiştirebilir.
+  - *Tadını* beğenmedim *fıstığın* hiç. (fıstığın tadını)
+  - Dante gibi *ortasındayız ömrün*. (ömrün ortasında)
+- İsim tamlamasında tamlayan ile tamlanan arasında farklı sözcükler girebilir.
+  - *Atakan'ın **da** hayatını* düzeltecekmiş.
+
+| 1. unsur | 2. unsur |
+|--|--|
+| Tamlayan | Tamlanan |
+| ilgi (tamlayan) eki | iyelik (sahiplik) eki |
+| benim | evim |
+| senin | evin |
+| onun | evi |
+
+#### Belirtili İsim Tamlaması
+- Belirtili isim tamlamasında iki unsur da ek alır.
+  - *Adamın soluğu* kesik kesikti.
+  - *Kalbinin kapakçıklarında* sorun varmış.
+
+#### Belirtisiz İsim Tamlaması
+- 1. unsuru (tamlayanı) ek almamış tamlamalardır.
+  - Kapının kolu (belirtili) → Kapı kolu (belirtisiz)
+  - Sen de bir *kuş üzümü* ye.
+
+#### Zincirleme İsim Tamlaması
+- En az iki isim tamlaması ya da üç ismin oluşturmuş olduğu ilgi ve iyelik bağıdır.
+  - *Alper'in ayakkabı numarası* kaçtır?
+  - *Antep fıstığının tadını* unuttun mu sen?
+  - *Romanın başkahramanın hayat öyküsü* nasıldı?
+
+#### Takısız İsim Tamlaması
+- Tamlayan ve tamlanan ek almamış iki isim takısız tamlama kurabilir.
+- 1. unsur: Somut madde
+
+| takısız isim tamlaması | sıfat tamlaması |
+|--|--|
+| tahta masa | geniş masa |
+| taş duvar | yüksek duvar |
+| altın yüzük | parıltılı yüzük |

@@ -37,7 +37,7 @@ Birbirleriyle ilişkili ters durumları ifade eden sözcüklerdir. Zıt anlamlı
 *Nicel*: Sayılabilen ve ölçülebilen kavramları karşılar.
 
 ### Somut - Soyut Sözcükler
-Beş duyu organımızın herhângi biriyle algılayabildiğimiz kavramları karşılayan sözcükler *somut*, algılayamadığımız sözcüklereyse *soyut* anlamlı kelimeler denir.
+Beş duyu organımızın herhangi biriyle algılayabildiğimiz kavramları karşılayan sözcükler *somut*, algılayamadığımız sözcüklereyse *soyut* anlamlı kelimeler denir.
 
 ### Genel - Özel Anlamlı Sözcükler
 Anlam kapsamı geniş olan sözcüklere *genel*, dar olan sözcüklereyse *dar anlamlı* kelimeler denir.
@@ -282,3 +282,69 @@ Bir eserin her dönemde okunacak nitelikte olmasıdır.
 - Betimleme, sözcüklerle resim çizme sanatıdır.
 - Betimlemede varlıkların görme, işitme, tatma, dokunma ve koklamayla algıladığımız nitelikleri doğrudan tanıtılabildiği gibi bu niteliklerin duygu dünyamızda yarattığı etkiler de anlatılabilir. 
 - Gözlem önemli yer tutar. Niteleme sıfatlarına bolca yer verilir.
+
+
+## Düşünceyi Geliştirme Yolları
+### 1. Tanımlama
+1.  "... nedir?" ya da "... kimdir?" sorusunda cevap veren cümlelerdir.
+2. Bu cümlelerin sonuna genellikle "denir" sözcüğü ya da "-dır/-dir" eki gelir.
+3. Tanım cümleleri öznel de nesnel de olabilir.
+
+### 2. Karşılaştırma
+1. İki kavram veya iki durum arasındaki benzerlik ve farklılıkları ortaya koymaktır.
+2. Karşılaştırma "en, kadar, daha, -e kadar, -e göre, -den, ise" gibi sözcük ve eklerle yapılır.
+
+### 3. Tanık Gösterme
+1. Anlatıcının bir görüşü doğrulamak, inandırıcı kılmak için o alanda sözü geçen, otorite kabul edilen birinin görüşlerinden yararlanmasıdır,
+
+### 4. Örnekleme
+1. Soyut bir düşünceye somutluk ve somut bir düşünceye soyutluk kazandırır, söylenmek istediğimizi okuyucunun zihninde canlandırır. 
+2. "Söz gelimi, örneğin, mesela..." gibi sözcükler kullanılır.
+3. Atasözleri, örnekleme olarak kabul edilir.
+
+### 5. Sayısal Verilerden Yararlanması
+1. Anlatıcı; düşüncelerini somutlaştırmak, söylediklerini inandırıcı kılmak için sayısal verilerden yararlanılır.
+2. İstatistiksel sonuçlara yer verilir.
+
+### 6. Sayıp Dökmelere Yer Verme
+1. Bir düşünceyi açık seçik biçimde anlatabilmek için niteliklerini, neden - sonuç ilişkilerini ayrıntılarıyla art arda sıralama işidir.
+
+
+## Paragrafta Yapı
+### 1. Giriş
+1. Paragrafın ilk bölümüdür.
+2. Genellikle bir cümleden oluşur.
+3. Genellikle, konunun ortaya konduğu bölümdür.
+4. Kendisinden önce bir cümle olduğu izlenimini vermez.
+5. Bazı edatlarla, bağlaçlarla, işaret sıfatlarıyla, zamirlerle başlamaz.
+6. Yapı, söz dizimi ve düşünce olarak bir sonraki cümleye bağlıdır.
+
+### 2. Gelişme
+1. Yardımcı düşüncelerin verildiği bölümdür.
+2. Giriş cümlesinde verilenler detaylandırılır.
+
+### 3. Sonuç Cümlesi
+1. Paragrafta anlatılanların özet niteliğinde yansıtıldığı bölümdür.
+2. Bağlayıcı ögeler genellikle burada bulunur.
+
+
+## Paragrafı İki Parçaya Ayırma
+1. Verilen bir parçayı iki paragraf hâline getirirken konu ve ana düşünceden hareket edilir.
+2. Verilen parçadaki cümleler tek tek okunur, hangi cümleden itibaren farklı bir konuya geçilmişse o cümleyle paragraf iki parçaya bölünebilir.
+
+## Paragrafta Konu
+1. Paragrafta üzerinde durulan olay, durum ya da görüşe konu denir.
+2. Bir paragrafın konusu "Bu paragrafta ne anlatılmıştır?" sorusunun cevabıdır.
+3. Paragrafta konu bulunurken parçanın genelinde bakılır. Ana düşünce bu noktada önemlidir, çünkü üzerinde en çok durulan şey paragrafın konusunu oluşturur.
+4. Genellikle paragrafın ilk cümleleri dikkate alınır.
+5. Konu bulunurken yorum katılmamalıdır.
+
+## Paragrafta Ana Düşünce
+1. Ana düşünce, bir paragrafta yazarın okuyucuya verdiği mesajdır, yazarın savunduğu ve ispat etmeye çalıştığı temel düşüncedir.
+2. Parçanın başında, ortasında ya da sonunda olabileceği gibi geneline de yayılabilir.
+3. Ana düşünce, genel yargı niteliği taşır.
+
+## Paragrafta Yardımcı Düşünce
+1. Paragrafta bir ana düşünce ve birden fazla yardımcı olabilir.
+2. Yardımcı düşünceler, anlatılmak isteneni örnekleyen ve destekleyen ifadelerdir.
+3. Yardımcı düşünceler ana düşünceyi açar yani ana düşüncenin anlaşılmasını sağlar.
