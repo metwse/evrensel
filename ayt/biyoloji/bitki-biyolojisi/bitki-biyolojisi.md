@@ -47,15 +47,15 @@ flowchart TD
 - Hücreleri bölünür.
 - Bitkilerin ömrü sınırsızdır. Bitki ömrü boyunca bölünür.
 - Bölünen meristem doku hücrelerinin bazıları farklılaşır ve bitkinin diğer yani *değişmez dokularını* oluşturur.
-- Bazı hücreler G₁den çıkıp G₀a girer ve bir daha bölünmez. Bazı hücreler ihtiyaç olduğunda geniden G₁e döner ve bölünür.
+- Bazı hücreler G₁den çıkıp G₀a girer ve bir daha bölünmez. Bazı hücreler ihtiyaç olduğunda geri G₁e döner ve bölünür.
 - Bazı meristematik hücreler bazı bitki hormonlarını sentezler ve salgılar.
 ```
-     ┌─ oksin
-     │  giberellin
-     │  sitokinin
-     └─ filorigen
-     ┌─ absisik asit
-     └─ etilen
+  antagonist:┌─sinerjist:┌─ oksin
+             │           │  giberellin
+             │           │  sitokinin
+             │           └─ filorigen
+             └─sinerjist:┌─ absisik asit
+                         └─ etilen 
 ```
 - Bitki yapılarında boyca büyüme ve ence kalınlaşma sağlar.
 - Kök, gövde ve yaprak yapılarında bulunur.
@@ -86,8 +86,8 @@ flowchart TD
 1. Bitkinin ömrü boyunca bölünme özelliğini kaybetmeyen hücrelerin meydana getirdiği dokudur.
 2. Kök ve gövde uçlarında, ayrıca dal uçlarında bulunur.
 3. Bulunduğu yerde boyca uzamayı sağlar. 
-4. Primer meristemin kök ve göve uçalarında bulunduğu yere büyüme noktası ya da *büyüme konisi* denir.
-5. Büyüme noktaları kökte kaliptrayla, gövdede koruyucu yaparaklarla korunur.
+4. Primer meristemin kök ve gövde uçlarında bulunduğu yere büyüme noktası ya da *büyüme konisi* denir.
+5. Büyüme noktaları kökte kaliptrayla, gövdede koruyucu yapraklarla korunur.
 6. **Kaliptra hücreleri canlıdır. Bölünebilme özellikleri yoktur. Toprakta ilerlerken zedelendiğinde primer meristem hücreleri tarafından yenilenir.** 
 7. Kaliptra, müsilaj adı verilen özel bir salgı üretir. Kökün toprak içinde rahat ilerlemesini sağlar.
 8. Büyüme noktalarından alınan boyuna ya da enine kesitlerde dıştan içe doğru üç tabaka oluşur. *Histojen* adı verilen bu üç tabakalı doku bitkinin farklılaşarak diğer dokularını oluşturur.
@@ -101,7 +101,7 @@ flowchart TD
 ```
 1. Kök ve gövdede bulunur, yapraklarda bulunmaz. 
 2. Kabiyum, bitkide enine büyümeyi sağlar.
-3. Bitkilerde primer meristem farklılaşarak bitkinin diğer dokularını oluşturur. Bu sırada meydana gelen farklılaşma hücreleri G₀ evresine sokar. Böylece, oluşan parankimatik hücrelerin bazıları hormonların etkisiyle yeniden bölünme özelliği kazanarak sekonder meristem dekuyu oluşturur.
+3. Bitkilerde primer meristem farklılaşarak bitkinin diğer dokularını oluşturur. Bu sırada meydana gelen farklılaşma hücreleri G₀ evresine sokar. Böylece, oluşan parankimatik hücrelerin bazıları hormonların etkisiyle yeniden bölünme özelliği kazanarak sekonder meristem dokuyu oluşturur.
 4. **Sekonder meristem çift çenekli bitkilerde ve açık tohumlularda bulunurken tek çenekli bitkilerde yoktur.**
 5. **Sekonder meristem kök ve gövdede bulunur ancak yapraklarda yoktur.**
 6. Her yıl, biri ilk bahar diğeri son baharda iki defa mitoz geçirir ve yaş halkalarını oluşturur. Her yıl yeni iletim demetlerinin oluşumunu sağlar.
@@ -141,11 +141,11 @@ flowchart TD
 10. Parankimatik hücreler; ortamla bol madde alışverişi yapan, bulunduğu yere göre metabolizmaları değişen hücreler. 
 
 ##### Özümleme Parankiması
-1. Yeşil bitkilerin yaparklarında, genç gövdede, genç dallarda, ham meyve kabuklarında bulunur.
+1. Yeşil bitkilerin yapraklarında, genç gövdede, genç dallarda, ham meyve kabuklarında bulunur.
 2. Hücrelerinde bol kloroplast bulunur.
 3. Görevi fotosentezdir.
 4. **Palizat ve sünger parankimaları alt ve üst epidermis arasında bulunan mezofil dokuda yer alır.**
-5. **Otsu gövdelerde genç, dal yüzeylerinde, yeşil rekli görünen ve kloroplastlı olan hücreler fotosentez yapar. Ayrıca ham meyveler de fotosentez yapar. Bunun yanında odunsu gövde ve kök hücrelerinde, yaşlı dal yüzeylerinde fotosentez yapılmaz.**
+5. **Otsu gövdelerde genç, dal yüzeylerinde, yeşil renkli görünen ve kloroplastlı olan hücreler fotosentez yapar. Ayrıca ham meyveler de fotosentez yapar. Bunun yanında odunsu gövde ve kök hücrelerinde, yaşlı dal yüzeylerinde fotosentez yapılmaz.**
 6. Epidermis hücrelerinin bir salgısı olan kütin ve mum bileşimli kimyasal epidermis hücrelerince sentezlenir ve salgılanır. Buharlaşma yoluyla su kaybını önler.
 
 ##### İletim Parankiması
@@ -168,7 +168,7 @@ flowchart TD
 4. patateste nişasta ⇒ amiloplast en çok\
 fındık, ayçiçeği, mısırda yağ ⇒ oleoplast en çok\
 baklagiller protein ⇒ proteoplast en çok\
-sukkulent (kurak ortam) bitkilerinde su depe edilir
+sukkulent (kurak ortam) bitkilerinde su depo edilir
 
 #### Destek Doku
 ##### Kollenkima Doku (Pek Doku)
@@ -204,11 +204,105 @@ flowchart TD
 
 
 ### İletim Doku
-- Üçe ayrılır:
-  - Ksilem (odun) borusu
-  - Floem (soymuk) borusu
+----------
+
+#### Floem (Soymuk Borusu)
+----------
+1. Floem hücreleri ince çeperli ve canlıdır.
+2. Üst üste gelen hücrelerin enine çeperleri kısmen indirgenmiş, yer yer delikler oluşmuştur. Bu delikler, kalbur görünümü sergilediğinden demete kalburlu ya da elekli boru adı verilmiştir.
+3. Floem hücrelerinin stoplazması vardır, çekirdeği yoktur. Arkadaş hücrelerinin ise hem çekirdeği hem de bol stoplazması bulunur.
+4. Floem hücrelerinin canlılığını arkadaş hücrelerinin çekirdeği kontrol eder.
+5. İletim çift yönlüdür ancak aynı anda aynı boruda çift yönlü madde taşınması olmaz.
+6. İletim hızı ksileme göre yavaştır.
+7. Madde iletiminde hem aktif hem pasif taşıma etkilidir.
+8. Floem sklerenkiması, bitkiye desteklik sağlar ve kambiyumu korur.
+9. Floem parankiması; nişasta, yağ, tanen ve reçine depo edilen hücrelerdir.
+
+![floem](img/floem.svg) 
 
 ### Örtü Doku
-- İkiye ayrılır:
-  - Epidermis doku (otsu bitkilerde yok)
-  - Peridermis (mantar) doku 
+1. Kök, gövde, yaprak ve meyvelerin üzerini örten dokudur.
+2. Hücrelerinde kloroplast bulunmaz, lökoplast bulunur.
+3. Bulunduğu dokuyu ya da bitkiyi su kaybına ve çevresel faktörlere karşı korur.
+
+#### Epidermis
+1. Histojenlerden dermatojen (protoderm) tabakan köken alır.
+2. Hücreleri canlı ve klorofilsizdir.
+3. Tek sıralı hücrelerden oluşur.
+4. Hücreleri arasında boşluk bulunmaz.
+5. Hücreleri büyük kofullu az stoplazmalıdır.
+6. Bitkinin tüm yüzeyini örten en dış tabakadır.
+7. Epidermis hücrelerinin salgıladığı kütin saydam ve ışığa geçirgenken suya geçirgen değildir. Nemli ortam bitkilerinde bu tabaka inceyken kurak ortam bitkilerinde kalındır.\
+![epidermis](img/epidermis.svg)\
+**Stoma**\
+Işık var → CO₂ alır, O₂ ve H₂O<sub>(g)</sub> atar\
+Işık yok → O₂ alır, CO₂ ve H₂O<sub>(g)</sub> atar\
+Kloroplastları vardır, fotosentez yapar.\
+Canlı, açılıp kapanabilir.\
+**Hidatot**\
+Yaprak kenarları ve uçlarında bulunur.\
+Hava neme doygunken H₂O gaz hâlinde atılamayacağından hidatotlarla damlama (gutasyon) ile atılır.\
+Kloroplastları yoktur.\
+Hidatotlarda damlama ile su atılırken bir miktar çözünmüş tuz da atılır.\
+Canlı, sürekli açıktır.
+
+| stoma | hidatot |
+|--|--|
+| Epidermis kökenlidir. | Epidermis kökenlidir. |
+| Canlıdır. | Canlıdır. |
+| Açılıp kapanabilir. | Sürekli açıktır. |
+| Fotosentez yapar. | Fotosentez yapamaz. |
+| H₂O<sub>(g)</sub>ı tek başına atar. | Su<sub>(s)</sub> ve mineral atar. |
+| Terleme yapar. | Damlama yapar. |
+
+##### Tüyler
+1. Epidermis hücrelerinin dışa doğru oluşturduğu çıkıntılardır.
+2. Bazıları canlı bazıları ölü hücrelerden oluşur.
+3. Örtü, savunma, salgı ve tırmanma gibi farklı işlevleri yapar.
+4. Kurak ortam bitkilerinde yaprak üst yüzeyinde örtü tüyleri boldur.
+5. Tropikal ya da Türkiye gibi yarı tropikal iklim bitkilerinde genellikle yaprak alt yüzeyi bol tüylüdür. Fesleğen, nane (mentol üretir) gibi bitkilerde yaprak tüyleri salgı yapar.
+6. Isırgan otunda korunma ya da savunma tüyleri vardır. Bu tüyler formik asit salgılar.
+7. Tırmanma tüyleri, sarmaşık bitkisinde vardır. Duvardaki çıkıntılara ya da ağacın gövdesindeki girintilere çıkıntılara tutunur.
+8. **Köklerde emici tüyler su ve mineral alımında rol oynar.**
+9. **Kök epidermis hücreleri kutikula ve stoma oluşturmaz.**
+
+##### Emergensler (Dikenler)
+1. Tüylerden farkı tüy yapısındaki epidermis hücreleri emergens oluşumu sırasında epidermisle parankimanın, bazen iletim dokunun birlikteliğiyle oluşmasıdır. 
+2. Korunma (gül, akasya), tutunma (sarılıcı bitki, gövde sülükleri) görevlerini yapar.
+
+#### Peridermis (Mantar Doku)
+1. Peridermis, çok yıllık bitkilerde büyüme ve enine kalınlaşma devam ederken epidermis dokusu parçalanır, yerini peridermis adı verilen mantar doku alır.
+2. Fellogen adı verilen mantar kambiyumu, mantar dokuyu oluşturur.
+3. Mantar hücreleri ölüdür.
+4. Çeperlerinde süberin (mantar özü) birikir.
+5. Çok yıllık bitkilerin kök ve gövdelerinde bulunur.
+6. **Yaprakta peridermis yoktur. Tek çenekli bitkilerde peridermis bulunmaz.**
+7. Mantar doku yaprak ile gövde arasında oluştuğunda yaprağın dökülmesine neden olur.\
+![yaprak döken mantar doku](img/yaprak-döken-mantar-doku.svg) 
+8. Mantar doku farklılaşmasıyla lentiseller oluşur.\
+![lentisel](img/lentisel.svg) 
+
+| stoma | lentisel |
+|--|--|
+| Epidermis kökenli. | Peridermis kökenli. |
+| Canlı. | Ölüdür. |
+| Açılıp kapanır. | Sürekli açıktır. |
+| Otsu gövde ve yaprakta. | Odunlu gövde ve dallarda. |
+| Gaz değişimi ve terleme yapar. | Gaz değişimi yapar. Az da olsa terleme yapabilir. |
+
+| epidermis | peridermis |
+|--|--|
+| Dermatogen (protoderm) kökenlidir. | Fellogen kökenlidir. |
+| Hücreleri canlıdır. | Hücreleri ölüdür. |
+| Otsu gövde ve yapraklarda bulunur. | Odunlu gövdede bulunur. Yapraklarda yoktur. |
+| Kök, gövde, dal yapılarında bulunur. | Yalnız kök ve gövdede bulunur. |
+
+
+
+
+## Bitkinin Salgı Elemanları
+1. Hücreleri, hücre toplulukları, kanallar, cepler gibi yapılardan oluşur.
+2. Metabolik ürünler bu yapılarda depolanır ve gerektiğinde boşaltılır.
+3. Salgılar; savunma (koruma) ve tozlaşmayı destekleme, çiçeği böceğe cazip kılma görevlerini üstlenen organik maddelerdir.
+4. Salgı hücreleri; canlı, bol stoplazmalı, metabolizması yüksek hücrelerdir.
+5. Bol sentez yapar. Golgi'si (vezikül oluşturur) gelişmiş ve sayıca fazladır.
