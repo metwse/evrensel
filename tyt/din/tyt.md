@@ -52,13 +52,15 @@ Anne, baba, çocuk, dede ve neneye verilenler zekat sayılmaz. Sadaka zekat değ
 **Mevlit Kandili**: Peygamberin doğum günü.\
 **Regaip Kandili**, **Berat Kandili**
 
+Peygamber, Ebu Bekir ile hicret etti.
+
 ### Allah'ın Sıfatları
 | sıfat | Türkçesi |
 |-|-|
 | ilim | bilen |
 | vahdaniyet | tek olması |
 | kudret | güç sahibi |
-| tekvin | yaratan, yoktan var eder |
+| tekvin | yaratan, yoktan var eden |
 | beka | ezeli ve ebedi olması |
 | kıdem | en baştan beri var olan |
 | kıyam bi nefsihi | kendindenlik |
@@ -80,7 +82,7 @@ Anne, baba, çocuk, dede ve neneye verilenler zekat sayılmaz. Sadaka zekat değ
 1. Hadesten Tahâret: Manevi temizlik. Abdestle, gusülle veya teyemmüm namaza hazırlanmak. 
 2. Necasetten Tahâret: Maddi temizlik. Namaz kılınan yeri ve elbiseyi temiz tutmak.
 3. Setri Avret: Namazda örtülmesi gereken yerleri örtmek.
-4. İstikbalî Kıble: Kabe'nin bulunduğu yöne doğru yönelmek.
+4. İstikbali Kıble: Kabe'nin bulunduğu yöne doğru yönelmek.
 5. Vakit: Her namazı kendi vakti içerisinde kılmak.
 6. Niyet: Kılınan namazın hangi namaz olduğunu bilerek niyet etmek.
 

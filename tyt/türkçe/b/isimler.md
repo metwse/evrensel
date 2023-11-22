@@ -68,3 +68,16 @@ Somut, soyut
 
 #### c. Yönelme (Yaklaşma) Durumu (-a, -e)
 - Adın belirttiği kavrama yöneldiğini gösterir.
+
+#### d. Bulunma (Kalma) Durumu (-de. -da, -te, -ta)
+- Eylemin belli bir yerde gerçekleştiğini, bir kimsede, bir yerde bulunduğunu belirtir. Cümlede "dolaylı tümleç ya da zarf tümleci" olur.
+
+#### e. Ayrılma (Çıkma) Durumu (-den. -dan, -ten, -tan)
+- Eklendiği sözcüğe "uzaklaşma" anlamı katar. Cümlede "dolaylı tümleç ya da zarf tümleci" olur.
+
+#### f. Tamlayan Durumu (-ın, -in, -un, -ün)
+- Ad tamlamalarında tamlayanda bulunarak bulunarak belirtili ad tamlaması oluşturur.
+- Belediye, adanın çamlarını kesmiş.
+
+### 7. Ad Tamlamaları
+- Bir adın başka bir adı, iyelik ve ilgi ilişkisiyle tamlamasıyla oluşur.

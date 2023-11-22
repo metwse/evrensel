@@ -42,6 +42,9 @@ flowchart TD
 
 ![çiçekli bitkiler](img/çiçekli-bitki.svg) 
 
+
+
+
 ## Çiçekli Bitkilerin Dokuları
 ### Meristem Doku
 - Hücreleri bölünür.
@@ -306,3 +309,48 @@ Canlı, sürekli açıktır.
 3. Salgılar; savunma (koruma) ve tozlaşmayı destekleme, çiçeği böceğe cazip kılma görevlerini üstlenen organik maddelerdir.
 4. Salgı hücreleri; canlı, bol stoplazmalı, metabolizması yüksek hücrelerdir.
 5. Bol sentez yapar. Golgi'si (vezikül oluşturur) gelişmiş ve sayıca fazladır.
+
+### Salgı Maddelerinin Bitkiye Sağladığı Yararlar
+1. Böcekçil bitkilerin yaprakları tarafından salgılanan sıvılar hücre dışı sindirim enzimi bulundurur ve böcek proteinlerinin sindirilmesini sağlar.
+2. Selüloz, lignin ve süberin gibi salgılar bitkiye desteklik sağlar.
+3. Reçine, tanen gibi salgılar mikroorganizmalardan korur.
+4. Isırgan otunun yakıcı salgıları (formik asit) korunmayı sağlar.
+5. Çiçeklerden salınan esans ve bal özü (nektar) gibi salgılar çiçeği böceğe cazip kılar, tozlaşmaya aracılık eder.
+6. Yaralanan bölgelerde üretilen süt benzeri (kauçuk) salgılar hızla katılaşarak yaraların çabuk kapanmasını sağlar.
+
+
+
+
+## Bitkisel Organlar
+### 1. Kök
+1. Toprak altı organıdır.
+2. Bir bitki tohumunun çimlenmesi sürecinde embriyodan oluşan ilk yapıya radiküla (kök taslağı) denir.
+3. Radiküla gelişince ilk ilk kök (primer kök) oluşur.
+4. Primer kök, yer çekimi doğrultusunda gelişir. Genç bitkinin toprağa bağlanmasını, topraktan su ver minerallerin alınmasını sağlar.
+5. Bitki geliştikçe primer kök topraktan emilim yüzeyini artırmak için çok sayıda dallanma ve kök uçlarında da çok sayıda emici tüy oluşturur. Amaç, su ve mineral alımı için emme yüzeyini artırmaktır.\
+![kök](img/kök.svg) 
+
+6. Bitki kökü morfolojik olarak 4 bölümden oluşur:\
+ 1\. Kaliptra\
+ 2\. Büyüme (Hücre Bölünmesi) Bölgesi\
+ 3\. Uzama Bölgesi\
+ 4\. Emici Tüy (Olgunlaşma) Bölgesi
+
+#### a. Kaliptra
+1. Kök ucu meristemini korur.
+2. Musilaj salgısıyla kökün toprakta ilerlemesini kolaylaştırır.
+
+#### b. Büyüme (Hücre Bölünmesi) Bölgesi
+1. Primer meristem (uç meristem) hücrelerinin bulunduğu yerdir.
+2. Bu bölgenin bulunduğu kısım konik oluğu için büyüme konisi adını alır.
+
+#### c. Uzama Bölgesi
+1. Buradaki hücreler dikey yönde uzayarak kökün uzamasını sağlar.
+
+#### d. Emici Tüy (Olgunlaşma) Bölgesi
+1. Emici tüyler yoğun bulunur.
+2. Emici tüyler, suyu osmosla mineralleri aktif taşımayla alır.
+
+### . Tohum
+![tohum](img/tohum.svg) 
+
