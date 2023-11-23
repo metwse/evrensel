@@ -45,8 +45,8 @@ flowchart TD
 
 
 
-## Çiçekli Bitkilerin Dokuları
-### Meristem Doku
+# Çiçekli Bitkilerin Dokuları
+## Meristem Doku
 - Hücreleri bölünür.
 - Bitkilerin ömrü sınırsızdır. Bitki ömrü boyunca bölünür.
 - Bölünen meristem doku hücrelerinin bazıları farklılaşır ve bitkinin diğer yani *değişmez dokularını* oluşturur.
@@ -85,7 +85,7 @@ flowchart TD
     t --> t-2[Sekonder]
 ```
 
-#### Primer Meristem
+### Primer Meristem
 1. Bitkinin ömrü boyunca bölünme özelliğini kaybetmeyen hücrelerin meydana getirdiği dokudur.
 2. Kök ve gövde uçlarında, ayrıca dal uçlarında bulunur.
 3. Bulunduğu yerde boyca uzamayı sağlar. 
@@ -95,7 +95,7 @@ flowchart TD
 7. Kaliptra, müsilaj adı verilen özel bir salgı üretir. Kökün toprak içinde rahat ilerlemesini sağlar.
 8. Büyüme noktalarından alınan boyuna ya da enine kesitlerde dıştan içe doğru üç tabaka oluşur. *Histojen* adı verilen bu üç tabakalı doku bitkinin farklılaşarak diğer dokularını oluşturur.
 
-#### Sekonder Meristem
+### Sekonder Meristem
 ```mermaid
 flowchart TD
     t[Sekonder meristem]
@@ -112,7 +112,7 @@ flowchart TD
 
 ![sekonder meristem](img/sekonder-meristem.svg) 
 
-### Temel Doku
+## Temel Doku
 ```mermaid
 flowchart TD
     t[Temel doku]
@@ -123,7 +123,7 @@ flowchart TD
 - Hayvanlardaki bağ dokunun karşılığıdır.
 - Üçe ayrılır:
 
-#### Parankima Doku
+### Parankima Doku
 ```mermaid
 flowchart TD
     t[Parankima doku]
@@ -143,7 +143,7 @@ flowchart TD
 9. Tüm parankima hücrelerinde lökoplast bulunur.
 10. Parankimatik hücreler; ortamla bol madde alışverişi yapan, bulunduğu yere göre metabolizmaları değişen hücreler. 
 
-##### Özümleme Parankiması
+#### Özümleme Parankiması
 1. Yeşil bitkilerin yapraklarında, genç gövdede, genç dallarda, ham meyve kabuklarında bulunur.
 2. Hücrelerinde bol kloroplast bulunur.
 3. Görevi fotosentezdir.
@@ -151,20 +151,20 @@ flowchart TD
 5. **Otsu gövdelerde genç, dal yüzeylerinde, yeşil renkli görünen ve kloroplastlı olan hücreler fotosentez yapar. Ayrıca ham meyveler de fotosentez yapar. Bunun yanında odunsu gövde ve kök hücrelerinde, yaşlı dal yüzeylerinde fotosentez yapılmaz.**
 6. Epidermis hücrelerinin bir salgısı olan kütin ve mum bileşimli kimyasal epidermis hücrelerince sentezlenir ve salgılanır. Buharlaşma yoluyla su kaybını önler.
 
-##### İletim Parankiması
+#### İletim Parankiması
 1. İletim demetlerinin etrafını sarar.
 2. İletim demetleriyle özümleme parankiması arasında madde taşınmasında madde taşınmasında görev alır.
 3. Kloroplastsız hücrelerden oluşur.
 4. Özümleme parankiması ⇄ iletim sistemi\
 çift yönü su - mineral - organik madde taşır
 
-##### Havalandırma Parankiması
+#### Havalandırma Parankiması
 1. Genellikle suda ve bataklıkta yaşayan bitkilerin kök ve gövdelerinde bulunur.
 2. Çok sayıda hücreler arası boşluğa sahiptir.
 3. Boşluklarında hava depo eder ve bitkinin gaz alışverişinde görev yapar.
 4. **Yapraklardaki sünger parankiması boşlukları bu tür görev yapar.**
 
-##### Depo Parankiması
+#### Depo Parankiması
 1. Bitkinin türüne bağlı olarak kök, gövde, yaprak ve tohumda bulunur.
 2. Hücreleri kloroplastsızdır.
 3. Su ve besin depo eder.
@@ -173,8 +173,8 @@ fındık, ayçiçeği, mısırda yağ ⇒ oleoplast en çok\
 baklagiller protein ⇒ proteoplast en çok\
 sukkulent (kurak ortam) bitkilerinde su depo edilir
 
-#### Destek Doku
-##### Kollenkima Doku (Pek Doku)
+### Destek Doku
+#### Kollenkima Doku (Pek Doku)
 1. Genç gövdede yaprak orta damarında, çiçek ve yaprak saplarında bulunur.
 2. Eğilme, bükülme ve çarpmaya karşı mekanik destek sağlar.
 3. Hücre çeperlerinde selüloz ve pektin birikimiyle kalınlaşma, destek olayını sağlar.
@@ -183,7 +183,7 @@ sukkulent (kurak ortam) bitkilerinde su depo edilir
 
 ![kollenkima doku](img/kollenkima-doku.svg) 
 
-##### Seklerankima Doku
+#### Seklerankima Doku
 ```mermaid
 flowchart TD
     t[Sklerenkima doku]
@@ -206,10 +206,10 @@ flowchart TD
 | Bulunduğu yere göre köşe ve levha kollenkiması şeklinde iki türde bulunur. | Yapılarına göre sklerenkima lifleri (keten - kenevir lifleri) ve taş hücreleri (fındık - ceviz gibi tohum kabukları) şeklinde iki türdür. |
 
 
-### İletim Doku
+## İletim Doku
 ----------
 
-#### Floem (Soymuk Borusu)
+### Floem (Soymuk Borusu)
 ----------
 1. Floem hücreleri ince çeperli ve canlıdır.
 2. Üst üste gelen hücrelerin enine çeperleri kısmen indirgenmiş, yer yer delikler oluşmuştur. Bu delikler, kalbur görünümü sergilediğinden demete kalburlu ya da elekli boru adı verilmiştir.
@@ -223,12 +223,12 @@ flowchart TD
 
 ![floem](img/floem.svg) 
 
-### Örtü Doku
+## Örtü Doku
 1. Kök, gövde, yaprak ve meyvelerin üzerini örten dokudur.
 2. Hücrelerinde kloroplast bulunmaz, lökoplast bulunur.
 3. Bulunduğu dokuyu ya da bitkiyi su kaybına ve çevresel faktörlere karşı korur.
 
-#### Epidermis
+### Epidermis
 1. Histojenlerden dermatojen (protoderm) tabakan köken alır.
 2. Hücreleri canlı ve klorofilsizdir.
 3. Tek sıralı hücrelerden oluşur.
@@ -258,7 +258,7 @@ Canlı, sürekli açıktır.
 | H₂O<sub>(g)</sub>ı tek başına atar. | Su<sub>(s)</sub> ve mineral atar. |
 | Terleme yapar. | Damlama yapar. |
 
-##### Tüyler
+#### Tüyler
 1. Epidermis hücrelerinin dışa doğru oluşturduğu çıkıntılardır.
 2. Bazıları canlı bazıları ölü hücrelerden oluşur.
 3. Örtü, savunma, salgı ve tırmanma gibi farklı işlevleri yapar.
@@ -269,11 +269,11 @@ Canlı, sürekli açıktır.
 8. **Köklerde emici tüyler su ve mineral alımında rol oynar.**
 9. **Kök epidermis hücreleri kutikula ve stoma oluşturmaz.**
 
-##### Emergensler (Dikenler)
+#### Emergensler (Dikenler)
 1. Tüylerden farkı tüy yapısındaki epidermis hücreleri emergens oluşumu sırasında epidermisle parankimanın, bazen iletim dokunun birlikteliğiyle oluşmasıdır. 
 2. Korunma (gül, akasya), tutunma (sarılıcı bitki, gövde sülükleri) görevlerini yapar.
 
-#### Peridermis (Mantar Doku)
+### Peridermis (Mantar Doku)
 1. Peridermis, çok yıllık bitkilerde büyüme ve enine kalınlaşma devam ederken epidermis dokusu parçalanır, yerini peridermis adı verilen mantar doku alır.
 2. Fellogen adı verilen mantar kambiyumu, mantar dokuyu oluşturur.
 3. Mantar hücreleri ölüdür.
@@ -303,14 +303,14 @@ Canlı, sürekli açıktır.
 
 
 
-## Bitkinin Salgı Elemanları
+# Bitkinin Salgı Elemanları
 1. Hücreleri, hücre toplulukları, kanallar, cepler gibi yapılardan oluşur.
 2. Metabolik ürünler bu yapılarda depolanır ve gerektiğinde boşaltılır.
 3. Salgılar; savunma (koruma) ve tozlaşmayı destekleme, çiçeği böceğe cazip kılma görevlerini üstlenen organik maddelerdir.
 4. Salgı hücreleri; canlı, bol stoplazmalı, metabolizması yüksek hücrelerdir.
 5. Bol sentez yapar. Golgi'si (vezikül oluşturur) gelişmiş ve sayıca fazladır.
 
-### Salgı Maddelerinin Bitkiye Sağladığı Yararlar
+## Salgı Maddelerinin Bitkiye Sağladığı Yararlar
 1. Böcekçil bitkilerin yaprakları tarafından salgılanan sıvılar hücre dışı sindirim enzimi bulundurur ve böcek proteinlerinin sindirilmesini sağlar.
 2. Selüloz, lignin ve süberin gibi salgılar bitkiye desteklik sağlar.
 3. Reçine, tanen gibi salgılar mikroorganizmalardan korur.
@@ -321,14 +321,14 @@ Canlı, sürekli açıktır.
 
 
 
-## Bitkisel Organlar
-### 1. Kök
+# Bitkisel Organlar
+## 1. Kök
 1. Toprak altı organıdır.
 2. Bir bitki tohumunun çimlenmesi sürecinde embriyodan oluşan ilk yapıya radiküla (kök taslağı) denir.
 3. Radiküla gelişince ilk ilk kök (primer kök) oluşur.
 4. Primer kök, yer çekimi doğrultusunda gelişir. Genç bitkinin toprağa bağlanmasını, topraktan su ver minerallerin alınmasını sağlar.
 5. Bitki geliştikçe primer kök topraktan emilim yüzeyini artırmak için çok sayıda dallanma ve kök uçlarında da çok sayıda emici tüy oluşturur. Amaç, su ve mineral alımı için emme yüzeyini artırmaktır.\
-![kök](img/kök.svg) 
+![kök](img/kök.svg)
 
 6. Bitki kökü morfolojik olarak 4 bölümden oluşur:\
  1\. Kaliptra\
@@ -336,21 +336,47 @@ Canlı, sürekli açıktır.
  3\. Uzama Bölgesi\
  4\. Emici Tüy (Olgunlaşma) Bölgesi
 
-#### a. Kaliptra
+### a. Kaliptra
 1. Kök ucu meristemini korur.
 2. Musilaj salgısıyla kökün toprakta ilerlemesini kolaylaştırır.
 
-#### b. Büyüme (Hücre Bölünmesi) Bölgesi
+### b. Büyüme (Hücre Bölünmesi) Bölgesi
 1. Primer meristem (uç meristem) hücrelerinin bulunduğu yerdir.
 2. Bu bölgenin bulunduğu kısım konik oluğu için büyüme konisi adını alır.
 
-#### c. Uzama Bölgesi
+### c. Uzama Bölgesi
 1. Buradaki hücreler dikey yönde uzayarak kökün uzamasını sağlar.
 
-#### d. Emici Tüy (Olgunlaşma) Bölgesi
+### d. Emici Tüy (Olgunlaşma) Bölgesi
 1. Emici tüyler yoğun bulunur.
 2. Emici tüyler, suyu osmosla mineralleri aktif taşımayla alır.
+3. **Bazı bitkilerde normal kök sistemine ek olarak gövdeden veya yapraklardan gelişen kökler bulunur. Bu köklere adventif ya da yardımcı kök denir. Asma bitkisinde ve mısır bitki gövdelerinde adventif kökler bulunur.**
 
-### . Tohum
+### Kök Yapısı
+![kökler](img/köy-yapıları.svg)
+1. Bir kökte dıştan içe üç tabaka vardır. Bunlar sırasıyla epidermis, korteks ve merkezî silinir olarak bulunur.\
+Epidermis: Kökü en dıştan saran örtü dokudur.\
+Korteks: Epidermis ve merkezi silindir arasında kalan dokudur. Parankima hücrelerinden oluşur.\
+Endodermis: Korteksin en iç tabakasıdır. Korteks ve merkezî silindiri birbirinden ayırır. **Endodermis tabakası minerallerin korteksten iletim dokusuna seçilerek girişi için son kontrol noktasıdır.**\
+Merkezî Silindir: Perisikl ile başlar. Perisikl tabakası hücreleri meristematik özellik taşıyan (bölünmesi devam eden) ve tekrardan bölünebilme özelliği olan hücrelerden oluşur. **Perisikl tabakası yan kölerin oluşumunu sağlar.**
+2. Çift çenekli bitkilerin kökünde öz bölgesi bulunmaz.
+3. Tek çenekli bitkilerde kambiyum bulunmaz. İletim demetleri dağınık dizilir.
+4. Tek çenekli bitkilerin demet yapısına *kapalı demet*, çift çenekli bitkilerin demet yapısına  *açık demet* denir.
+5. Dikotil (iki çenekli) bitkilerde kambiyum bulunur.
+6. İletim demetleri düzenli dizilir.
+7. Kambiyumun içinde ksilem dışında floem bulunur. Buna açık demet yapısı denir.
+
+### Kök Çeşitleri
+![kök çeşitleri](img/kök-çeşitleri.svg) 
+#### a. Saçak Kök
+1. Ana kök gelişmemiştir.
+2. Bütün kökler aynı yapıda, kalınlıkta ve uzunluktadır.
+3. Aynı noktadan başlayan çok sayıda kökten oluşur.
+
+#### b. Kazık Kök
+1. Ana kök iyi gelişmiş, kalınlaşmış, toprağın içine doğru gelişmiştir.
+2. Yan kökler ana kökten gelişmiş ancak ana kök yanında daha ince görünüm sergiler.
+3. İki çenekli bitkilerde bulunur
+
+## . Tohum
 ![tohum](img/tohum.svg) 
-

@@ -1,9 +1,9 @@
 # Karbon Kimyasına Giriş
 ## Organik ve Anorganik Bileşikler
-1. Temel kaynağı genelde canlı organizmalar olan ve yapılarında karbon atomu bulundar bileşikler *organik bileşiklerdir*. Karbonun yanında genellikle H, O, N ve S de bulunabilir.
+1. Temel kaynağı genelde canlı organizmalar olan ve yapılarında karbon atomu bulunan bileşikler *organik bileşiklerdir*. Karbonun yanında genellikle H, O, N ve S de bulunabilir.
 2. Organik kelimesini ilk Berzelius kullanmış, Wöhler amonyum siyanattan (NH₄CN) çıkararak organik bileşik olan üreyi elde edip organik bileşiklerin sadece canlı organizmalardan sentezlenmediğini, laboratuvarda da sentezlenebildiğini göstermiştir.
 3. CO, CO₂, CO₃²⁻, CN⁻, karbür bileşikleri karbon içermesine rağmen organik değildir.
-4. Organik bileşiklerin çeşitlerinin fazla sayıda olma sebebi öncelikle karbon atomunun $ bağ yapabilmesidir. Ayrıca karbon atomları hem kendi aralarında hem de diğer atomlarla bağ yapabilir. Karbonların kendi arasında yaptığı bağlar oldukça sağlam apolar kovalent bağlardır. Bunun sonucunda uzun karbon zincirleri elde edilir.
+4. Organik bileşiklerin çeşitlerinin fazla sayıda olma sebebi öncelikle karbon atomunun 4 bağ yapabilmesidir. Ayrıca karbon atomları hem kendi aralarında hem de diğer atomlarla bağ yapabilir. Karbonların kendi arasında yaptığı bağlar oldukça sağlam apolar kovalent bağlardır. Bunun sonucunda uzun karbon zincirleri elde edilir.
 
 ## Organik ve Anorganik Bileşikler Arasındaki Farklılık
 | Organik | Anorganik |
@@ -83,12 +83,14 @@ k: tam sayı, sadeleştirme kat sayısı
 - Atomlar arasında oluşan ilk bağ sigma bağıdır. Sonrasında pi bağları oluşur.
 - Sigma bağları pi bağlarından daha kuvvetlidir. Bu nedenle önce pi bağları kopar.
 - Sigma bağları molekül geometrisine belirler.
+- Pi bağları koptuğunda molekül katılma tepkimesi verir. Sigma bağları koptuğundaysa yer değiştirme tepkimesi verir.
 - Bağ uzunlukları: - > = > ≡
 - Bağ enerjileri: ≡ > = > -
 - σ -, πσ =, ππσ ≡
 
 ### Hibrit Orbitalleri
-1. Aynı enerji düzeninde hem dolu hem de boş orbital varsa bu tam dolu orbiralden 1 elektron boş orbitale sıçrar ve ve yarı dolu orbitaller oluşturur. Bu olaya hibritleşme, yeni oluşan orbitallere hibrit denir.
+1. Aynı enerji düzeninde hem dolu hem de boş orbital varsa bu tam dolu orbiralden 1 elektron boş orbitale sıçrar ve yarı dolu orbitaller oluşturur. Bu olaya hibritleşme, yeni oluşan orbitallere hibrit denir.
+2. Atom bağ yaparken enerji kaybeder. Enerjisi azaldığı için daha kararlı olur.
 
 ![hibritleşme](img/hibritleşme.svg) 
 
@@ -121,7 +123,7 @@ Numaralandırılmış karbon atomlarının her birinin yaptığı hibritleşme t
 BeH₂ molekülü (₄Be, ₁H)\
 ![çözüm](img/örnek/4-çözüm.svg)\
 Molekül geometrisi: Doğrusal\
-Bağ açısı: 180°\
+Bağ açısı: 180° \
 Hibritleşme: sp\
 Molekül polarlığı: apolar
 
@@ -129,16 +131,16 @@ Molekül polarlığı: apolar
 BH₃ molekülü (₅B, ₁H)\
 ![çözüm](img/örnek/5-çözüm.svg)\
 Molekül geometrisi: Düzlem üçgen\
-Bağ açısı: 120°\
-Hibritleşme: sp²\
+Bağ açısı: 120° \
+Hibritleşme: sp² \
 Molekül polarlığı: apolar
 
 *4A*\
 CH₄ molekülü (₆C, ₁H)\
 ![çözüm](img/örnek/6-çözüm.svg)\
 Molekül geometrisi: Düzgün dört yüzlü\
-Bağ açısı: 109,5°\
-Hibritleşme: sp³\
+Bağ açısı: 109,5° \
+Hibritleşme: sp³ \
 Molekül polarlığı: apolar
 
 **Not**: Apolar moleküllerde merkeze bağlı atomlardan en az biri değiştiğinde molekül polara dönüşür.
@@ -146,17 +148,17 @@ Molekül polarlığı: apolar
 *5A*\
 NH₃ molekülü (₇N, ₁H)\
 ![çözüm](img/örnek/7-çözüm.svg)\
-Molekül geometrisi: Üçgen pramit\
-Bağ açısı: 107°\
-Hibritleşme: sp³\
+Molekül geometrisi: Üçgen piramit\
+Bağ açısı: 107° \
+Hibritleşme: sp³ \
 Molekül polarlığı: polar
 
 *6A*\
 H₂O molekülü (₈O, ₁H)\
 ![çözüm](img/örnek/8-çözüm.svg)\
 Molekül geometrisi: Kırık doğru\
-Bağ açısı: 104,5°\
-Hibritleşme: sp³\
+Bağ açısı: 104,5° \
+Hibritleşme: sp³ \
 Molekül polarlığı: polar
 
 ### VSEPR Gösterimi
@@ -168,3 +170,11 @@ Merkez atomdaki e⁻ çifti: E
 CH₄ AX₄ \
 NH₃ AX₃E\
 H₂O AX₂E₂
+
+| grup | molekül geometrisi | bağ açısı | hibritleşme |
+|-|-|-|-|
+| 2A | doğrusal | 180° | sp |
+| 3A | düzlem üçgen | 120° | sp² |
+| 4A | düzgün dört yüzlü | 109,5° | sp³ |
+| 5A | üçgen piramit | 107° | sp³ |
+| 6A | kırık doğru | 104,5° | sp³ |
