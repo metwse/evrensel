@@ -73,9 +73,9 @@ flowchart TD
 ```mermaid
 flowchart TD
     t[Bulunduğu yere göre meristem]
-    t --> t-1[Primer, Uç, Apikal]
-    t --> t-2[Internal, Ara]
-    t --> t-3[Sekonder, Yanal, Lateral]
+    t --> t-1["Primer (Uç, Apikal)"]
+    t --> t-2["Internal (Ara)"]
+    t --> t-3["Sekonder (Yanal, Lateral)"]
 ```
 
 ```mermaid
@@ -377,6 +377,37 @@ Merkezî Silindir: Perisikl ile başlar. Perisikl tabakası hücreleri meristema
 1. Ana kök iyi gelişmiş, kalınlaşmış, toprağın içine doğru gelişmiştir.
 2. Yan kökler ana kökten gelişmiş ancak ana kök yanında daha ince görünüm sergiler.
 3. İki çenekli bitkilerde bulunur
+
+### Kökün Görevleri
+1. Bitkiyi sıkıca toprağa bağlar.
+2. Topraktan su ve mineralleri alır.
+3. Sitokinin ve giberellin hormonlarını sentezler.
+4. Koruyucu özellikte sekonder bileşikleri üretir.
+5. Besin maddelerini depolar.
+
+
+## 2. Gövde
+![gövde yapısı](img/gövde-yapısı.svg) 
+1. **Otsu tek çeneklilerde kambiyum yoktur.**
+2. Otsu çift çeneklilerde ve odunlu bitkilerde kambiyum bulunur.
+
+### Gövdede Büyüme
+1. **Primer Büyüme**: Uç meristem etkisiyle olur. Boyca uzama olarak bilinir. Tüm bitkilerde görülür.
+2. **Sekonder Büyüme**: Enine kalınlaşmadır. Sekonder meristem etkisiyle olur.
+
+```mermaid
+flowchart TD
+    t[Meristem Doku]
+    t --> t-1["Primer (Uç, Apikal)"]
+    t-1 --> t-1-1["Tüm bitkilerde bulunur."]
+    t --> t-2["Internal (Ara)"]
+    t --> t-3["Sekonder (Yanal, Lateral)"]
+    t-3 --> t-3-1["Demet Kambiyumu (Vasküler Kambiyum)"]
+    t-3-1 --> t-3-1-1["Çift çenekli otsu ve odunlu bitkilerde"]
+    t-3 --> t-3-2["Fellogen (Mantar Kambiyumu)"]
+    t-3-2 --> t-3-2-1["Çift çenekli odunlu bitkilerde"]
+```
+
 
 ## . Tohum
 ![tohum](img/tohum.svg) 
