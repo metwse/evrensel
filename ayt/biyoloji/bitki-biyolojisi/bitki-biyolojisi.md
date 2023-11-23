@@ -112,6 +112,7 @@ flowchart TD
 
 ![sekonder meristem](img/sekonder-meristem.svg) 
 
+
 ## Temel Doku
 ```mermaid
 flowchart TD
@@ -207,21 +208,41 @@ flowchart TD
 
 
 ## İletim Doku
-----------
+1. Hayvanlardaki dolaşım sisteminin bitkilerdeki karşılığı iletim (taşıma) sistemidir.
+2. İletim sistemi bitkilerde ksilem (odun borusu) be floem (soymuk borusu) olmak üzere iki kısımdan oluşur. Bu boruların bir arada bulunmasıyla bitkilerde iletim elemanları meydana gelir.
+3. **Damarsız çiçeksiz bitkiler dışında tüm karasal bitkilerde bulunan ve madde taşınmasında etkili olan dokulardır.**
+4. **Tamamen su içinde bulunan bitkilerde odun boruları, stomalar be kökler bulunmaz.**
+
+
+### Ksilem (Odun Boruları)
+1. Topraktan kökler aracılığıyla alınan su ve suda çözünmüş mineraller ile kökte sentezlenen bazı hormonların bitkilerin sürgün sisteminde bulunan doku ve organlara taşınmasını sağlar.
+2. **Kök hücrelerinde su ozmos ile mineraller aktif taşımayla alınır. Bu nedenle kök hücrelerine O₂li solunum yapılır. Oksijenli solunumun atığı olan CO₂, toprak boşluklarındaki O₂ ile değiştirilir.**
+3. Ksilem borularının çevresinde bulunan ksilem parankima hücreleri çeşitli besin maddelerinin depolanmasında, ksilem sklerenkima hücreleri destek sağlamada görev alır.
+4. Odun boruları meristem doku hücrelerinin üst üste gelerek zamanla çekirdek ve stoplazmalarını kaybetmesi sonucunda oluşur.
+5. Hücre duvarları lignin birikimi ile kalınlaşır.
+6. Çekirdek ve stoplazma bulundurmayan ölü hücrelerden oluşur.
+7. Ksilem dokusunun en karakteristik elemanları trake be trakeitlerdir.\
+Trakeler: Çeperleri kalın, çapları geniş birçok hücrenin üst üste gelmesi be ara çeperlerinin erimesiyle oluşmuş borulardır. Asıl işlevleri madde taşınmasıdır.\
+Trakeitler: Çeperleri ince olan , ara çeperlerinin tam erimemesiyle iletimin yanında bitkiye desteklik sağlar. Su ve suda çözünmüş maddeler geçitler sayesinde hem yanal hem de yukarı doğru taşınır.\
+![trake ve trekeit](img/trake-ve-trekeit.svg) 
+8. **Ksilemdeki madde taşınması floemdeki madde taşınmasına göre hızlı gerçekleşir.**
+
 
 ### Floem (Soymuk Borusu)
-----------
-1. Floem hücreleri ince çeperli ve canlıdır.
-2. Üst üste gelen hücrelerin enine çeperleri kısmen indirgenmiş, yer yer delikler oluşmuştur. Bu delikler, kalbur görünümü sergilediğinden demete kalburlu ya da elekli boru adı verilmiştir.
-3. Floem hücrelerinin stoplazması vardır, çekirdeği yoktur. Arkadaş hücrelerinin ise hem çekirdeği hem de bol stoplazması bulunur.
-4. Floem hücrelerinin canlılığını arkadaş hücrelerinin çekirdeği kontrol eder.
-5. İletim çift yönlüdür ancak aynı anda aynı boruda çift yönlü madde taşınması olmaz.
-6. İletim hızı ksileme göre yavaştır.
-7. Madde iletiminde hem aktif hem pasif taşıma etkilidir.
-8. Floem sklerenkiması, bitkiye desteklik sağlar ve kambiyumu korur.
-9. Floem parankiması; nişasta, yağ, tanen ve reçine depo edilen hücrelerdir.
+1. Aynı boruda aynı anda çift yönlü madde taşınmaz.
+2. Glikoz, sükroz, aminoasitler, azotlu diğer moleküller, riboz, deoksiriboz, yağ asitleri, gliserol ve suda çözünmüş mineraller taşınır.
+3. Floem hücreleri ince çeperli ve canlıdır.
+4. Üst üste gelen hücrelerin enine çeperleri kısmen indirgenmiş, yer yer delikler oluşmuştur. Bu delikler, kalbur görünümü sergilediğinden demete kalburlu ya da elekli boru adı verilmiştir.
+5. Floem hücrelerinin stoplazması vardır, çekirdeği yoktur. Arkadaş hücrelerinin ise hem çekirdeği hem de bol stoplazması bulunur.
+6. Floem hücrelerinin canlılığını arkadaş hücrelerinin çekirdeği kontrol eder.
+7. İletim çift yönlüdür ancak aynı anda aynı boruda çift yönlü madde taşınması olmaz.
+8. İletim hızı ksileme göre yavaştır.
+9. Madde iletiminde hem aktif hem pasif taşıma etkilidir.
+10. Floem sklerenkiması, bitkiye desteklik sağlar ve kambiyumu korur.
+11. Floem parankiması; nişasta, yağ, tanen ve reçine depo edilen hücrelerdir.
 
 ![floem](img/floem.svg) 
+
 
 ## Örtü Doku
 1. Kök, gövde, yaprak ve meyvelerin üzerini örten dokudur.
@@ -349,7 +370,7 @@ Canlı, sürekli açıktır.
 
 ### d. Emici Tüy (Olgunlaşma) Bölgesi
 1. Emici tüyler yoğun bulunur.
-2. Emici tüyler, suyu osmosla mineralleri aktif taşımayla alır.
+2. Emici tüyler, suyu ozmosla mineralleri aktif taşımayla alır.
 3. **Bazı bitkilerde normal kök sistemine ek olarak gövdeden veya yapraklardan gelişen kökler bulunur. Bu köklere adventif ya da yardımcı kök denir. Asma bitkisinde ve mısır bitki gövdelerinde adventif kökler bulunur.**
 
 ### Kök Yapısı

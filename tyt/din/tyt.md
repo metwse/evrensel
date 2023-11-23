@@ -146,3 +146,15 @@ Müslüman olan ilk Türk devleti *İdil (Volga) Bulgar Devleti*'dir.
 
 ### Cafer es-Sâdık
 1. İmamiye'nin altıncı imamıdır.
+
+
+
+# 12.3 İslamdaki Tasavvufi Yorumlar
+**Halvet**: İnziva\
+**Züht**: Elde mevcut olsa bile mal ve mülk sevgisine yer vermeme. Allah'a yönelmek için dünyadan el etek çekme.\
+**Zahid**: Dünyaya rağbet etmeyen, hendini ahiret ve Allah'a veren, mala mülke şöhrete değer vermeyen kişi.
+
+```mermaid
+flowchart TD
+  t["İslam'daki Tasavvufi Yorumlar"]
+```
