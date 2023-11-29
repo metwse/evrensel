@@ -216,7 +216,7 @@ flowchart TD
 
 ### Ksilem (Odun Boruları)
 1. Topraktan kökler aracılığıyla alınan su ve suda çözünmüş mineraller ile kökte sentezlenen bazı hormonların bitkilerin sürgün sisteminde bulunan doku ve organlara taşınmasını sağlar.
-2. **Kök hücrelerinde su ozmos ile mineraller aktif taşımayla alınır. Bu nedenle kök hücrelerine O₂li solunum yapılır. Oksijenli solunumun atığı olan CO₂, toprak boşluklarındaki O₂ ile değiştirilir.**
+2. **Kök hücrelerinde su ozmoz ile mineraller aktif taşımayla alınır. Bu nedenle kök hücrelerine O₂li solunum yapılır. Oksijenli solunumun atığı olan CO₂, toprak boşluklarındaki O₂ ile değiştirilir.**
 3. Ksilem borularının çevresinde bulunan ksilem parankima hücreleri çeşitli besin maddelerinin depolanmasında, ksilem sklerenkima hücreleri destek sağlamada görev alır.
 4. Odun boruları meristem doku hücrelerinin üst üste gelerek zamanla çekirdek ve stoplazmalarını kaybetmesi sonucunda oluşur.
 5. Hücre duvarları lignin birikimi ile kalınlaşır.
@@ -370,7 +370,7 @@ Canlı, sürekli açıktır.
 
 ### d. Emici Tüy (Olgunlaşma) Bölgesi
 1. Emici tüyler yoğun bulunur.
-2. Emici tüyler, suyu ozmosla mineralleri aktif taşımayla alır.
+2. Emici tüyler, suyu ozmozla mineralleri aktif taşımayla alır.
 3. **Bazı bitkilerde normal kök sistemine ek olarak gövdeden veya yapraklardan gelişen kökler bulunur. Bu köklere adventif ya da yardımcı kök denir. Asma bitkisinde ve mısır bitki gövdelerinde adventif kökler bulunur.**
 
 ### Kök Yapısı
@@ -413,8 +413,16 @@ Merkezî Silindir: Perisikl ile başlar. Perisikl tabakası hücreleri meristema
 2. Otsu çift çeneklilerde ve odunlu bitkilerde kambiyum bulunur.
 
 ### Gövdede Büyüme
-1. **Primer Büyüme**: Uç meristem etkisiyle olur. Boyca uzama olarak bilinir. Tüm bitkilerde görülür.
-2. **Sekonder Büyüme**: Enine kalınlaşmadır. Sekonder meristem etkisiyle olur.
+**Primer Büyüme**: Uç meristem etkisiyle olur. Boyca uzama olarak bilinir. Tüm bitkilerde görülür.\
+**Sekonder Büyüme**: Enine kalınlaşmadır. Sekonder meristem etkisiyle olur.\
+**Primer büyüme tüm bitkilerde görülürken sekonder büyüme monokotil bitkilerde görülmez.**
+1. Her büyüme mevsiminde primer büyüme kök, gövde ve dalların genç sürgünlerini oluştururken sekonder büyüme bitkinin yaşlı kısımlarını kalınlaştırır.
+2. Sekonder büyüme sırasında demet kambiyumu (vasküler kambiyum) yeni floem ve ksilem oluşturmasıyla korteks gerilir, epidermis basınca dayanamaz ve parçalanır. Epidermisin yerini parankimatik hücrelerden farklılaşan mantar kambiyumu alır. Mantar hücrelerini oluşturur. Mantar hücrelerinin çeperlerinde süberin (mantar özü) maddesi birikir. Zamanla hücreler ölür, içleri havayla dolar. Böylece peridermis dokusu oluşur.\
+![gövdede sekonder büyüme](img/gövdede-sekonder-büyüme.svg)
+3. **Peridermis, fellogen (mantar kambiyumu) ve floem kabuğu (korteks) meydana getirir.**
+4. Ilıman bölgelerde (Türkiye de dahil.) ağaçlar genellikle ilkbaharda büyümeye başlar ve büyüme sonbaharda durur. Buna büyüme mevsimi denir.
+5. Büyüme sırasında oluşan ilkbahar odununun hücrelerin besin ve mineralin toprakta bol olması nedeniyle sonbahar odunun hücrelerine göre büyük ve ince çeperlidir. Sonbahar hücrelerininse çeperlerinin kalın olması nedeniyle koyu gözükür. Sonbahar ve ilkbahar odunu ağaç halkalarını oluşturur. Ağacın yıllık halka genişliği iklimle ilgilidir. Eğer iklim ağaç için uygunsa halkalar geniş, uygun değilse halkalar dardır.\
+![yaş halkaları](img/yaş-halkaları.svg) 
 
 ```mermaid
 flowchart TD
@@ -430,5 +438,64 @@ flowchart TD
 ```
 
 
-## . Tohum
+## 3. Yaprak
+![tek ve çok çenekli bitkilerde yaprak](img/tek-ve-çok-çenekli-bitkilerde-yaprak.svg) 
+1. Bitkide terleme ve fotosentezin yapıldığı organdır.
+2. Yaprak ayası ve yaprak sapından oluşur.
+3. Yaprak ayası, fotosentezin ve gaz alışverişinin yapıldığı kısımdır.
+4. Çölde yaşayan bitkilerde ve kurak ortan bitkilerde yapraklar küçülmüş, diklen şeklini almıştır. Bu bitkilerin yapraklarının görevini özümleme parankiması içeren gövdeleri üstlenmiştir.
+5. Yaprak sapı, yaprak ayasını gövdeye bağlar. Yaprak sapıyla gövdenin birleştiği yerdeki yaprak yastığı yaprak ayasının ışıktan en iyi şekilde yararlanmasını sağlar.
+6. Tek çenekli bitkilerde ve bazı çift çenekli bitkilerde yaprak sapı bulunmaz.
+7. **Kaktüslerde gövdede stomalar bulunur. Stomalar, gece açık gündüz kapalıdır. Gece karbondioksit depo edilir, gündüz fotosentez yapılır.**
+8. Yaprak; tek yaprak ayasından oluşuyorsa basit yaprak, bir sapa bağlı çok yaprakçıktan oluşuyorsa bileşik yaprak adını alır.\
+![basit ve bileşik yaprak](img/basit-ve-bileşik-yaprak.svg) 
+
+
+## 4. Tohum
 ![tohum](img/tohum.svg) 
+
+
+
+
+# Bitkilerde Taşıma
+```mermaid
+flowchart TD
+    t[Bitkilerde Taşınma]
+    t --> t-1["Kısa Mesafeli (Yatay)"]
+    t --> t-2["Uzun Mesafeli (Dikey)"]
+```
+Su, mineraller ve bazı hormonlar: Ksilem\
+Su, mineraller, fotosentez ürünleri: floem 
+
+## Kısa Mesafeli (Yanal) Taşınma
+1. Maddeler, hücrelerden hücrelere taşınır.
+2. Yanal taşınım adını alır.
+3. İletim demeteleriyle hücreler arasında taşınma söz konusudur.
+4. **Apoplast Geçiş**: Su hücreye girmez, hücreler arasından endodermise gelir. Kaspari şeridi su geçişine izin vermez. Burada hücre stoplazmasına girer ve odun borusunda ulaşır.
+5. **Simplast Geçiş**: Su; emici tüy, korteks, endodermis hücrelerinin stoplazmasına girip çıkarak merkezi silindire ve odun borusuna ulaşır.
+6. **Endodermis ve kaspari şeridi su ve minerallerin seçilerek odun borusuna girmesini sağlar.**
+7. *2024 AYT* **Minerallerin topraktaki derişimi, emici tüylerdeki derişiminden daha düşüktür. Bu nedenle minerallerin emici tüyler tarafından alınması aktif taşımayla olur. Oysa su bitkiye ozmozla girer.**
+
+![kökte taşınma](img/kökte-taşınma.svg) 
+
+### Kısa Mesafeli Taşınmanın Sırası
+1. Emici tüy (epidermis)
+2. Korteks parankiması hücreleri
+3. Endodermis
+4. Perisikl
+5. Odun boruları
+
+
+## Uzun Mesafeli (Dikey) Taşınma 
+1. Maddeler odun ve soymuk borularından oluşan iletim demetlerinde taşınır.
+
+```mermaid
+flowchart TD
+    t[Su ve minerallerin dikey taşınımı]
+    t --> ta["Kılcallık Görüşü (Otsu bitkiler ve bodur çalılar)"]
+    ta --> taa["Su kılcal borularda açik hava basıncı etkisitle kökten yapraklara en çok 10m kadar taşınabilir."]
+    t --> tb[Kök Basıncı Görüşü]
+    t --> tc[Terleme-Kohezyon Görüşü]
+```
+
+![dikey taşıma](img/dikey-taşıma.svg) 

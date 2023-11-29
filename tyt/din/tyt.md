@@ -5,6 +5,11 @@
 **İtidal**: (Mutedil) Denge\
 **Tefrit**: Az aşırılık
 
+**Mürşit**: Yol gösterici
+
+**İffet**: Namus, haya\
+**Şecaat**: Yiğitlik, kahramanlık
+
 **Haset**: Başkasının malını ya da başarısını bir fakirin zengini kıskanması gibi kıskanmak\
 **Gıpta**: Başkasını örnek alarak onun başarısını elde etmeye çalışmak.\
 **Riya**: Gösteriş × **İhlas**: Samimiyet\
@@ -149,12 +154,8 @@ Müslüman olan ilk Türk devleti *İdil (Volga) Bulgar Devleti*'dir.
 
 
 
-# 12.3 İslamdaki Tasavvufi Yorumlar
+# 12.3 İslam'daki Tasavvufi Yorumlar
 **Halvet**: İnziva\
 **Züht**: Elde mevcut olsa bile mal ve mülk sevgisine yer vermeme. Allah'a yönelmek için dünyadan el etek çekme.\
-**Zahid**: Dünyaya rağbet etmeyen, hendini ahiret ve Allah'a veren, mala mülke şöhrete değer vermeyen kişi.
+**Zahid**: Dünyaya rağbet etmeyen, kendini ahiret ve Allah'a veren, mala mülke şöhrete değer vermeyen kişi.
 
-```mermaid
-flowchart TD
-  t["İslam'daki Tasavvufi Yorumlar"]
-```

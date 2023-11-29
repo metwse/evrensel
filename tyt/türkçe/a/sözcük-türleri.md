@@ -272,3 +272,26 @@ flowchart TD
 | tahta masa | geniş masa |
 | taş duvar | yüksek duvar |
 | altın yüzük | parıltılı yüzük |
+
+
+----------
+
+
+## Edat
+- Tek başına anlamı olmayan kelimeler edattır. (İle, gibi...)
+- Edatlar "-e/-den" hâl ekleriyle kalıplaşabilir. (-e karşı, -e göre, -den önce, -den beri....)
+- Sadece anlamı veren kelimeler edattır. (Yalnız, bir, tek, ancak...)
+  - *Yalnız* senin yazdığın bahçede çiçek açmaz.
+  - Bu hayatta *bir* sana güvendim.
+  - Bu sırrı *ancak* sana açarım
+- Edatlar tek başına kullanılmaz, edat grubu kurar. Bu gruplar sıfat, zarf ya da isim olabilir.
+  - Dün ondan *buz gibi* (gibi edat, edat grubu) soğudum.
+  - *Buz gibi* (gibi edat, edat grubu) havada neden böyle giyindin?
+  - *Ne kadar arkadaşım* (kadar edat, sıfat grubu) varsa hepsini çıkardım hayatımdan.
+- Bazı ekler edat görevini üstlenebilir.
+  - Mont *giymediğinden* (giymediğinden dolayı) hastalanmış.
+  - *Sizce* (size göre) büyük ikramiye kime çıkar?
+  - Bu suyu *sana* (senin için) aldım.
+
+
+## Bağlaç
