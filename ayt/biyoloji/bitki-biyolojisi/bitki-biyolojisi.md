@@ -499,3 +499,19 @@ flowchart TD
 ```
 
 ![dikey taşıma](img/dikey-taşıma.svg) 
+
+
+
+
+# Terleme Hızına Etki Eden Faktörler
+1. Ortamın nemi\
+nem ∝ 1/v\
+![terleme b](img/terleme-b.svg)\
+Havanın neme doygun olması bitkinin gutasyon (damlama) ile su atmasına, kök ozmotik basıncının yükselerek topraktan su almasına ve taşınmasına aracılık eder.
+2. Rüzgâr\
+rüzgâr ∝ v\
+![terleme-n](img/terleme-n.svg)\
+Rüzgârlı hava terlemeyi artırır. Aşırı rüzgâr bitkinin su kaybına neden olacağından terleme azalır.
+3. Sıcaklık\
+![terleme-t](img/terleme-t.svg)\
+Terleme, her sıcaklıkta bir miktar vardır. Sıcaklığın çok artması bitkinin su kaybına neden olacağı için *absisik asit* salınır ve stomalar kapanır. Bitki su stersinden korunur.

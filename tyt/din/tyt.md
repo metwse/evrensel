@@ -18,7 +18,8 @@
 **Müsamaha**: Hoşgörü × **Taassup**: Bağnazlık\
 **Tecessüs**: Başkasının gizlisini aramak\
 **Suizan**: Birinin davranışlarını kötü yorumlamak × **Hüsnüzan**: Davranışlarını olumlamak\
-**Fitne**: İnsanların arasını bozmak
+**Fitne**: İnsanların arasını bozmak\
+**Tamahkârlık**: Aç gözlülük
 
 **Uluhiyet**: İlahlık mertebe\
 **Ubutiyet**: Kulluk mertebesi
