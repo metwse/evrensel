@@ -1,3 +1,5 @@
+Kuran 30 cüz, cüz 20 sayfa.
+
 **İkrar**: İmanı dille onaylamak\
 **Tasdik**: İmanı kalple onaylamak
 
@@ -49,8 +51,10 @@ akılcılar <= mutezile === maturidi === eşariler => vahiyciler (nass)
 **Zekat**, *farz*: Farz olan yardım. Zenginin malından 40'da birini fakire doğrudan vermesi. Zekat kuruma, camiye vs. verilemez.\
 Anne, baba, çocuk, dede ve neneye verilenler zekat sayılmaz. Sadaka zekat değildir.
 
-**Fıkıh**: İbadetleri inceleyen bilim dalı. (Ebu Hanife)\
+**Fıkıh**: İbadetleri inceleyen bilim dalı, İslam hukuku. (Ebu Hanife)\
 **Kelam**: İslam'ın inançla ilgili boyutunu inceleyen bilim dalı. (İmam Maturidi)\
+**Tecvit**: Kuran'ı doğru ve güzel okumak.\
+**Hatim**: Kuran'ı baştan sona okumak.\
 **Tasavvuf**: Allah'ı çokça anmak, nefis terbiyesi. (Ahmet Yesevi)
 
 **Kadir Gecesi**: Kuran'ın indirilmeye başlandığı gece.\
@@ -160,3 +164,4 @@ Müslüman olan ilk Türk devleti *İdil (Volga) Bulgar Devleti*'dir.
 **Züht**: Elde mevcut olsa bile mal ve mülk sevgisine yer vermeme. Allah'a yönelmek için dünyadan el etek çekme.\
 **Zahid**: Dünyaya rağbet etmeyen, kendini ahiret ve Allah'a veren, mala mülke şöhrete değer vermeyen kişi.
 
+**Semâ**: Mevlevilikte dönme.

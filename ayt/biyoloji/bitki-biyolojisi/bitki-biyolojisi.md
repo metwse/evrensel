@@ -184,7 +184,7 @@ sukkulent (kurak ortam) bitkilerinde su depo edilir
 
 ![kollenkima doku](img/kollenkima-doku.svg) 
 
-#### Seklerankima Doku
+#### Sklerankima Doku
 ```mermaid
 flowchart TD
     t[Sklerenkima doku]
@@ -379,7 +379,7 @@ Canlı, sürekli açıktır.
 Epidermis: Kökü en dıştan saran örtü dokudur.\
 Korteks: Epidermis ve merkezi silindir arasında kalan dokudur. Parankima hücrelerinden oluşur.\
 Endodermis: Korteksin en iç tabakasıdır. Korteks ve merkezî silindiri birbirinden ayırır. **Endodermis tabakası minerallerin korteksten iletim dokusuna seçilerek girişi için son kontrol noktasıdır.**\
-Merkezî Silindir: Perisikl ile başlar. Perisikl tabakası hücreleri meristematik özellik taşıyan (bölünmesi devam eden) ve tekrardan bölünebilme özelliği olan hücrelerden oluşur. **Perisikl tabakası yan kölerin oluşumunu sağlar.**
+Merkezî Silindir: Perisikl ile başlar. Perisikl tabakası hücreleri meristematik özellik taşıyan (bölünmesi devam eden) ve tekrardan bölünebilme özelliği olan hücrelerden oluşur. **Perisikl tabakası yan köklerin oluşumunu sağlar.**
 2. Çift çenekli bitkilerin kökünde öz bölgesi bulunmaz.
 3. Tek çenekli bitkilerde kambiyum bulunmaz. İletim demetleri dağınık dizilir.
 4. Tek çenekli bitkilerin demet yapısına *kapalı demet*, çift çenekli bitkilerin demet yapısına  *açık demet* denir.
@@ -439,6 +439,7 @@ flowchart TD
 
 
 ## 3. Yaprak
+![yaprak enine kesiti](img/yaprak-enine-kesiti.svg)\
 ![tek ve çok çenekli bitkilerde yaprak](img/tek-ve-çok-çenekli-bitkilerde-yaprak.svg) 
 1. Bitkide terleme ve fotosentezin yapıldığı organdır.
 2. Yaprak ayası ve yaprak sapından oluşur.
@@ -448,6 +449,8 @@ flowchart TD
 6. Tek çenekli bitkilerde ve bazı çift çenekli bitkilerde yaprak sapı bulunmaz.
 7. **Kaktüslerde gövdede stomalar bulunur. Stomalar, gece açık gündüz kapalıdır. Gece karbondioksit depo edilir, gündüz fotosentez yapılır.**
 8. Yaprak; tek yaprak ayasından oluşuyorsa basit yaprak, bir sapa bağlı çok yaprakçıktan oluşuyorsa bileşik yaprak adını alır.\
+9. Tek çeneklilerde paralel damarlanma görülür.
+10. Yaprakta ksilem üstte floem altta bulunur.
 ![basit ve bileşik yaprak](img/basit-ve-bileşik-yaprak.svg) 
 
 
@@ -501,6 +504,23 @@ flowchart TD
 ![dikey taşıma](img/dikey-taşıma.svg) 
 
 
+## Bitkilerde Organik Madde Taşınımı
+![organik besin taşınımı](img/organik-besin-taşınımı.svg) 
+### Aşağı Taşınma
+1. Yaprak (kaynak) hücresinde sentezlenen glikoz, aminoasit ve vitamin gibi moleküller *floeme* ulaşır.
+2. Floemde ozmotik basınç artar.
+3. Floem hücresine ksilemden su girer.
+4. Su - organik madde karışımı bir sıvı basıncı oluştur. Bu basınç köke doğru organik madde akışını sağlar.
+5. Organik besinler, kök emici tüylerine kadar taşınır. Floemde artan su, yeniden ksileme geçer ve yukarı yöne taşınır.
+6. Organik maddenin taşındığı hücre, havuz hücredir.
+
+### Yukarı Taşıma
+1. Kök emici tüylerine su ozmozla, nitrat iyonları aktif taşımayla alınır.
+2. Kök emici tüylerinde glikoz ve nitratlardan aminoasit sentezlenir.
+3. Aminoasitler, havuz hücreden floeme geçer.
+4. Floemde ozmotik basınç artışı, ksilemden su alınmasını sağlar. Böylece oluşan aminoasit - su karışımı sıvı basıncı oluşturur.
+5. Organik floemde yukarı taşınır. Aminoasitler yaprak hücrelerine geçer, su yeniden ksileme geçerek yukarı taşınmasını devam ettirir. Ksilemde su taşınması hep yukarı yöndedir.
+
 
 
 # Terleme Hızına Etki Eden Faktörler
@@ -510,8 +530,78 @@ nem ∝ 1/v\
 Havanın neme doygun olması bitkinin gutasyon (damlama) ile su atmasına, kök ozmotik basıncının yükselerek topraktan su almasına ve taşınmasına aracılık eder.
 2. Rüzgâr\
 rüzgâr ∝ v\
-![terleme-n](img/terleme-n.svg)\
+![terleme n](img/terleme-n.svg)\
 Rüzgârlı hava terlemeyi artırır. Aşırı rüzgâr bitkinin su kaybına neden olacağından terleme azalır.
 3. Sıcaklık\
-![terleme-t](img/terleme-t.svg)\
+![terleme t](img/terleme-t.svg)\
 Terleme, her sıcaklıkta bir miktar vardır. Sıcaklığın çok artması bitkinin su kaybına neden olacağı için *absisik asit* salınır ve stomalar kapanır. Bitki su stersinden korunur.
+4. CO₂ Derişimi\
+CO₂ derişiminin artışı, bir noktaya kadar terlemeyi artırır. Sonrasında tüm stomalar açık olduğundan terleme sabit hızla sürer.\
+![terleme c](img/terleme-c.svg) 
+5. Işık şiddeti\
+Karbondioksidin etkisine benzer bir etki yapar. Grafiği onun aynısıdır.
+
+
+
+
+# Bitkilerde Beslenme 
+## Tuzların Önemi
+1. 6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O\
+Eğer fotosentez tepkimesine NO₃⁻ gibi nitrat tuzlarının katılması olursa azotlu organik bileşikler oluşturulabilir.
+2. Karbondioksit ve su, bitkilerde C, H ve O kaynağıdır. Bu üç element; organik besinlerin, bitkinin temel yapısal elementleridir. Bunların dışında da bir çok element bulunur.
+3. Bitkilerin büyümesi için bazı elementlerin yaşamsal önemi vardır. Bu tip elementlere elzem (çok gerekli) elementler denir.
+4. Bitkilerin gereksinim duyduğu elzem elementler makroelement ya da makrobesin adını alır.
+5. Bitkilerin oransal olarak çok az gereksinim duydukları elzem elementlere de mikroelement ya da mikrobesin elementleri denir.
+6. **Bitki gelişimi için gerekli olan elementlerden hangisi ortamda en az ise bitki diğer elementlerden ortamda en az bulunan elementin oranında yararlanır. Buna minimum yasası denir.**
+7. **Bitkiler için besin tuzları, doğal ekosistemlerde çoğunlukla çürüme ile yenilenir. (Madde döngüleri)**
+8. Birçok bitkinin tarımda hasat, toprağın mineral içeriğini azaltır. Tarımda verimin korunabilmesi için mineraller gübre hâlinde toprağa verilmelidir.
+
+### Makro Elementler
+C, H, O, N, P, S, K, Ca, Mg, Si
+
+#### Karbon
+1. Bitkinin fotosentezde kullandığı organik besinlerin temel elementidir.
+2. Karbondioksit hâlinde alınır, organik besinin yapısına katılır.
+
+#### Hidrojen
+1. Bitkinin fotosentez sırasında H ve elektron kaynağı olarak kullandığı maddelerden alır. Bu maddeler su ile fotosentetik organizmaların kullandığı H₂S ve H₂dir.
+2. Su, atmosferik atığın ana maddesidir.
+
+#### Azot
+1. Bitkinin en çok gereksinim duyduğu elementtir.
+2. Aminoasit, azotlu bazlar, ATP gibi maddelerin yapısında bulunur.
+3. Eksikliği, bitki gelişimini engeller. Yaşlı yaprakların sararmasına ve lekelenmesine neden olur.
+
+#### Potasyum
+1. Ozmotik basıncın düzenlenmesine etkilidir.
+2. Fotosentez ve solunum olaylarındaki bazı enzimlerin aktivasyonunda görev yapar.
+3. Potasyum içermeyen çözeltide yetiştirilen bitkilerde yapraklar sararır, büyüme azalır.
+
+#### Magnezyum
+1. Fotosentez ve solunum enzimlerinde aktivatör rolü üstlenir.
+2. Klorofilin yapısına katılır.
+3. Eksikliğinde protein sentezi engelleneceğinden büyüme geriler, onarım gecikir, yaprak damarları arasında lekelenmeler olur, yapraklar solar, kıvrılır, kurur ve ölür.
+
+#### Kükürt
+1. Bitkilerde sistein ve metiyonin aminoasitlerinin yapısına katılır. Bu iki aminoasit proteinler için olmazsa olmazdır. Eksikliği, bitkinin varlığı ile ilgili sorunlar ortaya çıkarır.
+
+#### Fosfor
+1. Bitkilerde zar yapılarına, nükleik asitlerin yapısına ve ATP yapısına katılan en önemli elementlerdendir.
+
+### Mikro Elementler
+Fe, Cu, Zn, Ni, Na, B, Mo (Molibden), Mn, Cl
+
+#### Klor
+1. Fotosentezde ve hücre bölünmelerinde görev alır.
+2. Eksikliğinde yapraklar kurur.
+
+#### Demir
+1. Klorofil sentezinde katalizördür.
+2. ETS elemanı olan stokromların yapısına katılır.
+3. Eksikliğinde yapraklar beyazlaşır, fotosetnez durur ve bitki ölür.
+
+#### Çinko
+1. Bitkideki birçok enzimin aktivatörüdür.
+2. Klorofil sentezinde rol oynar.
+3. Bitkilerde büyümeye engeldir. Şekli bozuk, küçük yaprakların oluşumuna neden olur.
+
