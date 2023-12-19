@@ -64,6 +64,9 @@ Anne, baba, çocuk, dede ve neneye verilenler zekat sayılmaz. Sadaka zekat değ
 
 Peygamber, Ebu Bekir ile hicret etti.
 
+**İnfak**: Maddi yardım. Zekât, fitre, fidye, sadakai cariye, kurban.\
+**Sadaka**: İnfak veya her türlü iyilik.
+
 ### Allah'ın Sıfatları
 | sıfat | Türkçesi |
 |-|-|

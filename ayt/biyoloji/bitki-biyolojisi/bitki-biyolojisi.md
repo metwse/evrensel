@@ -604,4 +604,3 @@ Fe, Cu, Zn, Ni, Na, B, Mo (Molibden), Mn, Cl
 1. Bitkideki birçok enzimin aktivatörüdür.
 2. Klorofil sentezinde rol oynar.
 3. Bitkilerde büyümeye engeldir. Şekli bozuk, küçük yaprakların oluşumuna neden olur.
-

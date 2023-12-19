@@ -72,4 +72,24 @@ flowchart TD
 4. Hücre çeperinin esnekliğini artırarak hücreye su alınmasını kolaylaştırır; çimlenme sırasında tohumun uyku hâlini bozar, tohumun çimlenmesini uyarır.
 5. Çimlenme sırasında tohum embriyosundan salınır. Endospermdeki ya da çeneklerdeki nişasta yıkımını sağlayan enzimleri aktive eder. (amilaz, dekstrinaz ve maltaz)
 6. Meyve oluşmasında ve büyümede etkilidir.
-7. *2024 AYT* ****
+7. *2024 AYT* **Giberellin, tarımda kullanılan önemli bir hormondur. Salkım seyreltmek, meyve büyümesi ve salkımlı meyvede tane iriliğini artırmak amacıyla kullanılır. İri tanecikli çekirdeksiz İzmir üzümü.**
+
+
+## Etilen
+1. Gaz hâlinde hormondur. (C₂H₄<sub>(g)</sub>)
+2. Bitkilerde kuraklık, su baskını (sel), mekanik basınç ve enfeksiyon gibi streslere yakın olarak üretilir.
+3. Yalnız üretildiği bitkiyi değil diğer bitkileri de etkiler.
+4. Çürümüş meyveden salınır. Bir çürük elma bir çuval elmayı çürütür.
+5. Kök büyümesini engeller, yaprakların dökülmesini uyarır.
+6. Meyvenin olgunlaşmasında etkilidir.
+7. Meyvedeki nişastaların ve organik asitlerin fruktoza dönüşümünü sağlayarak meyvelerin tatlanmasını yani olgunlaşmasını sağlar.
+8. Olgunlaşması tamamlanmış meyvelerde üretilen etilen diğer meyvelerinde önce olgunlaşmasını sonra çürümesini etkiler. 
+9. Karbondioksit, etilen birikinimi ve yeni etilen sentezini önler. Sonbaharda toplanan elmalar karbondioksitçe zengin depolarda tutulur ve çürümeleri önlenir. Böylece bir önceki yılın meyvesi bir sonraki yılın yazında tüketilebilir.
+10. *2024 AYT* **Genç fidanlar etilen etkisiyle 1. gövde uzamasının yavaşlaması, 2. gövdenin kalınlaşması, 3. gövdenin yatay olarak büyümesini sağlayan eğilme şeklinde gözlenen üçlü yanıt etkisi yapar. Bitkilerde programlanmış hücre ölümlerinde (apoptrosiz) neden olur. Örneğin tek yıllık bitkilerin çiçek açtıktan sonra ölmesi, sonbaharda yaprakların dökülmesi, ağaçların uç dallarında oluşan çürüyen meyvenin toprağa düşmesi.**
+11. Yüksek konsantrasyondaki oksin bitkinin uzamasını önler çünkü oksinin çok artması etilen üretimini artırır. Etilen uzamayı engeller.
+
+## Absisik Asit
+1. Tohum ve tomurcuklarda uyku hâlini devam ettirir.
+2. Uygun olmayan koşullarda tohumun çimlenmesini önler. 
+3. Kök, gövde ve yeşil meyvelerde üretilir.
+4. Susuzluk durumunda stomaların kapatılmasını ve suyun kaybedilmesini önler.
