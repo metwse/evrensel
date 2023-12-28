@@ -33,6 +33,7 @@
 5. Kapatma hücrelerinin turgor basıncı azalır.
 6. Kalın çeperler başlangıç konumlarına geri döner. Stoma açıklığı kapanır.
 
-Lentisel: Odunlu gövde ve dallarda, ölü hücrelerin oluşturduğu açılıp kapanma özelliği olmayan, sürekli açık hâlde bulunan, bitkinin dış dünyaya açıldığı kapıdır.
+Lentisel: Odunlu gövde ve dallarda, ölü hücrelerin oluşturduğu açılıp kapanma özelliği olmayan, sürekli açık hâlde bulunan, bitkinin dış dünyaya açıldığı kapıdır.\
+Lentiseller tek yıllık bitkilerin kurumaya yakın gövdelerinde epidermisten farklılaşarak oluşur.
 
 Hidatot (Su Savakları): Nemli ortam bitkilerinde dallama ile fazla suyun atıldığı açıklıklardır. Yaprak kenarlarında özelleşir.

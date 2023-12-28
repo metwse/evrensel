@@ -74,7 +74,7 @@ flowchart TD
 flowchart TD
     t[Bulunduğu yere göre meristem]
     t --> t-1["Primer (Uç, Apikal)"]
-    t --> t-2["Internal (Ara)"]
+    t --> t-2["Interkalar (Ara)"]
     t --> t-3["Sekonder (Yanal, Lateral)"]
 ```
 
@@ -85,7 +85,7 @@ flowchart TD
     t --> t-2[Sekonder]
 ```
 
-### Primer Meristem
+### Primer (Apikal, Uç) Meristem
 1. Bitkinin ömrü boyunca bölünme özelliğini kaybetmeyen hücrelerin meydana getirdiği dokudur.
 2. Kök ve gövde uçlarında, ayrıca dal uçlarında bulunur.
 3. Bulunduğu yerde boyca uzamayı sağlar. 
@@ -95,12 +95,12 @@ flowchart TD
 7. Kaliptra, müsilaj adı verilen özel bir salgı üretir. Kökün toprak içinde rahat ilerlemesini sağlar.
 8. Büyüme noktalarından alınan boyuna ya da enine kesitlerde dıştan içe doğru üç tabaka oluşur. *Histojen* adı verilen bu üç tabakalı doku bitkinin farklılaşarak diğer dokularını oluşturur.
 
-### Sekonder Meristem
+### Sekonder (Lateral, Yanal) Meristem
 ```mermaid
 flowchart TD
     t[Sekonder meristem]
-    t --> t-1[Vasküler kambiyum, Demet kambiyomu]
-    t --> t-2[Mantar kambiyumu, Fellogen]
+    t --> t-1["Vasküler kambiyum (Demet kambiyomu)"]
+    t --> t-2["Mantar kambiyumu (Fellogen)"]
 ```
 1. Kök ve gövdede bulunur, yapraklarda bulunmaz. 
 2. Kabiyum, bitkide enine büyümeyi sağlar.
@@ -109,6 +109,7 @@ flowchart TD
 5. **Sekonder meristem kök ve gövdede bulunur ancak yapraklarda yoktur.**
 6. Her yıl, biri ilk bahar diğeri son baharda iki defa mitoz geçirir ve yaş halkalarını oluşturur. Her yıl yeni iletim demetlerinin oluşumunu sağlar.
 7. **Mantar kambiyumu peridermis adı verilen mantar dokuyu oluşturur. Mantar doku, dıştan bitki yapılarını korur.**
+8. Değişmez doku hücreleri korteks parankimatik hücreleri yeniden bölünme yeteneği kazanarak sekonder meristemi oluşturur.
 
 ![sekonder meristem](img/sekonder-meristem.svg) 
 
@@ -135,7 +136,7 @@ flowchart TD
 ```
 1. Bitkinin her organında bulunur.
 2. Bitkinin çevre koşullarına uyumunu sağlamak için değişime uğrayabilir.
-3. Sonradan bölünme özelliği kazanarak sekonder meristemi oluşturabilir.
+3. Bölünme yeteneğine sahip değilken sonradan bölünme özelliği kazanarak sekonder meristemi oluşturabilir.
 4. Hücreleri canlı, bol stoplazmalı ve ince çeperlidir.
 5. Kofulları küçük, sayıca azdır.
 6. Hücreleri arasında az ya da çok hücreler arası boşluklar bulundurur. Bu boşluklar, hücreler arası sıvı ya da gaz maddeler bulundurabilir.
@@ -181,6 +182,7 @@ sukkulent (kurak ortam) bitkilerinde su depo edilir
 3. Hücre çeperlerinde selüloz ve pektin birikimiyle kalınlaşma, destek olayını sağlar.
 4. Şeftali, portakal, mandalina ve limonda varken vişne ve kirazda yoktur.
 5. Canlı ve kloroplastsız hücrelerden oluşur.
+6. Destek sağladığı organla beraber uzar.
 
 ![kollenkima doku](img/kollenkima-doku.svg) 
 
@@ -203,7 +205,7 @@ flowchart TD
 | Stoplazma ve çekirdek vardır. | Stoplazma ve çekirdek bulunmaz. |
 | Esnektir, gerilme ve kırılmalara karşı dayanıklıdır. | Esnek değildir. Kolay kırılır. |
 | Hücre çeperinde selüloz ve pektin birikir. | Hücre çeperinde selüloz ve lignin birikir. |
-| Bitkilerde genç kısımlarda bulunur. | Bitkilerde yaşlı (geç oluşan) yapılarda bulunur. (Meyve ve tohum kabuğu.) |
+| Bitkilerde genç kısımlarda bulunur. | Bitkilerde yaşlı (geç oluşan) yapılarda bulunur. (Meyve, yaprak ve tohum kabuğu.) |
 | Bulunduğu yere göre köşe ve levha kollenkiması şeklinde iki türde bulunur. | Yapılarına göre sklerenkima lifleri (keten - kenevir lifleri) ve taş hücreleri (fındık - ceviz gibi tohum kabukları) şeklinde iki türdür. |
 
 
@@ -224,11 +226,11 @@ flowchart TD
 7. Ksilem dokusunun en karakteristik elemanları trake be trakeitlerdir.\
 Trakeler: Çeperleri kalın, çapları geniş birçok hücrenin üst üste gelmesi be ara çeperlerinin erimesiyle oluşmuş borulardır. Asıl işlevleri madde taşınmasıdır.\
 Trakeitler: Çeperleri ince olan , ara çeperlerinin tam erimemesiyle iletimin yanında bitkiye desteklik sağlar. Su ve suda çözünmüş maddeler geçitler sayesinde hem yanal hem de yukarı doğru taşınır.\
-![trake ve trekeit](img/trake-ve-trekeit.svg) 
+![trake ve trakeit](img/trake-ve-trekeit.svg) 
 8. **Ksilemdeki madde taşınması floemdeki madde taşınmasına göre hızlı gerçekleşir.**
 
 
-### Floem (Soymuk Borusu)
+### Floem (Soymuk Borusu, Kalburlu Boru)
 1. Aynı boruda aynı anda çift yönlü madde taşınmaz.
 2. Glikoz, sükroz, aminoasitler, azotlu diğer moleküller, riboz, deoksiriboz, yağ asitleri, gliserol ve suda çözünmüş mineraller taşınır.
 3. Floem hücreleri ince çeperli ve canlıdır.
@@ -291,7 +293,7 @@ Canlı, sürekli açıktır.
 9. **Kök epidermis hücreleri kutikula ve stoma oluşturmaz.**
 
 #### Emergensler (Dikenler)
-1. Tüylerden farkı tüy yapısındaki epidermis hücreleri emergens oluşumu sırasında epidermisle parankimanın, bazen iletim dokunun birlikteliğiyle oluşmasıdır. 
+1. Tüylerden farkı tüy yapısındaki epidermis hücreleri emergens oluşumu sırasında epidermisle parankimanın, bazen iletim dokunun birlikteliğiyle oluşmasıdır.
 2. Korunma (gül, akasya), tutunma (sarılıcı bitki, gövde sülükleri) görevlerini yapar.
 
 ### Peridermis (Mantar Doku)
@@ -330,6 +332,7 @@ Canlı, sürekli açıktır.
 3. Salgılar; savunma (koruma) ve tozlaşmayı destekleme, çiçeği böceğe cazip kılma görevlerini üstlenen organik maddelerdir.
 4. Salgı hücreleri; canlı, bol stoplazmalı, metabolizması yüksek hücrelerdir.
 5. Bol sentez yapar. Golgi'si (vezikül oluşturur) gelişmiş ve sayıca fazladır.
+6. Bitkilerde salgılar bitki metabolizmasında kullanılmaz.
 
 ## Salgı Maddelerinin Bitkiye Sağladığı Yararlar
 1. Böcekçil bitkilerin yaprakları tarafından salgılanan sıvılar hücre dışı sindirim enzimi bulundurur ve böcek proteinlerinin sindirilmesini sağlar.

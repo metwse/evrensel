@@ -168,3 +168,14 @@ Müslüman olan ilk Türk devleti *İdil (Volga) Bulgar Devleti*'dir.
 **Zahid**: Dünyaya rağbet etmeyen, kendini ahiret ve Allah'a veren, mala mülke şöhrete değer vermeyen kişi.
 
 **Semâ**: Mevlevilikte dönme.
+
+
+
+# 12.4 Alevilik - Bektaşilik
+**Gülbank**: Hep bir ağızdan yapılan dua.\
+**Musahiplik**: İki evli çift, dedenin karşısına çıkarak birbirinin musahipi olduğunu ilan eder. Musahip olan kişiler, dünya ve ahiret kardeşi olur.
+
+
+
+# 12.5 Güncel Dinî Meseleler
+**İçtihat** (Müçtehit): Belirli bir dönemdeki din bilginlerinin bir konuda fikir birliğine varması.
