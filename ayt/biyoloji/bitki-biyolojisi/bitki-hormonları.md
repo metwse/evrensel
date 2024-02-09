@@ -88,8 +88,16 @@ flowchart TD
 10. *2024 AYT* **Genç fidanlar etilen etkisiyle 1. gövde uzamasının yavaşlaması, 2. gövdenin kalınlaşması, 3. gövdenin yatay olarak büyümesini sağlayan eğilme şeklinde gözlenen üçlü yanıt etkisi yapar. Bitkilerde programlanmış hücre ölümlerinde (apoptrosiz) neden olur. Örneğin tek yıllık bitkilerin çiçek açtıktan sonra ölmesi, sonbaharda yaprakların dökülmesi, ağaçların uç dallarında oluşan çürüyen meyvenin toprağa düşmesi.**
 11. Yüksek konsantrasyondaki oksin bitkinin uzamasını önler çünkü oksinin çok artması etilen üretimini artırır. Etilen uzamayı engeller.
 
+
 ## Absisik Asit
 1. Tohum ve tomurcuklarda uyku hâlini devam ettirir.
 2. Uygun olmayan koşullarda tohumun çimlenmesini önler. 
 3. Kök, gövde ve yeşil meyvelerde üretilir.
 4. Susuzluk durumunda stomaların kapatılmasını ve suyun kaybedilmesini önler.
+
+
+## Florijen
+1. Bitkilerde çiçeklenmeyi sağlar.
+2. Bu hormon bitkinin uzun ya da kısa gece bitkisi olmasına bağlı salgılanır.
+3. Kısa gece bitkisinde 8 saatlik uykuda, uzun gece bitkisinde 16 saatlik uykuda salgılanır.
+4. Kısa gece be uzun gece bitkileri aşılandıklarında her gece uzunluğunda bit bitkiden salınan filorijen floemde diğer bitkiye taşınacağı için aşılanmış bitkide iki farklı çiçek açar.

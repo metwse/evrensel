@@ -1,3 +1,11 @@
+**Farz**: Farz-ı ayn (Herkesin yapmak zorunda olduğu farzlar), farz-ı kifayet (Toplumun bir kesiminin yapmasının yeterli olduğu farzlar.)\
+**Vacip**: Sünnetten daha kuvvetli, Kuran'da geçen ancak farz kadar emir değil. (Sadece Hanefilerde var. Vitir namazı, bayram namazı ve kurban kesmek)\
+**Sünnet**: Sünnet-i müekkede (Peygamberin çoğunlukla yaptığı, nadiren yapmadığı.), Sünnet-i gayri müekkede (Peygamberin nadiren yaptığı sünnet.)\
+**Mendup**: (müstehap) Dinen emredilmediği hâlde yapılınca sevap kazandıran ayet.\
+**Mübah**: (helal, caiz) Dinin serbest bıraktığı alan.\
+Sünnet ve mendup ibadetler nafiledir.
+
+
 Kuran 30 cüz, cüz 20 sayfa.
 
 **İkrar**: İmanı dille onaylamak\
@@ -44,6 +52,12 @@ akılcılar <= mutezile === maturidi === eşariler => vahiyciler (nass)
 
 <= sünnet === vacip === farz =>
 
+**Fıkıh**: İbadetleri inceleyen bilim dalı, İslam hukuku. (Ebu Hanife)\
+**Kelam**: İslam'ın inançla ilgili boyutunu inceleyen bilim dalı. (İmam Maturidi)\
+**Tecvit**: Kuran'ı doğru ve güzel okumak.\
+**Hatim**: Kuran'ı baştan sona okumak.\
+**Tasavvuf**: Allah'ı çokça anmak, nefis terbiyesi. (Ahmet Yesevi)
+
 **Sadaka-ı Cariye**, *sünnet*: Bir kurum ya da yapı yaptırıldığında (çeşme gibi) sürekli devam eden sadakadır.\
 **Fitre (Sadakai Fıtır)**, *vacip*: Ramazan ayında ailede kişi başına verilen sadaka.\
 **Fidye**, *vacip*: Ramazan ayında kalıcı hastalık gibi durumlardan dolayı oruç tutamayanların verdiği sadakadır.
@@ -51,11 +65,8 @@ akılcılar <= mutezile === maturidi === eşariler => vahiyciler (nass)
 **Zekat**, *farz*: Farz olan yardım. Zenginin malından 40'da birini fakire doğrudan vermesi. Zekat kuruma, camiye vs. verilemez.\
 Anne, baba, çocuk, dede ve neneye verilenler zekat sayılmaz. Sadaka zekat değildir.
 
-**Fıkıh**: İbadetleri inceleyen bilim dalı, İslam hukuku. (Ebu Hanife)\
-**Kelam**: İslam'ın inançla ilgili boyutunu inceleyen bilim dalı. (İmam Maturidi)\
-**Tecvit**: Kuran'ı doğru ve güzel okumak.\
-**Hatim**: Kuran'ı baştan sona okumak.\
-**Tasavvuf**: Allah'ı çokça anmak, nefis terbiyesi. (Ahmet Yesevi)
+**İnfak**: Maddi yardım. Zekât, fitre, fidye, sadakai cariye, kurban.\
+**Sadaka**: İnfak veya her türlü iyilik.
 
 **Kadir Gecesi**: Kuran'ın indirilmeye başlandığı gece.\
 **Miraç Kandili**: Gece yolculuğu ile peygamberin Mescidi Haram'dan Mescidi Aksa'ya götürülmesi.\
@@ -63,9 +74,6 @@ Anne, baba, çocuk, dede ve neneye verilenler zekat sayılmaz. Sadaka zekat değ
 **Regaip Kandili**, **Berat Kandili**
 
 Peygamber, Ebu Bekir ile hicret etti.
-
-**İnfak**: Maddi yardım. Zekât, fitre, fidye, sadakai cariye, kurban.\
-**Sadaka**: İnfak veya her türlü iyilik.
 
 ### Allah'ın Sıfatları
 | sıfat | Türkçesi |
@@ -114,6 +122,14 @@ Peygamber, Ebu Bekir ile hicret etti.
 4. **Minyatür**: Resim benzeri sanat.
 
 
+### Zarurat-ı Diniye (Dinî Zorunluluklar)
+1. Can
+2. Mal
+3. Akıl
+4. Din (Batıllardan kaçınması, dinin doğru kaynaklardan öğrenilmesi, inanç özgürlüğü vs.)
+5. Nesil (Zina vs.)
+
+
 
 # 12.1 Din - Bilim İlişkisi
 **Sünnetullah**: Doğa yasaları\
@@ -144,6 +160,7 @@ Müslüman olan ilk Türk devleti *İdil (Volga) Bulgar Devleti*'dir.
 **Fütüvvet**: Gençlik, kahramanlık, cömertlik
 
 **İcma**: Dini bir konuda İslam alimlerin fikir birliği içinde olması.
+
 
 ### Türklerin Müslüman Olmasında Etkili Gruplar
 1. Müslüman komutanlar
