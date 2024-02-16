@@ -1,3 +1,8 @@
+**Selim akıl**: Ayette düşünmekten bahsediyorsa\
+**Salim duyular**: Ayette görmez misiniz, duymaz mısınız gibi duyulardan bahsediyorsa\
+**Haber-i sadık**: Allah'ın vahiy ya da kitap göndermesinden bahsediyorsa. Doğruluğundan emin olunan haber. Vahiy ve sünnet. **Mütevatır** haber (yalan olması olanaksız haber).
+
+
 **Farz**: Farz-ı ayn (Herkesin yapmak zorunda olduğu farzlar), farz-ı kifayet (Toplumun bir kesiminin yapmasının yeterli olduğu farzlar.)\
 **Vacip**: Sünnetten daha kuvvetli, Kuran'da geçen ancak farz kadar emir değil. (Sadece Hanefilerde var. Vitir namazı, bayram namazı ve kurban kesmek)\
 **Sünnet**: Sünnet-i müekkede (Peygamberin çoğunlukla yaptığı, nadiren yapmadığı.), Sünnet-i gayri müekkede (Peygamberin nadiren yaptığı sünnet.)\
@@ -9,7 +14,9 @@ Sünnet ve mendup ibadetler nafiledir.
 Kuran 30 cüz, cüz 20 sayfa.
 
 **İkrar**: İmanı dille onaylamak\
-**Tasdik**: İmanı kalple onaylamak
+**Tasdik**: İmanı kalple onaylamak\
+**Taklit**: Sorgulamadan imanı benimsemek\
+**Tahkik**: Gerçekten üzerinde düşünerek imanı benimsemek
 
 **İfrat**: Çok aşırılık\
 **İtidal**: (Mutedil) Denge\
@@ -29,7 +36,8 @@ Kuran 30 cüz, cüz 20 sayfa.
 **Tecessüs**: Başkasının gizlisini aramak\
 **Suizan**: Birinin davranışlarını kötü yorumlamak × **Hüsnüzan**: Davranışlarını olumlamak\
 **Fitne**: İnsanların arasını bozmak\
-**Tamahkârlık**: Aç gözlülük
+**Tamahkârlık**: Aç gözlülük\
+**Muemelat**: İnsanlar arası ilişkiler, sosyal hayatla ilgili ilişkiler
 
 **Uluhiyet**: İlahlık mertebe\
 **Ubutiyet**: Kulluk mertebesi
@@ -38,7 +46,7 @@ Kuran 30 cüz, cüz 20 sayfa.
 \- **Nebi**: Kendisine kitap verilmemiş peygamber\
 \- **Rasul**: Kendisine kitap verilmiş peygamber
 
-**Salih Amel**: İbadet
+**Salih amel**: İbadet
 
 **Tevhit**: Allah'ın bir olduğuna inanma\
 **Müşrik**: (Şirk) Allah'ın yanında başka ilaha inanma ya da sadece başka bir ilaha inanmak\
@@ -63,7 +71,7 @@ akılcılar <= mutezile === maturidi === eşariler => vahiyciler (nass)
 **Fidye**, *vacip*: Ramazan ayında kalıcı hastalık gibi durumlardan dolayı oruç tutamayanların verdiği sadakadır.
 **Kurban**, *vacip*: Kurban bayramının sadece ilk üç gününde kurban kesilebilir.\
 **Zekat**, *farz*: Farz olan yardım. Zenginin malından 40'da birini fakire doğrudan vermesi. Zekat kuruma, camiye vs. verilemez.\
-Anne, baba, çocuk, dede ve neneye verilenler zekat sayılmaz. Sadaka zekat değildir.
+Anne, baba, çocuk, torun, dede ve neneye verilenler zekat sayılmaz. Sadaka zekat değildir.
 
 **İnfak**: Maddi yardım. Zekât, fitre, fidye, sadakai cariye, kurban.\
 **Sadaka**: İnfak veya her türlü iyilik.
